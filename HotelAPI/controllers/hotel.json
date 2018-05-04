@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Best Western Plus Grand Howard",
+        "star": 1,
+        "code": 175141,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "CHAROEN-RAJ ROAD BANGKHLO BANGKORLEAM Bangkok",
+        "locat": "Sathorn"
+    },
+    {
+        "name": "Best Western Mayfair Suites",
+        "star": 3,
+        "code": 175142,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "PHETHBURI SOI 13PHETHBURI RD RACHTHEVEE Bangkok",
+        "locat": "Pratunam-Petchburi"
+    },
+    {
+        "name": "ibis Bangkok Riverside",
+        "star": 2,
+        "code": 175143,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "CHAROENNAKORN 17 RD SOUTH BANGLAMPHU KLONGSAN Bangkok",
+        "locat": "Riverside"
+    },
+    {
+        "name": "ibis Bangkok Sathorn",
+        "star": 0,
+        "code": 175144,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "SOI NGAM DUPHLI  RAMA IV  SATHORN Bangkok",
+        "locat": "Sathorn"
+    },
+    {
+        "name": "Ibis  Bangkok Siam",
+        "star": 3,
+        "code": 175145,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "RAMA RD WANGMAI PATHUMWAN Bangkok",
+        "locat": "Siam-Ratchadamri"
+    },
+    {
+        "name": "ibis  Bangkok Nana",
+        "star": 3,
+        "code": 175146,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "SUKHUMVIT ROAD SOI 4 KLONGTOEY Bangkok",
+        "locat": "Sukhumvit"
+    },
+    {
+        "name": " Bangkok Hotel Lotus Sukhumvit",
+        "star": 4,
+        "code": 175147,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "SOI DAENG UDOM SUKHUMVIT 33 KLONGTON Bangkok",
+        "locat": "Sukhumvit"
+    },
+    {
+        "name": "Mercure  Bangkok Siam",
+        "star": 4,
+        "code": 175148,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "RAMA 1 RD WANGMAI PATHUMWAN  Bangkok",
+        "locat": "Siam-Ratchadamri"
+    },
+    {
+        "name": "Sofitel So  Bangkok",
+        "star": 5,
+        "code": 175149,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "NORTH SATHORN ROAD BANGRAK Bangkok",
+        "locat": "Sathorn"
+    },
+    {
+        "name": "Novotel  Bangkok on Siam Square",
+        "star": 4,
+        "code": 175150,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "RAMA I ROAD SIAM SQUARE SOI Bangkok",
+        "locat": "Siam-Ratchadamri"
+    },
+    {
+        "name": "Sofitel  Bangkok Sukhumvit",
+        "star": 5,
+        "code": 175151,
+        "img": "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg",
+        "addr": "SUKHUMVIT 13-15 SUKHUMVIT RDKLONGTOEY NUAWATTANA Bangkok",
+        "locat": "Sukhumvit"
+    }
+]

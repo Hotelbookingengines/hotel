@@ -1,0 +1,75 @@
+
+-----search star value----
+{ '$match':
+   { 'hotels.star': { '$in': [Array] },
+     'hotels.locat': { '$in': [Array] },
+     'facility.amenities': { '$in': [Array] } } }
+-----search star value end----
+
+
+ 
+   
+   { "$group": { 
+                "_id": null,
+                "max": { "$max": "$price" }, 
+                "min": { "$min": "$price" } 
+              } 
+            } 
+
+            {"$group" : 
+                   { _id: "$star", count: {$sum:1} }
+            }
+
+            {"$group" : 
+                   { _id: "$locat", count: {$sum:1} }
+            }
+
+                var strArr = [];
+    if(req.query.star){
+        var arr = (req.query.star).split(',');
+        strArr = arr.map(function(e){return e.toString()});
+    }else{
+        strArr = ['0','1','2','3','4','5'];
+    }
+
+
+exports.hotelFilter = function (req, res, callback) {
+    async.parallel([
+        hotelPriceFilter,
+        hotelLocFilter,
+        hotelPriceFilter 
+    ],
+        // optional callback
+        function (err, results) {
+            console.log("--------------------------");
+            console.log(results);
+            console.log("--------------------------");
+            //res.render(results);
+            // the results array will equal ['one','two'] even though
+            // the second function had a shorter timeout.
+        });
+
+};
+
+ <div className="col-md-4">
+                <div className="row-md-2">
+                 Min price  <input onChange={this.handleStarChange} type="text" name="price" value={priceFilter.min} />
+                </div>
+                <div className="row-md-2">
+                 Max price  <input onChange={this.handleStarChange} type="text" name="price" value={priceFilter.max} />
+                 </div> 
+                </div>
+
+                            {
+                $match: {
+                    "star": { "$in": strArr }
+                }
+            },
+
+Yogeshs-MacBook-Air:bin yogeshpaghdal$ mongoimport --help
+mongoimport -d 'hotels' -c '24x7roomsCities' --type csv --headerline --file /Users/yogeshpaghdal/Desktop/HotelAPI/controllers/24x7rooms/static_data_cities.csv
+mongoimport -d 'hotels' -c '24x7roomsNationality' --type csv --headerline --file /Users/yogeshpaghdal/Desktop/HotelAPI/controllers/24x7rooms/static_data_nationality.csv
+mongoimport -d 'hotels' -c '24x7roomsHotels' --type csv --headerline --file /Users/yogeshpaghdal/Desktop/HotelAPI/controllers/24x7rooms/static_data_hotels.csv
+            
+            
+            
