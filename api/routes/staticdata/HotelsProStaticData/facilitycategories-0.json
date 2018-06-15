@@ -1,0 +1,357 @@
+[
+  {
+    "code": "146",
+    "name": "Yoga",
+    "updated_at": "2016-03-10T14:23:12.533129Z"
+  },
+  {
+    "code": "145",
+    "name": "Winter sports",
+    "updated_at": "2016-03-10T14:23:12.528317Z"
+  },
+  {
+    "code": "144",
+    "name": "Watersports",
+    "updated_at": "2016-03-10T14:23:12.523510Z"
+  },
+  {
+    "code": "143",
+    "name": "View",
+    "updated_at": "2016-03-10T14:23:12.518677Z"
+  },
+  {
+    "code": "142",
+    "name": "TV",
+    "updated_at": "2016-03-10T14:23:12.513725Z"
+  },
+  {
+    "code": "141",
+    "name": "Transfer",
+    "updated_at": "2016-03-10T14:23:12.508975Z"
+  },
+  {
+    "code": "140",
+    "name": "Tennis",
+    "updated_at": "2016-03-10T14:23:12.503837Z"
+  },
+  {
+    "code": "13f",
+    "name": "Technology",
+    "updated_at": "2016-03-10T14:23:12.498999Z"
+  },
+  {
+    "code": "13e",
+    "name": "Tanning",
+    "updated_at": "2016-03-10T14:23:12.494200Z"
+  },
+  {
+    "code": "13d",
+    "name": "Swimming Pool",
+    "updated_at": "2016-03-10T14:23:12.489437Z"
+  },
+  {
+    "code": "13c",
+    "name": "Swimming",
+    "updated_at": "2016-03-10T14:23:12.484673Z"
+  },
+  {
+    "code": "13b",
+    "name": "Surcharge",
+    "updated_at": "2016-03-10T14:23:12.479728Z"
+  },
+  {
+    "code": "13a",
+    "name": "Staff",
+    "updated_at": "2016-03-10T14:23:12.474883Z"
+  },
+  {
+    "code": "139",
+    "name": "Sports",
+    "updated_at": "2016-03-10T14:23:12.470062Z"
+  },
+  {
+    "code": "138",
+    "name": "Spa",
+    "updated_at": "2016-03-10T14:23:12.465255Z"
+  },
+  {
+    "code": "137",
+    "name": "Soundproof",
+    "updated_at": "2016-03-10T14:23:12.460344Z"
+  },
+  {
+    "code": "136",
+    "name": "Smoking",
+    "updated_at": "2016-03-10T14:23:12.454979Z"
+  },
+  {
+    "code": "135",
+    "name": "Sleep Comfort",
+    "updated_at": "2016-03-10T14:23:12.450171Z"
+  },
+  {
+    "code": "134",
+    "name": "Sleep comfort",
+    "updated_at": "2016-03-10T14:23:12.445286Z"
+  },
+  {
+    "code": "133",
+    "name": "Shuttle",
+    "updated_at": "2016-03-10T14:23:12.440333Z"
+  },
+  {
+    "code": "132",
+    "name": "Shops",
+    "updated_at": "2016-03-10T14:23:12.435443Z"
+  },
+  {
+    "code": "131",
+    "name": "Security ",
+    "updated_at": "2016-03-10T14:23:12.430673Z"
+  },
+  {
+    "code": "130",
+    "name": "Security",
+    "updated_at": "2016-03-10T14:23:12.425902Z"
+  },
+  {
+    "code": "12f",
+    "name": "Room Type",
+    "updated_at": "2016-03-10T14:23:12.421137Z"
+  },
+  {
+    "code": "12e",
+    "name": "Room type",
+    "updated_at": "2016-03-10T14:23:12.416384Z"
+  },
+  {
+    "code": "12d",
+    "name": "Room Service",
+    "updated_at": "2016-03-10T14:23:12.411620Z"
+  },
+  {
+    "code": "12c",
+    "name": "Room amenities",
+    "updated_at": "2016-03-10T14:23:12.406831Z"
+  },
+  {
+    "code": "12b",
+    "name": "Restaurant",
+    "updated_at": "2016-03-10T14:23:12.401848Z"
+  },
+  {
+    "code": "12a",
+    "name": "Rental",
+    "updated_at": "2016-03-10T14:23:12.397003Z"
+  },
+  {
+    "code": "129",
+    "name": "Reception services",
+    "updated_at": "2016-03-10T14:23:12.392233Z"
+  },
+  {
+    "code": "128",
+    "name": "Pet Policy",
+    "updated_at": "2016-03-10T14:23:12.387010Z"
+  },
+  {
+    "code": "127",
+    "name": "Pay at hotel",
+    "updated_at": "2016-03-10T14:23:12.382146Z"
+  },
+  {
+    "code": "126",
+    "name": "Parking",
+    "updated_at": "2016-03-10T14:23:12.377016Z"
+  },
+  {
+    "code": "125",
+    "name": "Outdoors",
+    "updated_at": "2016-03-10T14:23:12.372239Z"
+  },
+  {
+    "code": "124",
+    "name": "On Request",
+    "updated_at": "2016-03-10T14:23:12.367450Z"
+  },
+  {
+    "code": "123",
+    "name": "Nightlife",
+    "updated_at": "2016-03-10T14:23:12.362648Z"
+  },
+  {
+    "code": "122",
+    "name": "Multimedia",
+    "updated_at": "2016-03-10T14:23:12.357898Z"
+  },
+  {
+    "code": "121",
+    "name": "Kitchen",
+    "updated_at": "2016-03-10T14:23:12.353143Z"
+  },
+  {
+    "code": "120",
+    "name": "Internet",
+    "updated_at": "2016-03-10T14:23:12.348358Z"
+  },
+  {
+    "code": "11f",
+    "name": "Hotel Type",
+    "updated_at": "2016-03-10T14:23:12.343473Z"
+  },
+  {
+    "code": "11e",
+    "name": "Health & Safety",
+    "updated_at": "2016-03-10T14:23:12.338618Z"
+  },
+  {
+    "code": "11d",
+    "name": "Golf",
+    "updated_at": "2016-03-10T14:23:12.333701Z"
+  },
+  {
+    "code": "11c",
+    "name": "Furniture",
+    "updated_at": "2016-03-10T14:23:12.328840Z"
+  },
+  {
+    "code": "11b",
+    "name": "Free",
+    "updated_at": "2016-03-10T14:23:12.323925Z"
+  },
+  {
+    "code": "11a",
+    "name": "Food",
+    "updated_at": "2016-03-10T14:23:12.319077Z"
+  },
+  {
+    "code": "119",
+    "name": "Extreme",
+    "updated_at": "2016-03-10T14:23:12.314052Z"
+  },
+  {
+    "code": "118",
+    "name": "Entertainment",
+    "updated_at": "2016-03-10T14:23:12.309100Z"
+  },
+  {
+    "code": "117",
+    "name": "Disability",
+    "updated_at": "2016-03-10T14:23:12.304301Z"
+  },
+  {
+    "code": "116",
+    "name": "Design",
+    "updated_at": "2016-03-10T14:23:12.299431Z"
+  },
+  {
+    "code": "115",
+    "name": "Cooling / Heating",
+    "updated_at": "2016-03-10T14:23:12.294572Z"
+  },
+  {
+    "code": "114",
+    "name": "Concept",
+    "updated_at": "2016-03-10T14:23:12.289704Z"
+  },
+  {
+    "code": "113",
+    "name": "Complimentary - Free",
+    "updated_at": "2016-03-10T14:23:12.284852Z"
+  },
+  {
+    "code": "112",
+    "name": "Cleaning",
+    "updated_at": "2016-03-10T14:23:12.279929Z"
+  },
+  {
+    "code": "111",
+    "name": "Children",
+    "updated_at": "2016-03-10T14:23:12.275112Z"
+  },
+  {
+    "code": "110",
+    "name": "children",
+    "updated_at": "2016-03-10T14:23:12.270229Z"
+  },
+  {
+    "code": "10f",
+    "name": "Child Policy",
+    "updated_at": "2016-03-10T14:23:12.265343Z"
+  },
+  {
+    "code": "10e",
+    "name": "Check out",
+    "updated_at": "2016-03-10T14:23:12.260514Z"
+  },
+  {
+    "code": "10d",
+    "name": "Check in",
+    "updated_at": "2016-03-10T14:23:12.255473Z"
+  },
+  {
+    "code": "10c",
+    "name": "Business Facilities",
+    "updated_at": "2016-03-10T14:23:12.250680Z"
+  },
+  {
+    "code": "10b",
+    "name": "Building",
+    "updated_at": "2016-03-10T14:23:12.245858Z"
+  },
+  {
+    "code": "10a",
+    "name": "Breakfast",
+    "updated_at": "2016-03-10T14:23:12.240706Z"
+  },
+  {
+    "code": "109",
+    "name": "Beds",
+    "updated_at": "2016-03-10T14:23:12.235904Z"
+  },
+  {
+    "code": "108",
+    "name": "Beach Activities",
+    "updated_at": "2016-03-10T14:23:12.231072Z"
+  },
+  {
+    "code": "107",
+    "name": "Beach",
+    "updated_at": "2016-03-10T14:23:12.226286Z"
+  },
+  {
+    "code": "106",
+    "name": "Bathroom",
+    "updated_at": "2016-03-10T14:23:12.221501Z"
+  },
+  {
+    "code": "105",
+    "name": "Bar",
+    "updated_at": "2016-03-10T14:23:12.216650Z"
+  },
+  {
+    "code": "104",
+    "name": "Banquet",
+    "updated_at": "2016-03-10T14:23:12.211665Z"
+  },
+  {
+    "code": "103",
+    "name": "Area",
+    "updated_at": "2016-03-10T14:23:12.206811Z"
+  },
+  {
+    "code": "102",
+    "name": "Alcohol",
+    "updated_at": "2016-03-10T14:23:12.201968Z"
+  },
+  {
+    "code": "101",
+    "name": "Airport",
+    "updated_at": "2016-03-10T14:23:12.197160Z"
+  },
+  {
+    "code": "100",
+    "name": "Activities",
+    "updated_at": "2016-03-10T14:23:12.191929Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "an",
+    "name": "Antarctica",
+    "updated_at": "2016-02-09T09:29:32.922109Z"
+  },
+  {
+    "code": "oc",
+    "name": "Oceania",
+    "updated_at": "2016-02-09T09:29:32.906499Z"
+  },
+  {
+    "code": "sa",
+    "name": "South America",
+    "updated_at": "2016-02-09T09:29:32.950183Z"
+  },
+  {
+    "code": "na",
+    "name": "North America",
+    "updated_at": "2016-02-09T09:29:32.897742Z"
+  },
+  {
+    "code": "eu",
+    "name": "Europe",
+    "updated_at": "2016-02-09T09:29:32.940779Z"
+  },
+  {
+    "code": "af",
+    "name": "Africa",
+    "updated_at": "2016-02-09T09:29:32.870807Z"
+  },
+  {
+    "code": "as",
+    "name": "Asia",
+    "updated_at": "2016-02-09T09:29:32.931676Z"
+  }
+]

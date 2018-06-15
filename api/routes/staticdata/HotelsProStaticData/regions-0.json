@@ -1,0 +1,8002 @@
+[
+  {
+    "kind": "island",
+    "code": "16f9",
+    "name": "Marie Galante",
+    "country": "gp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f8",
+    "name": "Cost region",
+    "country": "ke",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f7",
+    "name": "Central",
+    "country": "ke",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f6",
+    "name": "Quang Binh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f5",
+    "name": "Quang Tri",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f4",
+    "name": "Quang Nam",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f3",
+    "name": "Quang Ngai",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f2",
+    "name": "Binh Dinh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f1",
+    "name": "Ninh Thuan",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16f0",
+    "name": "Kon Tum",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ef",
+    "name": "Gia Lai",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ee",
+    "name": "Yen Bai",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ed",
+    "name": "Son La",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ec",
+    "name": "Lai Chau",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16eb",
+    "name": "Vinh Phuc",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ea",
+    "name": "Hai Duong",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e9",
+    "name": "Dien Bien",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e8",
+    "name": "Phu Tho",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e7",
+    "name": "Tuyen Quang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e6",
+    "name": "Bac Giang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e5",
+    "name": "Lang Son",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e4",
+    "name": "Bac Kan",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e3",
+    "name": "Thai Nguyen",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e2",
+    "name": "Cao Bang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e1",
+    "name": "Ha Giang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16e0",
+    "name": "Hoa Binh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16df",
+    "name": "Ha Tinh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16de",
+    "name": "Nghe An",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16dd",
+    "name": "Ca Mau",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16dc",
+    "name": "Bac Lieu",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16db",
+    "name": "Soc Trang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16da",
+    "name": "Hau Giang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d9",
+    "name": "An Giang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d8",
+    "name": "Dong Thap",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d7",
+    "name": "Vinh Long",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d6",
+    "name": "Ben Tre",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d5",
+    "name": "Tien Giang",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d4",
+    "name": "Thanh Hoa",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d3",
+    "name": "Long An",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d2",
+    "name": "Dong Nai",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d1",
+    "name": "Tay Ninh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16d0",
+    "name": "Binh Phuoc",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16cf",
+    "name": "Dak Nong",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ce",
+    "name": "Dak Lak",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16cd",
+    "name": "Tra Vinh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16cc",
+    "name": "Nam Dinh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16cb",
+    "name": "Ha Nam",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ca",
+    "name": "Thai Binh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c9",
+    "name": "Hung Yen",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c8",
+    "name": "Ferizaj County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c7",
+    "name": "Prizren County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c6",
+    "name": "Pristina County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c5",
+    "name": "Peja County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c4",
+    "name": "Mitrovica County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c3",
+    "name": "Gjilan County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c2",
+    "name": "Gjakovë County",
+    "country": "xk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c1",
+    "name": "Berat County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16c0",
+    "name": "Dibër County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16bf",
+    "name": "Elbasan County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16be",
+    "name": "Fier County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16bd",
+    "name": "Lezhë County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16bc",
+    "name": "Kukës County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16bb",
+    "name": "Korçë County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ba",
+    "name": "Gjirokastër County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b9",
+    "name": "Vlorë County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b8",
+    "name": "Takeo Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b7",
+    "name": "Stung Treng Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b6",
+    "name": "Ratanakiri Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b5",
+    "name": "Preah Vihear Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b4",
+    "name": "Pailin Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b3",
+    "name": "Mondulkiri Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.147418Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b2",
+    "name": "Oddar Meanchey Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b1",
+    "name": "Kampong Thom Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.169394Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16b0",
+    "name": "Kampong Chhnang Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.161744Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16af",
+    "name": "Kampong Cham Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.154587Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "16ae",
+    "name": "Graciosa Island",
+    "country": "es",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ad",
+    "name": "Kvemo Kartly",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ac",
+    "name": "Tbilisi Province",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16ab",
+    "name": "Samckhe Javakheti",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16aa",
+    "name": "Kakheti",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a9",
+    "name": "Mtkheta-Mtianeti",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a8",
+    "name": "Samegrelo Zveno-Svaneti",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a7",
+    "name": "Racha",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a6",
+    "name": "Shida Kartli",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a5",
+    "name": "Imereti",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a4",
+    "name": "Guria",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "16a3",
+    "name": "Ajara",
+    "country": "ge",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "16a2",
+    "name": "Motiti Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "16a1",
+    "name": "Arapawa Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "16a0",
+    "name": "Matakana Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "169f",
+    "name": "Papua Region",
+    "country": "pg",
+    "updated_at": "2016-02-09T09:31:46.184955Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "169e",
+    "name": "Highlands Region",
+    "country": "pg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "169d",
+    "name": "Momase Region",
+    "country": "pg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "169c",
+    "name": "New Britain Island",
+    "country": "pg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "169b",
+    "name": "Chachoengsao Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "169a",
+    "name": "Nakhonpathom Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1699",
+    "name": "Uttaradit Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1698",
+    "name": "Sa Kaeo Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1697",
+    "name": "Pathumthani Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1696",
+    "name": "Samut Sakhon Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1695",
+    "name": "Buyukada",
+    "country": "tr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1694",
+    "name": "Vidzeme",
+    "country": "lv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1693",
+    "name": "Brava",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1692",
+    "name": "Fogo",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1691",
+    "name": "Santiago",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1690",
+    "name": "Maio",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168f",
+    "name": "Boa Vista",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168e",
+    "name": "Sal",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168d",
+    "name": "Sao Nicolau",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168c",
+    "name": "Santa Luzia",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168b",
+    "name": "Sao Vicente",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "168a",
+    "name": "Santo Antao",
+    "country": "cv",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1689",
+    "name": "Temotu Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1688",
+    "name": "Rennel and Bellona Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1687",
+    "name": "Makira Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1686",
+    "name": "Malaita Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1685",
+    "name": "Isabel Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1684",
+    "name": "Choiseul Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1683",
+    "name": "Western Province",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1682",
+    "name": "Guadalcanal",
+    "country": "sb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1681",
+    "name": "Ang Thong Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1680",
+    "name": "Chainat Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "167f",
+    "name": "Singburi Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "167e",
+    "name": "Koh Libong",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "167d",
+    "name": "Lopburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.128362Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "167c",
+    "name": "Nelson Region",
+    "country": "nz",
+    "updated_at": "2016-02-09T09:31:46.177782Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "167b",
+    "name": "Bolikhamxay",
+    "country": "la",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "167a",
+    "name": "Gyeongsangbuk-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1679",
+    "name": "Chungcheongbuk-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1678",
+    "name": "Chungcheongnam-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1677",
+    "name": "Kalasin Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1676",
+    "name": "Mukdahan Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1675",
+    "name": "Nakhon Phanom Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1674",
+    "name": "Bueng Kan Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1673",
+    "name": "Nong Bua Lamphu Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1672",
+    "name": "Maha Sarakham Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1671",
+    "name": "Tutuila Island",
+    "country": "as",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1670",
+    "name": "Kosrae",
+    "country": "fm",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "166f",
+    "name": "Yap",
+    "country": "fm",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "166e",
+    "name": "Ubon Ratchathani Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "166d",
+    "name": "Amnat Charoen Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "166c",
+    "name": "Yasothon Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "166b",
+    "name": "Sisaket Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "166a",
+    "name": "Chaiyaphum Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1669",
+    "name": "Roi Et Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1668",
+    "name": "Gwangju Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1667",
+    "name": "Jeollabuk-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1666",
+    "name": "Ulsan Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1665",
+    "name": "Jeollanam-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1664",
+    "name": "Mangaia",
+    "country": "ck",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1663",
+    "name": "Saipan",
+    "country": "mp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1662",
+    "name": "Astypalaia",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1661",
+    "name": "Manitoulin Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1660",
+    "name": "Camiguin",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "165f",
+    "name": "Putrajaya Federal Territory",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "165e",
+    "name": "Kuala Lumpur Federal Territory",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "165d",
+    "name": "Pran Buri Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "165c",
+    "name": "Daejeon Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "165b",
+    "name": "Atiu",
+    "country": "ck",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "165a",
+    "name": "Chernivtsi Region",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1659",
+    "name": "Koh Kong Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1658",
+    "name": "Pursat Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.120790Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1657",
+    "name": "Kandal Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1656",
+    "name": "Svay Rieng Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.113544Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1655",
+    "name": "Prey Veng Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1654",
+    "name": "Banteay Meanchey Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1653",
+    "name": "Kratie Province",
+    "country": "kh",
+    "updated_at": "2016-02-09T09:31:46.140220Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1652",
+    "name": "Eau Island",
+    "country": "to",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1651",
+    "name": "Tongatapu Island",
+    "country": "to",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1650",
+    "name": "Orcas Island",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "164f",
+    "name": "Espiritu Santo",
+    "country": "vu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "164e",
+    "name": "Kep Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "164d",
+    "name": "Kampot Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "164c",
+    "name": "Battambang Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "164b",
+    "name": "Preah Sihanouk Province",
+    "country": "kh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "164a",
+    "name": "Lam Dong",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1649",
+    "name": "Phu Yen",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1648",
+    "name": "Ninh Binh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1647",
+    "name": "Hai Phong Municipality",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1646",
+    "name": "Lao Cai",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1645",
+    "name": "Champasak",
+    "country": "la",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1644",
+    "name": "Efate",
+    "country": "vu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1643",
+    "name": "Tanna",
+    "country": "vu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1642",
+    "name": "Savaii",
+    "country": "ws",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1641",
+    "name": "Upolu",
+    "country": "ws",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1640",
+    "name": "Ba Ria - Vung Tau",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163f",
+    "name": "Da Nang Municipality",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163e",
+    "name": "Thua Thien - Hue",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163d",
+    "name": "Can Tho Municipality",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163c",
+    "name": "Ho Chi Minh Municipality",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163b",
+    "name": "Ha Noi Municipality",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "163a",
+    "name": "Bengkulu",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1639",
+    "name": "Raiatea",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1638",
+    "name": "Rangiroa",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1637",
+    "name": "Huahine",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1636",
+    "name": "Xieng Khouang",
+    "country": "la",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1635",
+    "name": "Tubuai",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1634",
+    "name": "Samut Songkhram",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1633",
+    "name": "Tak",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.077367Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1632",
+    "name": "Samut Prakan Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1631",
+    "name": "Surin",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.040066Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1630",
+    "name": "Kampangpet Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162f",
+    "name": "Nakornsawan",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.047458Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162e",
+    "name": "Phrae",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.032856Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162d",
+    "name": "Phayao Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162c",
+    "name": "Lamphun",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.999698Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162b",
+    "name": "Nan",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.084789Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "162a",
+    "name": "Phitsanuloke",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.070229Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1629",
+    "name": "Chiloe",
+    "country": "cl",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1628",
+    "name": "Saraburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.021356Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1627",
+    "name": "Tirana County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1626",
+    "name": "Roatan",
+    "country": "hn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1625",
+    "name": "Shkoder County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1624",
+    "name": "Durres County",
+    "country": "al",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1623",
+    "name": "Ulcinj County",
+    "country": "me",
+    "updated_at": "2016-02-09T09:31:46.091980Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1622",
+    "name": "Zabljak County",
+    "country": "me",
+    "updated_at": "2016-02-09T09:31:46.062248Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1621",
+    "name": "Kolasin County",
+    "country": "me",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1620",
+    "name": "Podgorica County",
+    "country": "me",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "161f",
+    "name": "Cetinje County",
+    "country": "me",
+    "updated_at": "2016-02-09T09:31:45.992274Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "161e",
+    "name": "Tivat County",
+    "country": "me",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "161d",
+    "name": "Kotor County",
+    "country": "me",
+    "updated_at": "2016-02-09T09:31:46.106380Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "161c",
+    "name": "Herceg Novi County",
+    "country": "me",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "161b",
+    "name": "Budva County",
+    "country": "me",
+    "updated_at": "2016-02-09T09:31:46.099213Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "161a",
+    "name": "San Juan Island",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1619",
+    "name": "Yala",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.006939Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1618",
+    "name": "Pattani",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.914826Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1617",
+    "name": "Narathiwas",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.014154Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1616",
+    "name": "Satun ",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1615",
+    "name": "Siboya Island",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1614",
+    "name": "Solta island",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1613",
+    "name": "Matara District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1612",
+    "name": "Hambantota District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1611",
+    "name": "Monaragala District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1610",
+    "name": "Ratnapura District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160f",
+    "name": "Kalutara District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160e",
+    "name": "Badulla District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160d",
+    "name": "Kegalle District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160c",
+    "name": "Gampaha District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160b",
+    "name": "Batticaloa District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "160a",
+    "name": "Matale District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1609",
+    "name": "Polonnaruwa District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1608",
+    "name": "Kurunegala District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1607",
+    "name": "Puttalam District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1606",
+    "name": "Trincomalee District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1605",
+    "name": "Vavuniya District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1604",
+    "name": "Mannar District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1603",
+    "name": "Mullaitivu District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1602",
+    "name": "Kilinochchi District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1601",
+    "name": "Jaffna District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1600",
+    "name": "Nuwara Eliya District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15ff",
+    "name": "Kandy District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15fe",
+    "name": "Ampara District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15fd",
+    "name": "Pozega-Slavonia County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15fc",
+    "name": "Sibenik-Knin County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15fb",
+    "name": "Zadar County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15fa",
+    "name": "St Kitts",
+    "country": "kn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f9",
+    "name": "Grand Cayman",
+    "country": "ky",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f8",
+    "name": "Cayman Brac",
+    "country": "ky",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f7",
+    "name": "Grand Bahama",
+    "country": "bs",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f6",
+    "name": "Skyros",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f5",
+    "name": "Lord Howe Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15f4",
+    "name": "Buriram Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15f3",
+    "name": "Nong Khai",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.907323Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f2",
+    "name": "Clare Island ",
+    "country": "ie",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15f1",
+    "name": "Texada Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15f0",
+    "name": "Loei",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.942003Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15ef",
+    "name": "Phu Quoc Island",
+    "country": "vn",
+    "updated_at": "2016-02-09T09:31:45.977836Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15ee",
+    "name": "Udon Thani",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.970351Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15ed",
+    "name": "Cortes Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "15ec",
+    "name": "Durango",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "DU"
+  },
+  {
+    "kind": "province",
+    "code": "15eb",
+    "name": "Nakhon Ratchasima",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:46.054833Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15ea",
+    "name": "King Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e9",
+    "name": "Sakon Nakhon Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15e8",
+    "name": "New Providence",
+    "country": "bs",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15e7",
+    "name": "Lapinig Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15e6",
+    "name": "Krottoya",
+    "country": "no",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e5",
+    "name": "Stirlingshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15e4",
+    "name": "Mindoro",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e3",
+    "name": "Asyut",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e2",
+    "name": "Gharbia",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e1",
+    "name": "Kafr el-Sheikh",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15e0",
+    "name": "Beheira",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15df",
+    "name": "Beni Suef",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15de",
+    "name": "Ismailia",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15dd",
+    "name": "Matruh ",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15dc",
+    "name": "Minya",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15db",
+    "name": "Monufia ",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15da",
+    "name": "New Valley  ",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d9",
+    "name": "North Sinai Governorate",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d8",
+    "name": "Qalyubia",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d7",
+    "name": "Qena",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d6",
+    "name": "Al Sharqia",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d5",
+    "name": "Sohag",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d4",
+    "name": "Ar Rayyan",
+    "country": "qa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d3",
+    "name": "Al Wakrah ",
+    "country": "qa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d2",
+    "name": "Al Khor",
+    "country": "qa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d1",
+    "name": "As Sulaymaniah",
+    "country": "iq",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15d0",
+    "name": "Al Ahmadi",
+    "country": "kw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15cf",
+    "name": "Al Muharraq",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15ce",
+    "name": "Southern Governorate",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15cd",
+    "name": "Irbid Governorate",
+    "country": "jo",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15cc",
+    "name": "Jarash Governorate",
+    "country": "jo",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15cb",
+    "name": "Jazan",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.985004Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15ca",
+    "name": "Najran",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.900093Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c9",
+    "name": "Northern Borders",
+    "country": "sa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c8",
+    "name": "Jawf",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.884373Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c7",
+    "name": "Tabuk",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.927112Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c6",
+    "name": "Bac Ninh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c5",
+    "name": "Bursa",
+    "country": "tr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15c4",
+    "name": "Great Barrier Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15c3",
+    "name": "Alno",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15c2",
+    "name": "Luhansk",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15c1",
+    "name": "Sanibel Island ",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15c0",
+    "name": "Ven",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15bf",
+    "name": "Mactan Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15be",
+    "name": "Busuanga Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15bd",
+    "name": "Coron Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15bc",
+    "name": "Boracay Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15bb",
+    "name": "Anticosti Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15ba",
+    "name": "Tablas Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b9",
+    "name": "Penghu County",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.934855Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15b8",
+    "name": "Ko Phangan",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.962922Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b7",
+    "name": "Galle District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b6",
+    "name": "Colombo District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b5",
+    "name": "Anuradhapura District",
+    "country": "lk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b4",
+    "name": "Chandigarh",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b3",
+    "name": "Huila",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15b2",
+    "name": "Bar County",
+    "country": "me",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15b1",
+    "name": "Russell Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15b0",
+    "name": "South Stradbroke Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15af",
+    "name": "North Stradbroke Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15ae",
+    "name": "Bribie Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "15ad",
+    "name": "Chihuahua",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "CH"
+  },
+  {
+    "kind": "state",
+    "code": "15ac",
+    "name": "Mexico DF",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "DF"
+  },
+  {
+    "kind": "province",
+    "code": "15ab",
+    "name": "Prachinburi Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15aa",
+    "name": "Saint Eustatius",
+    "country": "bq",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a9",
+    "name": "Saba",
+    "country": "bq",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15a8",
+    "name": "Froya",
+    "country": "no",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a7",
+    "name": "Riau Archipelago",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15a6",
+    "name": "Panglao Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "15a5",
+    "name": "Bohol",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a4",
+    "name": "Papua",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a3",
+    "name": "West Papua",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a2",
+    "name": "Maluku",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a1",
+    "name": "North Maluku",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "15a0",
+    "name": "South East Sulawesi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159f",
+    "name": "South Sulawesi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159e",
+    "name": "West Sulawesi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159d",
+    "name": "Central Sulawesi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159c",
+    "name": "Gorontalo",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159b",
+    "name": "North Sulawesi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "159a",
+    "name": "South Kalimantan",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1599",
+    "name": "East Kalimantan",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1598",
+    "name": "Central Kalimantan",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1597",
+    "name": "West Kalimantan",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1596",
+    "name": "Lampung",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1595",
+    "name": "Bangka Belitung",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1594",
+    "name": "South Sumatra",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1593",
+    "name": "Jambi",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1592",
+    "name": "Riau",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1591",
+    "name": "West Sumatra",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1590",
+    "name": "North Sumatra",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158f",
+    "name": "Aceh",
+    "country": "id",
+    "updated_at": "2016-02-09T09:31:45.892942Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158e",
+    "name": "East Nusa Tenggara",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158d",
+    "name": "West Nusa Tenggara",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158c",
+    "name": "Jakarta Province",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158b",
+    "name": "Banten",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "158a",
+    "name": "Yogyakarta Province",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1589",
+    "name": "Central Java",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1588",
+    "name": "West Java",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1587",
+    "name": "East Java",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1586",
+    "name": "State of Mexico",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MX"
+  },
+  {
+    "kind": "province",
+    "code": "1585",
+    "name": "Khanh Hoa",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1584",
+    "name": "Binh Duong ",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1583",
+    "name": "Isle of Pines",
+    "country": "nc",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1582",
+    "name": "Vypin Island",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1581",
+    "name": "Kien Giang ",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1580",
+    "name": "Binh Thuan",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "157f",
+    "name": "Quang Ninh",
+    "country": "vn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "157e",
+    "name": "Providencia Island",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "157d",
+    "name": "Samal - Island Garden City of Samal",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "157c",
+    "name": "Siargao Island",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "157b",
+    "name": "Cebu",
+    "country": "ph",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "157a",
+    "name": "Sado Island",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1579",
+    "name": "Sipadan",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1578",
+    "name": "Andaman and Nicobar",
+    "country": "in",
+    "updated_at": "2016-02-09T09:31:45.949158Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1577",
+    "name": "Miyajima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1576",
+    "name": "Rocha",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1575",
+    "name": "Lavalleja",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1574",
+    "name": "Treinta y Tres",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1573",
+    "name": "Cerro Largo",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1572",
+    "name": "Florida",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1571",
+    "name": "Durazno",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1570",
+    "name": "Tacuarembo",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156f",
+    "name": "Rivera",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156e",
+    "name": "Flores",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156d",
+    "name": "Maldonado",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156c",
+    "name": "Canelones",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156b",
+    "name": "Colonia",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "156a",
+    "name": "Soriano",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1569",
+    "name": "Rio Negro",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1568",
+    "name": "Paysandu",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1567",
+    "name": "Salto",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1566",
+    "name": "Artigas",
+    "country": "uy",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1565",
+    "name": "Rishiri Island",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1564",
+    "name": "Akajima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1563",
+    "name": "Senja",
+    "country": "no",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1562",
+    "name": "Chiriqui",
+    "country": "pa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1561",
+    "name": "New Taipei Municipality",
+    "country": "tw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1560",
+    "name": "Yunlin",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.701108Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155f",
+    "name": "Chiayi",
+    "country": "tw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155e",
+    "name": "Miaoli",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.664540Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155d",
+    "name": "Hsinchu",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.813872Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155c",
+    "name": "Yilan",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.792359Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155b",
+    "name": "Taitung",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.862623Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "155a",
+    "name": "Hualien",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.806739Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1559",
+    "name": "Nantou",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.763708Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1558",
+    "name": "Fiji",
+    "country": "fj",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1557",
+    "name": "Faro Island",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1556",
+    "name": "Nonthaburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.777985Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1555",
+    "name": "Nakhon Nayok",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.679001Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1554",
+    "name": "Keelung",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.717028Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1553",
+    "name": "Pingtung",
+    "country": "tw",
+    "updated_at": "2016-02-09T09:31:45.869734Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1552",
+    "name": "Tainan Municipality",
+    "country": "tw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1551",
+    "name": "Taichung Municipality",
+    "country": "tw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1550",
+    "name": "Miyakojima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154f",
+    "name": "Lower Austria",
+    "country": "at",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154e",
+    "name": "Kaohsiung Municipality",
+    "country": "tw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154d",
+    "name": "Trang",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.876875Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154c",
+    "name": "Cauca",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154b",
+    "name": "Atlántico",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "154a",
+    "name": "Choco",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1549",
+    "name": "Guajira",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1548",
+    "name": "Boyacá",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1547",
+    "name": "Provincia de Lima",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1546",
+    "name": "Ancash",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1545",
+    "name": "Ucayali",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1544",
+    "name": "Tumbes",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1543",
+    "name": "Tacna",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1542",
+    "name": "San Martin",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1541",
+    "name": "Puno",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1540",
+    "name": "Pasco",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153f",
+    "name": "Moquegua",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153e",
+    "name": "Loreto",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153d",
+    "name": "Lambayeque",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153c",
+    "name": "La Libertad",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153b",
+    "name": "Junín",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "153a",
+    "name": "Ica",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1539",
+    "name": "Huánuco",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1538",
+    "name": "Huancavelica",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1537",
+    "name": "Cajamarca",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1536",
+    "name": "Ayacucho",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1535",
+    "name": "Apurimac",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1534",
+    "name": "Amazonas",
+    "country": "pe",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1533",
+    "name": "Kohamajima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1532",
+    "name": "Iriomotejima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1531",
+    "name": "Aysen",
+    "country": "cl",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1530",
+    "name": "Los Rios",
+    "country": "cl",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "152f",
+    "name": "Maule",
+    "country": "cl",
+    "updated_at": "2016-02-09T09:31:45.785153Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "152e",
+    "name": "O'Higgins",
+    "country": "cl",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "152d",
+    "name": "Arica y Parinacota",
+    "country": "cl",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "152c",
+    "name": "Zanzibar",
+    "country": "tz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "152b",
+    "name": "Bolivar",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "152a",
+    "name": "Amazonas",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1529",
+    "name": "San Andres and Providencia Islands",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1528",
+    "name": "Cordoba",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1527",
+    "name": "Vichada",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1526",
+    "name": "Valle del Cauca",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1525",
+    "name": "Tolima",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1524",
+    "name": "Sucre",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1523",
+    "name": "Santander",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1522",
+    "name": "Risaralda",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1521",
+    "name": "Quindio",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1520",
+    "name": "Putumayo",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151f",
+    "name": "Norte de Santander",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151e",
+    "name": "Nariño",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151d",
+    "name": "Meta",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151c",
+    "name": "Magdalena",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151b",
+    "name": "Guaviare",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "151a",
+    "name": "Cundinamarca",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1519",
+    "name": "Cesar",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1518",
+    "name": "Casanare",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1517",
+    "name": "Caquetá",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1516",
+    "name": "Caldas",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1515",
+    "name": "Arauca",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1514",
+    "name": "Antioquia",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1513",
+    "name": "Vaupes",
+    "country": "co",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1512",
+    "name": "Lampang Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1511",
+    "name": "Ie Island",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1510",
+    "name": "Ile d'Orleans",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "150f",
+    "name": "Panama",
+    "country": "pa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "150e",
+    "name": "Hornby Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "150d",
+    "name": "Pender Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "150c",
+    "name": "Gabriola Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "150b",
+    "name": "Mayne Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "150a",
+    "name": "Doukkala-Abda",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1509",
+    "name": "Gharb-Ghrada-Beni Hsen",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1508",
+    "name": "Guelmim-Es Semara",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1507",
+    "name": "Zaghouan",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1506",
+    "name": "Sousse",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1505",
+    "name": "Grand Casablanca",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1504",
+    "name": "Meknes-Tafilalet",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1503",
+    "name": "Gafsa",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1502",
+    "name": "Sfax",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1501",
+    "name": "Kairouan",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1500",
+    "name": "Le Kef",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ff",
+    "name": "Siliana",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14fe",
+    "name": "Beja",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14fd",
+    "name": "Jendouba",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14fc",
+    "name": "Monastir",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14fb",
+    "name": "Sidi Bouzid",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14fa",
+    "name": "Mahdia",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f9",
+    "name": "Kasserine",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f8",
+    "name": "Rabat-Sale-Zemmour-Zaer",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f7",
+    "name": "Mont-Rif-Tazghine",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f6",
+    "name": "Kebili",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f5",
+    "name": "Gabes",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f4",
+    "name": "Medenine",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f3",
+    "name": "Taza-Hoceima-Taounate",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f2",
+    "name": "Ben Arous",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f1",
+    "name": "Fes-Boulmane",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14f0",
+    "name": "Tunis",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ef",
+    "name": "Ariana",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ee",
+    "name": "Manouba",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ed",
+    "name": "Tataouine",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ec",
+    "name": "Nabeul",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14eb",
+    "name": "Bizerte",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ea",
+    "name": "Tozeur ",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e9",
+    "name": "Oued Eddahab-Lagouira",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e8",
+    "name": "Laayoune-Boujdour-Sakia-Hamra",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e7",
+    "name": "Marrakech-Tensift-Haouz",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e6",
+    "name": "Souss-Massa-Draa",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e5",
+    "name": "Tadla-Azilal",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e4",
+    "name": "Chaouia-Ourdigha",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e3",
+    "name": "Tanger-Tetouan",
+    "country": "ma",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14e2",
+    "name": "Ishigaki",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14e1",
+    "name": "Capraia Island",
+    "country": "it",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14e0",
+    "name": "Mae Hong Son",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.724296Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14df",
+    "name": "Sukhothai",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.693603Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14de",
+    "name": "Ratchaburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.708240Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14dd",
+    "name": "Delhi NCR",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14dc",
+    "name": "Heves",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14db",
+    "name": "Csongrád",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14da",
+    "name": "Nograd",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d9",
+    "name": "Bacs-Kiskun",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d8",
+    "name": "Komarom-Esztergom",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d7",
+    "name": "Gyor-Moson-Sopron",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d6",
+    "name": "Guizhou",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d5",
+    "name": "Bekes",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d4",
+    "name": "Jasz-Nagykun-Szolnok",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d3",
+    "name": "Hajdu-Bihar",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d2",
+    "name": "Szabolcs-Szatmar-Bereg",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d1",
+    "name": "Pest",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14d0",
+    "name": "Baranya",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14cf",
+    "name": "Tolna",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ce",
+    "name": "Fejer",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14cd",
+    "name": "Veszprem",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14cc",
+    "name": "Somogy",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14cb",
+    "name": "Macedonia",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ca",
+    "name": "Zala",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c9",
+    "name": "Borsod-Abauj-Zemplen",
+    "country": "hu",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14c8",
+    "name": "Galiano Island",
+    "country": "ca",
+    "updated_at": "2016-02-09T09:31:45.671927Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14c7",
+    "name": "Quadra Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14c6",
+    "name": "Giglio Island",
+    "country": "it",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c5",
+    "name": "Khao Sok",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.649173Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c4",
+    "name": "Nakhon Si Thammarat",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c3",
+    "name": "Ranong",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.686297Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c2",
+    "name": "Chumphon",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.656586Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c1",
+    "name": "Khon Kaen Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14c0",
+    "name": "North Governorate ",
+    "country": "lb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14bf",
+    "name": "Foa Island",
+    "country": "to",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14be",
+    "name": "Prachuap Khiri Khan",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.855455Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14bd",
+    "name": "Chanthaburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.835969Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14bc",
+    "name": "Petchaburi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.799432Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14bb",
+    "name": "Songkhla",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.748565Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ba",
+    "name": "Phra Nakhon Si Ayutthaya ",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b9",
+    "name": "Lat Krabang",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b8",
+    "name": "Rayong",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.755818Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "14b7",
+    "name": "Kythnos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b6",
+    "name": "Chon Buri",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.843166Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b5",
+    "name": "Surat Thani",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.821593Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b4",
+    "name": "Trat",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.828773Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b3",
+    "name": "Split-Dalmatia County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b2",
+    "name": "Karachay-Cherkessia",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.740692Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b1",
+    "name": "Saratov",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.770852Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14b0",
+    "name": "Irkutsk",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.732607Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14af",
+    "name": "Stavropol",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.494455Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ae",
+    "name": "Novosibirsk",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.518993Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ad",
+    "name": "Yaroslavl",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.564313Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ac",
+    "name": "Chelyabinsk",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.472266Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14ab",
+    "name": "Vladimir",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.549801Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14aa",
+    "name": "Rostov",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.511728Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a9",
+    "name": "Nizhny Novgorod",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.586115Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a8",
+    "name": "Zhytomyr",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.457996Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a7",
+    "name": "Zaporizhzhya",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.465140Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a6",
+    "name": "Volyn",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.429030Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a5",
+    "name": "Vinnytsya",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a4",
+    "name": "Transcarpathia",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.535523Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a3",
+    "name": "Ternopil",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a2",
+    "name": "Sumy",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a1",
+    "name": "Sevastopol",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.631748Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "14a0",
+    "name": "Rivne",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149f",
+    "name": "Poltava",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149e",
+    "name": "Odessa Region",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149d",
+    "name": "Mykolayiv",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.443609Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149c",
+    "name": "Lviv",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149b",
+    "name": "Kirovohrad",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "149a",
+    "name": "Kiev",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.610286Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1499",
+    "name": "Khmelnytskyy",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.487203Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1498",
+    "name": "Kherson",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.450806Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1497",
+    "name": "Kharkiv",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.374776Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1496",
+    "name": "Ivano-Frankivsk",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1495",
+    "name": "Donetsk Region",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1494",
+    "name": "Dnipropetrovsk",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.526205Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1493",
+    "name": "Mykolayiv",
+    "country": "ua",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1492",
+    "name": "Chernihiv",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.420806Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1491",
+    "name": "Cherkasy",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.504539Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1490",
+    "name": "Samara",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.571696Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148f",
+    "name": "Tatarstan",
+    "country": "ru",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148e",
+    "name": "Sverdlovsk",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.593295Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148d",
+    "name": "Kaliningrad region",
+    "country": "ru",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148c",
+    "name": "Krasnodar",
+    "country": "ru",
+    "updated_at": "2016-02-09T09:31:45.617372Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148b",
+    "name": "Leningrad Region",
+    "country": "ru",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "148a",
+    "name": "Chiang Rai",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.600453Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1489",
+    "name": "Krabi",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.624606Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1488",
+    "name": "Dubrovnik-Neretva County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1487",
+    "name": "Incheon Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1486",
+    "name": "Saga",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1485",
+    "name": "Fukuoka",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1484",
+    "name": "Kochi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1483",
+    "name": "Kagawa",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1482",
+    "name": "Tokushima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1481",
+    "name": "Yamaguchi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1480",
+    "name": "Hiroshima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147f",
+    "name": "Okayama",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147e",
+    "name": "Shimane",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147d",
+    "name": "Tottori",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147c",
+    "name": "Wakayama",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147b",
+    "name": "Nara",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "147a",
+    "name": "Hyogo",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1479",
+    "name": "Osaka Prefecture",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1478",
+    "name": "Kyoto",
+    "country": "jp",
+    "updated_at": "2016-02-09T09:31:45.542647Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1477",
+    "name": "Shiga",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1476",
+    "name": "Shizuoka",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1475",
+    "name": "Gifu",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1474",
+    "name": "Nagano",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1473",
+    "name": "Yamanashi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1472",
+    "name": "Toyama",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1471",
+    "name": "Kanagawa",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1470",
+    "name": "Tokyo Prefecture",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "146f",
+    "name": "Saitama",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "146e",
+    "name": "Gunma",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "146d",
+    "name": "Ehime",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "146c",
+    "name": "Magdalen Islands",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "146b",
+    "name": "Salt Spring Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "146a",
+    "name": "Nagasaki",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1469",
+    "name": "Oita",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1468",
+    "name": "Kagoshima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1467",
+    "name": "Kumamoto",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1466",
+    "name": "Vanua Levu",
+    "country": "fj",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1465",
+    "name": "Hidalgo",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "HI"
+  },
+  {
+    "kind": "island",
+    "code": "1464",
+    "name": "Nisyros",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1463",
+    "name": "Kasos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1462",
+    "name": "Yamagata",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1461",
+    "name": "Tochigi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1460",
+    "name": "Niigata",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145f",
+    "name": "Miyagi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145e",
+    "name": "Iwate",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145d",
+    "name": "Ibaraki",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145c",
+    "name": "Fukushima",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145b",
+    "name": "Chiba",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "145a",
+    "name": "Aomori",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1459",
+    "name": "Akita",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1458",
+    "name": "Isle of Islay",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1457",
+    "name": "Sikinos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1456",
+    "name": "Aeroe",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1455",
+    "name": "Tjörn",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1454",
+    "name": "Dubrovnik Islands",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1453",
+    "name": "Læsø",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1452",
+    "name": "Gavdos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1451",
+    "name": "Moscow region",
+    "country": "ru",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1450",
+    "name": "Sikkim",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "SK"
+  },
+  {
+    "kind": "state",
+    "code": "144f",
+    "name": "Tripura",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TR"
+  },
+  {
+    "kind": "state",
+    "code": "144e",
+    "name": "Punjab",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "PB"
+  },
+  {
+    "kind": "state",
+    "code": "144d",
+    "name": "Madhya Pradesh",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MP"
+  },
+  {
+    "kind": "state",
+    "code": "144c",
+    "name": "Jharkhand",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "JH"
+  },
+  {
+    "kind": "state",
+    "code": "144b",
+    "name": "Assam",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AS"
+  },
+  {
+    "kind": "province",
+    "code": "144a",
+    "name": "Crimea",
+    "country": "ua",
+    "updated_at": "2016-02-09T09:31:45.557052Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1449",
+    "name": "Gangwon-Do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1448",
+    "name": "Ilhabela",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1447",
+    "name": "Marajó island",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1446",
+    "name": "Langeland",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1445",
+    "name": "Jeju Island",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1444",
+    "name": "Aichi",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1443",
+    "name": "Mie",
+    "country": "jp",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1442",
+    "name": "Goa",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "GA"
+  },
+  {
+    "kind": "island",
+    "code": "1441",
+    "name": "Samothraki Island",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1440",
+    "name": "Margarita Island",
+    "country": "ve",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "143f",
+    "name": "Waiheke Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "143e",
+    "name": "Magnetic Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "143d",
+    "name": "Phang Nga",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.413381Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "143c",
+    "name": "Nanuya Balavu Island",
+    "country": "fj",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "143b",
+    "name": "Chiang Mai Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "143a",
+    "name": "Thessalia",
+    "country": "gr",
+    "updated_at": "2016-02-09T09:31:45.479445Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1439",
+    "name": "Peloponnese",
+    "country": "gr",
+    "updated_at": "2016-02-09T09:31:45.578951Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1438",
+    "name": "Attica",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1437",
+    "name": "Isle of Harris",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1436",
+    "name": "Phillip Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1435",
+    "name": "Appenzell Innerrhoden",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1434",
+    "name": "Lisbon Region",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1433",
+    "name": "Centro Region",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1432",
+    "name": "Norte Region",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1431",
+    "name": "Bora Bora",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1430",
+    "name": "Moorea",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "142f",
+    "name": "Tahiti",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "142e",
+    "name": "Manihi",
+    "country": "pf",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "142d",
+    "name": "Zug",
+    "country": "ch",
+    "updated_at": "2016-02-09T09:31:45.382329Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "142c",
+    "name": "Uri",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "142b",
+    "name": "Thurgau",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "142a",
+    "name": "Solothurn",
+    "country": "ch",
+    "updated_at": "2016-02-09T09:31:45.436168Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1429",
+    "name": "Schwyz",
+    "country": "ch",
+    "updated_at": "2016-02-09T09:31:45.389507Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1428",
+    "name": "Schaffhausen",
+    "country": "ch",
+    "updated_at": "2016-02-09T09:31:45.367312Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1427",
+    "name": "Obwalden",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1426",
+    "name": "Nidwalden",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1425",
+    "name": "Neuchâtel",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1424",
+    "name": "Lucerne",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1423",
+    "name": "Jura",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1422",
+    "name": "Geneva",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1421",
+    "name": "Berne",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1420",
+    "name": "Basel-City",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "141f",
+    "name": "Glarus",
+    "country": "ch",
+    "updated_at": "2016-02-09T09:31:45.352435Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "141e",
+    "name": "Appenzell Ausserrhoden",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "141d",
+    "name": "Aargau",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "141c",
+    "name": "Inishmore",
+    "country": "ie",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "141b",
+    "name": "Orust",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "141a",
+    "name": "Basel-Landschaft",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1419",
+    "name": "Malta",
+    "country": "mt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1418",
+    "name": "Daegu Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1417",
+    "name": "Gyeongsangnam-do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1416",
+    "name": "Busan Metropolitan City",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1415",
+    "name": "Gyeonggi-do",
+    "country": "kr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1414",
+    "name": "Vaud",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1413",
+    "name": "Bangkok Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1412",
+    "name": "São Jorge Island",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1411",
+    "name": "Northern Governorate",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1410",
+    "name": "Nabatiye",
+    "country": "lb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140f",
+    "name": "South Governorate",
+    "country": "lb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140e",
+    "name": "Central Governorate",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140d",
+    "name": "Capital Governorate",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140c",
+    "name": "Beirut Governorate",
+    "country": "lb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140b",
+    "name": "Al Jahra",
+    "country": "kw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "140a",
+    "name": "Mubarak Al-Kabeer",
+    "country": "kw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1409",
+    "name": "Hawalli",
+    "country": "kw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1408",
+    "name": "Al Asimah",
+    "country": "kw",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1407",
+    "name": "Amman Governorate",
+    "country": "jo",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1406",
+    "name": "Madaba Governorate",
+    "country": "jo",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1405",
+    "name": "Aqaba Governorate",
+    "country": "jo",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1404",
+    "name": "Viti Levu",
+    "country": "fj",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1403",
+    "name": "Aitutaki",
+    "country": "ck",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1402",
+    "name": "Sir Bani Yas Island",
+    "country": "ae",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1401",
+    "name": "Alexandria Governorate",
+    "country": "eg",
+    "updated_at": "2016-02-09T09:31:45.642080Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1400",
+    "name": "Suez Governorate",
+    "country": "eg",
+    "updated_at": "2016-02-09T09:31:45.399046Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13ff",
+    "name": "Rarotonga",
+    "country": "ck",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13fe",
+    "name": "Port Said Governorate",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13fd",
+    "name": "Mon",
+    "country": "dk",
+    "updated_at": "2016-02-09T09:31:45.344839Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13fc",
+    "name": "Mahé",
+    "country": "sc",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13fb",
+    "name": "Block Island",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13fa",
+    "name": "Kea",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13f9",
+    "name": "St.Gallen Canton",
+    "country": "ch",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13f8",
+    "name": "Hawar Islands",
+    "country": "bh",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13f7",
+    "name": "Poros",
+    "country": "gr",
+    "updated_at": "2016-02-09T09:31:45.360040Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13f6",
+    "name": "Flores Island",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13f5",
+    "name": "Graciosa",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13f4",
+    "name": "Al Qassim",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.406213Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13f3",
+    "name": "Tilos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13f2",
+    "name": "Tibet",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13f1",
+    "name": "Xinjiang",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13f0",
+    "name": "Sichuan",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ef",
+    "name": "Qinghai",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ee",
+    "name": "Ningxia",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ed",
+    "name": "Inner Mongolia",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ec",
+    "name": "Liaoning",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13eb",
+    "name": "Jiangxi",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ea",
+    "name": "Hunan",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13e9",
+    "name": "Hebei",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13e8",
+    "name": "Gansu",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13e7",
+    "name": "Heilongjiang",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13e6",
+    "name": "Asir",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.231796Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13e5",
+    "name": "Masirah",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13e4",
+    "name": "Moreton Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13e3",
+    "name": "Kangaroo Island",
+    "country": "au",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13e2",
+    "name": "Ugljan",
+    "country": "hr",
+    "updated_at": "2016-02-09T09:31:45.268461Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13e1",
+    "name": "Dugi Otok",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "13e0",
+    "name": "Amapá",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AP"
+  },
+  {
+    "kind": "state",
+    "code": "13df",
+    "name": "Roraima",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "RR"
+  },
+  {
+    "kind": "state",
+    "code": "13de",
+    "name": "Tocantins",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TO"
+  },
+  {
+    "kind": "state",
+    "code": "13dd",
+    "name": "Pará",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "PA"
+  },
+  {
+    "kind": "state",
+    "code": "13dc",
+    "name": "Acre",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AC"
+  },
+  {
+    "kind": "state",
+    "code": "13db",
+    "name": "Rondonia",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "RO"
+  },
+  {
+    "kind": "state",
+    "code": "13da",
+    "name": "Mato Grosso",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MT"
+  },
+  {
+    "kind": "province",
+    "code": "13d9",
+    "name": "Gisborne",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "13d8",
+    "name": "Coahuila",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "CA"
+  },
+  {
+    "kind": "province",
+    "code": "13d7",
+    "name": "South District Israel",
+    "country": "il",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d6",
+    "name": "Tel Aviv District",
+    "country": "il",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d5",
+    "name": "Center District Israel",
+    "country": "il",
+    "updated_at": "2016-02-09T09:31:45.275603Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d4",
+    "name": "Haifa District",
+    "country": "il",
+    "updated_at": "2016-02-09T09:31:45.293450Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d3",
+    "name": "North District Israel",
+    "country": "il",
+    "updated_at": "2016-02-09T09:31:45.337677Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d2",
+    "name": "Jerusalem District",
+    "country": "il",
+    "updated_at": "2016-02-09T09:31:45.217401Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13d1",
+    "name": "Santa Catalina Island",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13d0",
+    "name": "Tucumán",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13cf",
+    "name": "Santa Fe",
+    "country": "ar",
+    "updated_at": "2016-02-09T09:31:45.300685Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ce",
+    "name": "Neuquén",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13cd",
+    "name": "La Rioja",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13cc",
+    "name": "La Pampa",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13cb",
+    "name": "Formosa",
+    "country": "ar",
+    "updated_at": "2016-02-09T09:31:45.154322Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ca",
+    "name": "Corrientes",
+    "country": "ar",
+    "updated_at": "2016-02-09T09:31:45.205378Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13c9",
+    "name": "Chubut",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13c8",
+    "name": "Chaco",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13c7",
+    "name": "Catamarca",
+    "country": "ar",
+    "updated_at": "2016-02-09T09:31:45.253971Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13c6",
+    "name": "Buenos Aires Province",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13c5",
+    "name": "Santa Cruz",
+    "country": "ar",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13c4",
+    "name": "Stewart Island",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13c3",
+    "name": "Svalbard",
+    "country": "no",
+    "updated_at": "2016-02-09T09:31:45.190736Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13c2",
+    "name": "Santa Catarina Island",
+    "country": "br",
+    "updated_at": "2016-02-09T09:31:45.282736Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13c1",
+    "name": "Barbuda",
+    "country": "ag",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13c0",
+    "name": "Als",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13bf",
+    "name": "Falster",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13be",
+    "name": "Lolland",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13bd",
+    "name": "Sjælland island",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13bc",
+    "name": "Tasman",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13bb",
+    "name": "Hiddensee",
+    "country": "de",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13ba",
+    "name": "Djerba",
+    "country": "tn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b9",
+    "name": "Fourni",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b8",
+    "name": "Achill Island",
+    "country": "ie",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b7",
+    "name": "Saint Vincent",
+    "country": "vc",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "13b6",
+    "name": "Baja California",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "BN"
+  },
+  {
+    "kind": "province",
+    "code": "13b5",
+    "name": "Westland District",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b4",
+    "name": "Martha's Vineyard",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b3",
+    "name": "Nantucket",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13b2",
+    "name": "Southland",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b1",
+    "name": "Harbour Islands",
+    "country": "bs",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13b0",
+    "name": "Rømø",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13af",
+    "name": "Saint John",
+    "country": "vi",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13ae",
+    "name": "Saint Croix",
+    "country": "vi",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13ad",
+    "name": "Saint Thomas",
+    "country": "vi",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ac",
+    "name": "Muhu",
+    "country": "ee",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13ab",
+    "name": "Northland",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13aa",
+    "name": "Marlborough",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13a9",
+    "name": "Hawke's Bay",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "13a8",
+    "name": "Taranaki",
+    "country": "nz",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "13a7",
+    "name": "Ko Lanta",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.261180Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "13a6",
+    "name": "Zacatecas",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "ZA"
+  },
+  {
+    "kind": "province",
+    "code": "13a5",
+    "name": "Mount Lebanon",
+    "country": "lb",
+    "updated_at": "2016-02-09T09:31:45.307875Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "13a4",
+    "name": "Nuevo León",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NL"
+  },
+  {
+    "kind": "state",
+    "code": "13a3",
+    "name": "Campeche",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "CM"
+  },
+  {
+    "kind": "state",
+    "code": "13a2",
+    "name": "Morelos",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MR"
+  },
+  {
+    "kind": "state",
+    "code": "13a1",
+    "name": "Tabasco",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TB"
+  },
+  {
+    "kind": "state",
+    "code": "13a0",
+    "name": "Baja California Sur",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "BS"
+  },
+  {
+    "kind": "state",
+    "code": "139f",
+    "name": "Sinaloa",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "SI"
+  },
+  {
+    "kind": "state",
+    "code": "139e",
+    "name": "Tlaxcala",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TL"
+  },
+  {
+    "kind": "state",
+    "code": "139d",
+    "name": "Colima",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "CL"
+  },
+  {
+    "kind": "state",
+    "code": "139c",
+    "name": "San Luis Potosí",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "SL"
+  },
+  {
+    "kind": "state",
+    "code": "139b",
+    "name": "Aguascalientes",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AG"
+  },
+  {
+    "kind": "state",
+    "code": "139a",
+    "name": "Yucatán",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "YU"
+  },
+  {
+    "kind": "state",
+    "code": "1399",
+    "name": "Uttarakhand",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "UT"
+  },
+  {
+    "kind": "state",
+    "code": "1398",
+    "name": "Gujarat",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "GJ"
+  },
+  {
+    "kind": "state",
+    "code": "1397",
+    "name": "Karnataka",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "KA"
+  },
+  {
+    "kind": "state",
+    "code": "1396",
+    "name": "Andhra Pradesh",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AP"
+  },
+  {
+    "kind": "state",
+    "code": "1395",
+    "name": "Jammu & Kashmir",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "JK"
+  },
+  {
+    "kind": "state",
+    "code": "1394",
+    "name": "Himachal Pradesh",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "HP"
+  },
+  {
+    "kind": "state",
+    "code": "1393",
+    "name": "Meghalaya",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "ML"
+  },
+  {
+    "kind": "state",
+    "code": "1392",
+    "name": "Odisha",
+    "country": "in",
+    "updated_at": "2016-01-20T08:45:18.687534Z",
+    "state_code": "OR"
+  },
+  {
+    "kind": "state",
+    "code": "1391",
+    "name": "Haryana",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "HR"
+  },
+  {
+    "kind": "state",
+    "code": "1390",
+    "name": "Kerala",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "KL"
+  },
+  {
+    "kind": "state",
+    "code": "138f",
+    "name": "Tamil Nadu",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TN"
+  },
+  {
+    "kind": "state",
+    "code": "138e",
+    "name": "West Bengal",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "WB"
+  },
+  {
+    "kind": "state",
+    "code": "138d",
+    "name": "Maharashtra",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MH"
+  },
+  {
+    "kind": "state",
+    "code": "138c",
+    "name": "Rajasthan",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "RJ"
+  },
+  {
+    "kind": "state",
+    "code": "138b",
+    "name": "Uttar Pradesh",
+    "country": "in",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "UP"
+  },
+  {
+    "kind": "island",
+    "code": "138a",
+    "name": "Batam",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1389",
+    "name": "Bintan",
+    "country": "id",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1388",
+    "name": "Famagusta",
+    "country": "cy",
+    "updated_at": "2016-02-09T09:31:45.315150Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1387",
+    "name": "Ilha Grande",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1386",
+    "name": "Tinharé",
+    "country": "br",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1385",
+    "name": "Nayarit",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NA"
+  },
+  {
+    "kind": "province",
+    "code": "1384",
+    "name": "Monaghan County",
+    "country": "ie",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1383",
+    "name": "Kastelorizo",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1382",
+    "name": "Kythira",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1381",
+    "name": "El Hierro",
+    "country": "es",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1380",
+    "name": "Tamaulipas",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "TM"
+  },
+  {
+    "kind": "state",
+    "code": "137f",
+    "name": "Chiapas",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "CP"
+  },
+  {
+    "kind": "island",
+    "code": "137e",
+    "name": "Serifos",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "137d",
+    "name": "Isole Tremiti",
+    "country": "it",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "137c",
+    "name": "Querétaro",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "QE"
+  },
+  {
+    "kind": "island",
+    "code": "137b",
+    "name": "Santa Maria",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "137a",
+    "name": "Tortola",
+    "country": "vg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1379",
+    "name": "Palm Island",
+    "country": "vc",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1378",
+    "name": "Makkah",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.224648Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1377",
+    "name": "Al Madinah",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.169987Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1376",
+    "name": "Riyadh Province",
+    "country": "sa",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1375",
+    "name": "Eastern Province",
+    "country": "sa",
+    "updated_at": "2016-02-09T09:31:45.198163Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1374",
+    "name": "Muscat",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1373",
+    "name": "Musandam",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1372",
+    "name": "Dhofar",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1371",
+    "name": "Al Sharqiyah",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1370",
+    "name": "Al Wusta",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "136f",
+    "name": "Al Buraimi",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "136e",
+    "name": "Al Batinah",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "136d",
+    "name": "Ad Dhahirah",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "136c",
+    "name": "Ad Dakhiliyah",
+    "country": "om",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "136b",
+    "name": "Sonora",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "SO"
+  },
+  {
+    "kind": "island",
+    "code": "136a",
+    "name": "Island of Oleron",
+    "country": "fr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1369",
+    "name": "Guanajuato",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "GT"
+  },
+  {
+    "kind": "island",
+    "code": "1368",
+    "name": "Belle Île en Mer",
+    "country": "fr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1367",
+    "name": "Central Serbia",
+    "country": "rs",
+    "updated_at": "2016-02-09T09:31:45.323319Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1366",
+    "name": "Međimurje County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1365",
+    "name": "Vukovar-Syrmia County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1364",
+    "name": "Osječko-baranjska županija",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1363",
+    "name": "Brod-Posavina County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1362",
+    "name": "Požega-Slavonia County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1361",
+    "name": "Virovitica-Podravina County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1360",
+    "name": "Bjelovar-Bilogora County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "135f",
+    "name": "Koprivnica-Križevci County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "135e",
+    "name": "Sisak-Moslavina County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "135d",
+    "name": "Faiyum Governate",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "135c",
+    "name": "Symi",
+    "country": "gr",
+    "updated_at": "2016-02-09T09:31:45.161794Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "135b",
+    "name": "Vancouver island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "135a",
+    "name": "Cozumel",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1359",
+    "name": "Faial",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1358",
+    "name": "São Miguel",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1357",
+    "name": "Pico island",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1356",
+    "name": "Terceira",
+    "country": "pt",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1355",
+    "name": "Meganisi",
+    "country": "gr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1354",
+    "name": "Westmeath",
+    "country": "ie",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1353",
+    "name": "Koh Kood",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1352",
+    "name": "Providenciales",
+    "country": "tc",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1351",
+    "name": "Phetchabun",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.246742Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1350",
+    "name": "Phi Phi Islands",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.177334Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134f",
+    "name": "Perlis",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134e",
+    "name": "Negeri Sembilan",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134d",
+    "name": "Perak",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134c",
+    "name": "Kelantan",
+    "country": "my",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134b",
+    "name": "Phuket",
+    "country": "th",
+    "updated_at": "2016-02-09T09:31:45.330521Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "134a",
+    "name": "Angus",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1349",
+    "name": "Perthshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1348",
+    "name": "Isle of Bute",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1347",
+    "name": "Vojvodina",
+    "country": "rs",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1346",
+    "name": "Shanxi",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1345",
+    "name": "Shanghai Province",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1344",
+    "name": "Yunnan",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1343",
+    "name": "Zhejiang",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1342",
+    "name": "Jilin",
+    "country": "cn",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1341",
+    "name": "Montana",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MT"
+  },
+  {
+    "kind": "province",
+    "code": "1340",
+    "name": "Kanchanaburi Province",
+    "country": "th",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "133f",
+    "name": "Highlands",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "133e",
+    "name": "Argyll and Bute",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "133d",
+    "name": "Lanarkshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "133c",
+    "name": "Kauai",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "133b",
+    "name": "Molokai",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "133a",
+    "name": "Lanai",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1339",
+    "name": "Oahu",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1338",
+    "name": "The Big Island",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1337",
+    "name": "Maui",
+    "country": "us",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1336",
+    "name": "Oland",
+    "country": "se",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1335",
+    "name": "Upper Normandy",
+    "country": "fr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1334",
+    "name": "Lower Normandy",
+    "country": "fr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1333",
+    "name": "Anglesey",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1332",
+    "name": "City of Bristol",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1331",
+    "name": "Merseyside",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1330",
+    "name": "South Yorkshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132f",
+    "name": "West Yorkshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132e",
+    "name": "East Riding of Yorkshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132d",
+    "name": "North Yorkshire",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132c",
+    "name": "Tyne and Wear",
+    "country": "gb",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132b",
+    "name": "Luxor",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "132a",
+    "name": "South Sinai",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1329",
+    "name": "Giza Governorate",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1328",
+    "name": "Aswan",
+    "country": "eg",
+    "updated_at": "2016-02-09T09:31:45.239195Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1327",
+    "name": "Cairo Governate",
+    "country": "eg",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "state",
+    "code": "1326",
+    "name": "Michoacan",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MC"
+  },
+  {
+    "kind": "state",
+    "code": "1325",
+    "name": "Oaxaca",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "OA"
+  },
+  {
+    "kind": "state",
+    "code": "1324",
+    "name": "Jalisco",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "JA"
+  },
+  {
+    "kind": "state",
+    "code": "1323",
+    "name": "Guerrero",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "GR"
+  },
+  {
+    "kind": "state",
+    "code": "1322",
+    "name": "State of Puebla",
+    "country": "mx",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "PU"
+  },
+  {
+    "kind": "state",
+    "code": "1321",
+    "name": "Northwest Territories",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NT"
+  },
+  {
+    "kind": "state",
+    "code": "1320",
+    "name": "Nunavut",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NU"
+  },
+  {
+    "kind": "state",
+    "code": "131f",
+    "name": "Yukon",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "YT"
+  },
+  {
+    "kind": "state",
+    "code": "131e",
+    "name": "Prince Edward Island",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "PE"
+  },
+  {
+    "kind": "state",
+    "code": "131d",
+    "name": "Newfoundland and Labrador",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NL"
+  },
+  {
+    "kind": "state",
+    "code": "131c",
+    "name": "New Brunswick",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "NB"
+  },
+  {
+    "kind": "state",
+    "code": "131b",
+    "name": "Saskatchewan",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "SK"
+  },
+  {
+    "kind": "state",
+    "code": "131a",
+    "name": "Manitoba",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "MB"
+  },
+  {
+    "kind": "state",
+    "code": "1319",
+    "name": "Alberta",
+    "country": "ca",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": "AB"
+  },
+  {
+    "kind": "province",
+    "code": "1318",
+    "name": "Varaždin County",
+    "country": "hr",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1317",
+    "name": "Bornholm",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1316",
+    "name": "Region Sjælland",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1315",
+    "name": "Syddanmark",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1314",
+    "name": "Midtjylland",
+    "country": "dk",
+    "updated_at": "2016-02-09T09:31:45.146948Z",
+    "state_code": null
+  },
+  {
+    "kind": "province",
+    "code": "1313",
+    "name": "Hovedstaden",
+    "country": "dk",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  },
+  {
+    "kind": "island",
+    "code": "1312",
+    "name": "Heligoland",
+    "country": "de",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "state_code": null
+  }
+]

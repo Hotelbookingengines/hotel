@@ -1,0 +1,44 @@
+[
+  {
+    "code": "UL",
+    "updated_at": "2017-10-13T07:36:23.128886Z",
+    "name": "Ultra",
+    "score": 60
+  },
+  {
+    "code": "AI",
+    "updated_at": "2017-10-13T07:36:30.338269Z",
+    "name": "All Inclusive",
+    "score": 50
+  },
+  {
+    "code": "FB",
+    "updated_at": "2017-10-13T07:36:37.319046Z",
+    "name": "Full Board",
+    "score": 40
+  },
+  {
+    "code": "HB",
+    "updated_at": "2017-10-13T07:36:42.143988Z",
+    "name": "Half Board",
+    "score": 30
+  },
+  {
+    "code": "BE",
+    "updated_at": "2017-10-13T07:36:48.158371Z",
+    "name": "Breakfast English",
+    "score": 20
+  },
+  {
+    "code": "BC",
+    "updated_at": "2017-10-13T07:36:52.460163Z",
+    "name": "Breakfast Continental",
+    "score": 10
+  },
+  {
+    "code": "RO",
+    "updated_at": "2014-12-08T06:00:00Z",
+    "name": "Room Only",
+    "score": 0
+  }
+]

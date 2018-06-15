@@ -1,0 +1,89 @@
+GET - https://api-test.hotelspro.com/api/v2/hotel-availability/?search_code=20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_&hotel_code=137635
+Header - search_code:20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_
+hotel_code:137635
+
+response: 
+{
+    "code": "20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_",
+    "count": 2,
+    "results": [
+        {
+            "code": "137635_1910064206_1_11_2_1_1_0_1207398519_0_1-0-0_14-100.20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_",
+            "destination_code": "12fcb",
+            "hotel_code": "137635",
+            "additional_info": "",
+            "checkin": "2018-06-11",
+            "checkout": "2018-06-12",
+            "price": "6.49",
+            "currency": "USD",
+            "pay_at_hotel": false,
+            "hotel_price": null,
+            "hotel_currency": null,
+            "meal_type": "BC",
+            "nonrefundable": true,
+            "view": false,
+            "rooms": [
+                {
+                    "pax": {
+                        "children_ages": [],
+                        "adult_quantity": 2
+                    },
+                    "room_category": "Standard",
+                    "room_description": "Standard Room, 1 Double Bed",
+                    "nightly_prices": {
+                        "2018-06-11": "6.49"
+                    },
+                    "room_type": "DB"
+                }
+            ],
+            "supports_cancellation": true,
+            "minimum_selling_price": "6.69",
+            "offer": true,
+            "policies": [
+                {
+                    "ratio": "1",
+                    "days_remaining": 14
+                }
+            ]
+        },
+        {
+            "code": "137635_211976165762_1_11_2_1_1_0_1793961396_1_1-3-0_14-100.20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_",
+            "destination_code": "12fcb",
+            "hotel_code": "137635",
+            "additional_info": "",
+            "checkin": "2018-06-11",
+            "checkout": "2018-06-12",
+            "price": "10.46",
+            "currency": "USD",
+            "pay_at_hotel": false,
+            "hotel_price": null,
+            "hotel_currency": null,
+            "meal_type": "BC",
+            "nonrefundable": true,
+            "view": false,
+            "rooms": [
+                {
+                    "pax": {
+                        "children_ages": [],
+                        "adult_quantity": 2
+                    },
+                    "room_category": "Deluxe",
+                    "room_description": "Deluxe Studio, 1 Double Bed",
+                    "nightly_prices": {
+                        "2018-06-11": "10.46"
+                    },
+                    "room_type": "DB"
+                }
+            ],
+            "supports_cancellation": true,
+            "minimum_selling_price": "10.79",
+            "offer": true,
+            "policies": [
+                {
+                    "ratio": "1",
+                    "days_remaining": 14
+                }
+            ]
+        }
+    ]
+}

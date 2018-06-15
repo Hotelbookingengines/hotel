@@ -1,0 +1,137 @@
+[
+  {
+    "code": "101a",
+    "updated_at": "2017-06-01T09:45:06.436603Z",
+    "name": "Near Field"
+  },
+  {
+    "code": "1019",
+    "updated_at": "2017-06-01T09:45:06.388584Z",
+    "name": "Boutique"
+  },
+  {
+    "code": "1018",
+    "updated_at": "2017-06-01T09:45:06.340375Z",
+    "name": "Sejour"
+  },
+  {
+    "code": "1017",
+    "updated_at": "2017-06-01T09:45:06.262663Z",
+    "name": "City"
+  },
+  {
+    "code": "1016",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Backpackers"
+  },
+  {
+    "code": "1015",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Budget-Friendly"
+  },
+  {
+    "code": "1014",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gay-Friendly"
+  },
+  {
+    "code": "1013",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Eco-Friendly"
+  },
+  {
+    "code": "1012",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Business"
+  },
+  {
+    "code": "1011",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Nature/Wildlife"
+  },
+  {
+    "code": "1010",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "International"
+  },
+  {
+    "code": "100f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Countryside"
+  },
+  {
+    "code": "100e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "City trip"
+  },
+  {
+    "code": "100d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shopping"
+  },
+  {
+    "code": "100c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mountains"
+  },
+  {
+    "code": "100b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Castle"
+  },
+  {
+    "code": "100a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Adventure"
+  },
+  {
+    "code": "1009",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Budget/Backpackers"
+  },
+  {
+    "code": "1008",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Luxury"
+  },
+  {
+    "code": "1007",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Design"
+  },
+  {
+    "code": "1006",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Family"
+  },
+  {
+    "code": "1005",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gourmet"
+  },
+  {
+    "code": "1004",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Romance/Honeymoon"
+  },
+  {
+    "code": "1003",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Golf/Sports"
+  },
+  {
+    "code": "1002",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Spa/Relax"
+  },
+  {
+    "code": "1001",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ski/Wintersports"
+  },
+  {
+    "code": "1000",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Beach/Seaside"
+  }
+]

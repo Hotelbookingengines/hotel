@@ -1,0 +1,172 @@
+[
+  {
+    "code": "235",
+    "updated_at": "2016-04-29T06:03:45.686206Z",
+    "name": "Historic Hotels"
+  },
+  {
+    "code": "234",
+    "updated_at": "2016-04-29T06:01:32.179240Z",
+    "name": "City Hotels"
+  },
+  {
+    "code": "233",
+    "updated_at": "2016-04-29T05:59:54.185196Z",
+    "name": "Airport Hotels"
+  },
+  {
+    "code": "232",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gites"
+  },
+  {
+    "code": "231",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Economy hotels"
+  },
+  {
+    "code": "230",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cottages"
+  },
+  {
+    "code": "229",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Condos"
+  },
+  {
+    "code": "228",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Chalets"
+  },
+  {
+    "code": "227",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Riads"
+  },
+  {
+    "code": "226",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Love hotels"
+  },
+  {
+    "code": "225",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Capsule hotels"
+  },
+  {
+    "code": "224",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Luxury tents"
+  },
+  {
+    "code": "223",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Country houses"
+  },
+  {
+    "code": "222",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Homestays"
+  },
+  {
+    "code": "221",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lodges"
+  },
+  {
+    "code": "220",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Holiday homes"
+  },
+  {
+    "code": "219",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aparthotels"
+  },
+  {
+    "code": "218",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Inns"
+  },
+  {
+    "code": "217",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Uncertain"
+  },
+  {
+    "code": "216",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guest houses"
+  },
+  {
+    "code": "215",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Boats"
+  },
+  {
+    "code": "214",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Campsites"
+  },
+  {
+    "code": "213",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Villas"
+  },
+  {
+    "code": "212",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Holiday parks"
+  },
+  {
+    "code": "210",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Farm stays"
+  },
+  {
+    "code": "209",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ryokans"
+  },
+  {
+    "code": "208",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bed and breakfasts"
+  },
+  {
+    "code": "207",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Residences"
+  },
+  {
+    "code": "206",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Resorts"
+  },
+  {
+    "code": "205",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Motels"
+  },
+  {
+    "code": "204",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotels"
+  },
+  {
+    "code": "203",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hostels"
+  },
+  {
+    "code": "202",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guest accommodation"
+  },
+  {
+    "code": "201",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apartments"
+  }
+]

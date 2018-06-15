@@ -1,0 +1,117 @@
+[
+  {
+    "code": "15",
+    "name": "shared room",
+    "updated_at": "2018-03-30T07:58:43.452809Z"
+  },
+  {
+    "code": "14",
+    "name": "economy room",
+    "updated_at": "2018-03-30T07:58:34.030735Z"
+  },
+  {
+    "code": "13",
+    "name": "traditional room",
+    "updated_at": "2018-03-30T07:58:19.818979Z"
+  },
+  {
+    "code": "12",
+    "name": "superior room",
+    "updated_at": "2018-03-30T07:58:03.387683Z"
+  },
+  {
+    "code": "11",
+    "name": "suite room",
+    "updated_at": "2018-03-30T07:57:49.102007Z"
+  },
+  {
+    "code": "10",
+    "name": "studio room",
+    "updated_at": "2018-03-30T07:57:38.050389Z"
+  },
+  {
+    "code": "9",
+    "name": "standard room",
+    "updated_at": "2018-03-30T07:57:18.928268Z"
+  },
+  {
+    "code": "8",
+    "name": "room wheelchair adapted",
+    "updated_at": "2018-03-30T07:56:55.813618Z"
+  },
+  {
+    "code": "7",
+    "name": "presidential suite",
+    "updated_at": "2018-03-30T07:56:35.324797Z"
+  },
+  {
+    "code": "6",
+    "name": "premium room",
+    "updated_at": "2018-03-30T07:56:21.070401Z"
+  },
+  {
+    "code": "5",
+    "name": "luxury room",
+    "updated_at": "2018-03-30T07:56:03.236703Z"
+  },
+  {
+    "code": "4",
+    "name": "junior suite room",
+    "updated_at": "2018-03-30T07:55:51.184806Z"
+  },
+  {
+    "code": "3",
+    "name": "executive room",
+    "updated_at": "2018-03-30T07:55:37.753121Z"
+  },
+  {
+    "code": "2",
+    "name": "comfort room",
+    "updated_at": "2018-03-30T07:55:20.861907Z"
+  },
+  {
+    "code": "1",
+    "name": "aparment",
+    "updated_at": "2018-03-30T07:55:03.258397Z"
+  },
+  {
+    "code": "villa",
+    "name": "Villa",
+    "updated_at": "2014-12-08T06:00:00Z"
+  },
+  {
+    "code": "bungalow",
+    "name": "Bungalow",
+    "updated_at": "2014-12-08T06:00:00Z"
+  },
+  {
+    "code": "apartment",
+    "name": "Apartment",
+    "updated_at": "2014-12-08T06:00:00Z"
+  },
+  {
+    "code": "junior-suite",
+    "name": "Junior Suite",
+    "updated_at": "2014-12-08T06:00:00Z"
+  },
+  {
+    "code": "suite",
+    "name": "Suite",
+    "updated_at": "2018-03-30T08:07:18.309652Z"
+  },
+  {
+    "code": "deluxe",
+    "name": "Deluxe",
+    "updated_at": "2018-03-30T08:07:39.851424Z"
+  },
+  {
+    "code": "superior",
+    "name": "Superior",
+    "updated_at": "2018-03-30T08:07:45.339467Z"
+  },
+  {
+    "code": "standard",
+    "name": "Standard",
+    "updated_at": "2018-03-30T08:07:50.412676Z"
+  }
+]

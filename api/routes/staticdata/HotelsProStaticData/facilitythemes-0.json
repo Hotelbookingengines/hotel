@@ -1,0 +1,282 @@
+[
+  {
+    "code": "137",
+    "name": "Nightlife",
+    "updated_at": "2016-03-10T14:23:12.829739Z"
+  },
+  {
+    "code": "136",
+    "name": "swimming pool",
+    "updated_at": "2016-03-10T14:23:12.824953Z"
+  },
+  {
+    "code": "135",
+    "name": "Religious",
+    "updated_at": "2016-03-10T14:23:12.820113Z"
+  },
+  {
+    "code": "134",
+    "name": "non-disabled",
+    "updated_at": "2016-03-10T14:23:12.815032Z"
+  },
+  {
+    "code": "133",
+    "name": "Spa",
+    "updated_at": "2016-03-10T14:23:12.810125Z"
+  },
+  {
+    "code": "132",
+    "name": "Pet Friendly",
+    "updated_at": "2016-03-10T14:23:12.805283Z"
+  },
+  {
+    "code": "131",
+    "name": "Couples",
+    "updated_at": "2016-03-10T14:23:12.800404Z"
+  },
+  {
+    "code": "130",
+    "name": "Elderly",
+    "updated_at": "2016-03-10T14:23:12.795561Z"
+  },
+  {
+    "code": "12f",
+    "name": "Honeymoon",
+    "updated_at": "2016-03-10T14:23:12.790659Z"
+  },
+  {
+    "code": "12e",
+    "name": "Backpackers",
+    "updated_at": "2016-03-10T14:23:12.785712Z"
+  },
+  {
+    "code": "12d",
+    "name": "Non-Smoking",
+    "updated_at": "2016-03-10T14:23:12.780761Z"
+  },
+  {
+    "code": "12c",
+    "name": "Family",
+    "updated_at": "2016-03-10T14:23:12.775588Z"
+  },
+  {
+    "code": "12b",
+    "name": "Golf",
+    "updated_at": "2016-03-10T14:23:12.770650Z"
+  },
+  {
+    "code": "12a",
+    "name": "All",
+    "updated_at": "2016-03-10T14:23:12.765824Z"
+  },
+  {
+    "code": "129",
+    "name": "disabled",
+    "updated_at": "2016-03-10T14:23:12.761025Z"
+  },
+  {
+    "code": "128",
+    "name": "Nearby",
+    "updated_at": "2016-03-10T14:23:12.756242Z"
+  },
+  {
+    "code": "127",
+    "name": "group",
+    "updated_at": "2016-03-10T14:23:12.751285Z"
+  },
+  {
+    "code": "126",
+    "name": "luxury",
+    "updated_at": "2016-03-10T14:23:12.746440Z"
+  },
+  {
+    "code": "125",
+    "name": "wedding",
+    "updated_at": "2016-03-10T14:23:12.741559Z"
+  },
+  {
+    "code": "124",
+    "name": "Non-family",
+    "updated_at": "2016-03-10T14:23:12.736794Z"
+  },
+  {
+    "code": "123",
+    "name": "Families with small children",
+    "updated_at": "2016-03-10T14:23:12.731989Z"
+  },
+  {
+    "code": "122",
+    "name": "non-family",
+    "updated_at": "2016-03-10T14:23:12.727159Z"
+  },
+  {
+    "code": "121",
+    "name": "Families with young children",
+    "updated_at": "2016-03-10T14:23:12.722308Z"
+  },
+  {
+    "code": "120",
+    "name": "Budget",
+    "updated_at": "2016-03-10T14:23:12.717318Z"
+  },
+  {
+    "code": "11f",
+    "name": "Casino",
+    "updated_at": "2016-03-10T14:23:12.712049Z"
+  },
+  {
+    "code": "11e",
+    "name": "Vegetarian",
+    "updated_at": "2016-03-10T14:23:12.707231Z"
+  },
+  {
+    "code": "11d",
+    "name": "Pet friendly",
+    "updated_at": "2016-03-10T14:23:12.702385Z"
+  },
+  {
+    "code": "11c",
+    "name": "business",
+    "updated_at": "2016-03-10T14:23:12.697544Z"
+  },
+  {
+    "code": "11b",
+    "name": "pet friendly",
+    "updated_at": "2016-03-10T14:23:12.692703Z"
+  },
+  {
+    "code": "11a",
+    "name": "Kids",
+    "updated_at": "2016-03-10T14:23:12.687838Z"
+  },
+  {
+    "code": "119",
+    "name": "Food & Wine",
+    "updated_at": "2016-03-10T14:23:12.673256Z"
+  },
+  {
+    "code": "118",
+    "name": "spa",
+    "updated_at": "2016-03-10T14:23:12.668280Z"
+  },
+  {
+    "code": "117",
+    "name": "Women",
+    "updated_at": "2016-03-10T14:23:12.663419Z"
+  },
+  {
+    "code": "116",
+    "name": "Smoking",
+    "updated_at": "2016-03-10T14:23:12.658586Z"
+  },
+  {
+    "code": "115",
+    "name": "Wedding",
+    "updated_at": "2016-03-10T14:23:12.653721Z"
+  },
+  {
+    "code": "114",
+    "name": "Adventure",
+    "updated_at": "2016-03-10T14:23:12.648832Z"
+  },
+  {
+    "code": "113",
+    "name": "romance",
+    "updated_at": "2016-03-10T14:23:12.643819Z"
+  },
+  {
+    "code": "112",
+    "name": "sports",
+    "updated_at": "2016-03-10T14:23:12.638965Z"
+  },
+  {
+    "code": "111",
+    "name": "Adult Only",
+    "updated_at": "2016-03-10T14:23:12.634084Z"
+  },
+  {
+    "code": "110",
+    "name": "Men",
+    "updated_at": "2016-03-10T14:23:12.629253Z"
+  },
+  {
+    "code": "10f",
+    "name": "Romance",
+    "updated_at": "2016-03-10T14:23:12.624424Z"
+  },
+  {
+    "code": "10e",
+    "name": "Ski",
+    "updated_at": "2016-03-10T14:23:12.619566Z"
+  },
+  {
+    "code": "10d",
+    "name": "Business",
+    "updated_at": "2016-03-10T14:23:12.614690Z"
+  },
+  {
+    "code": "10c",
+    "name": "Families",
+    "updated_at": "2016-03-10T14:23:12.609908Z"
+  },
+  {
+    "code": "10b",
+    "name": "Shopping",
+    "updated_at": "2016-03-10T14:23:12.605177Z"
+  },
+  {
+    "code": "10a",
+    "name": "Disabled",
+    "updated_at": "2016-03-10T14:23:12.600353Z"
+  },
+  {
+    "code": "109",
+    "name": "Beach",
+    "updated_at": "2016-03-10T14:23:12.595478Z"
+  },
+  {
+    "code": "108",
+    "name": "International",
+    "updated_at": "2016-03-10T14:23:12.590677Z"
+  },
+  {
+    "code": "107",
+    "name": "Health Tourism",
+    "updated_at": "2016-03-10T14:23:12.585758Z"
+  },
+  {
+    "code": "106",
+    "name": "Luxury",
+    "updated_at": "2016-03-10T14:23:12.580899Z"
+  },
+  {
+    "code": "105",
+    "name": "design",
+    "updated_at": "2016-03-10T14:23:12.576065Z"
+  },
+  {
+    "code": "104",
+    "name": "couples",
+    "updated_at": "2016-03-10T14:23:12.571254Z"
+  },
+  {
+    "code": "103",
+    "name": "Sports",
+    "updated_at": "2016-03-10T14:23:12.566386Z"
+  },
+  {
+    "code": "102",
+    "name": "elderly",
+    "updated_at": "2016-03-10T14:23:12.561514Z"
+  },
+  {
+    "code": "101",
+    "name": "Young",
+    "updated_at": "2016-03-10T14:23:12.556685Z"
+  },
+  {
+    "code": "100",
+    "name": "Group",
+    "updated_at": "2016-03-10T14:23:12.551584Z"
+  }
+]

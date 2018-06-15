@@ -1,0 +1,4467 @@
+[
+  {
+    "code": "47c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Posadas"
+  },
+  {
+    "code": "47b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kibbutz Hotels & Resorts"
+  },
+  {
+    "code": "47a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Isrotel Hotels & Resorts"
+  },
+  {
+    "code": "479",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bayview International Hotels and Resorts"
+  },
+  {
+    "code": "478",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tsogo Sun-Hotels"
+  },
+  {
+    "code": "477",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cumulus"
+  },
+  {
+    "code": "476",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aspen Parks"
+  },
+  {
+    "code": "475",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Accent Inns"
+  },
+  {
+    "code": "474",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Natura IMB Hotels"
+  },
+  {
+    "code": "473",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Thanos Hotels"
+  },
+  {
+    "code": "472",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Focus Hotel Group"
+  },
+  {
+    "code": "471",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Liau hotels"
+  },
+  {
+    "code": "470",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Town House Collection"
+  },
+  {
+    "code": "46f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MiNC Apartments"
+  },
+  {
+    "code": "46e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Silver Needle Hospitality"
+  },
+  {
+    "code": "46d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Piramide"
+  },
+  {
+    "code": "46c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Promenade"
+  },
+  {
+    "code": "46b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Stamford Hotels & Resorts"
+  },
+  {
+    "code": "46a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Base"
+  },
+  {
+    "code": "469",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fiesta Inn Hotels"
+  },
+  {
+    "code": "468",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fiesta Americana Hotels and Resorts"
+  },
+  {
+    "code": "467",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Coralia"
+  },
+  {
+    "code": "466",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aeroviaggi S.p.a."
+  },
+  {
+    "code": "465",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotel Indigo"
+  },
+  {
+    "code": "464",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tarsadia Hotels"
+  },
+  {
+    "code": "463",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Caesar Hotels"
+  },
+  {
+    "code": "462",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rimonim Hotels"
+  },
+  {
+    "code": "461",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Prima Hotels Israel"
+  },
+  {
+    "code": "460",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sun Hotels"
+  },
+  {
+    "code": "45f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Atlas Hotels"
+  },
+  {
+    "code": "45e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "KSL Resorts"
+  },
+  {
+    "code": "45d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Azimut"
+  },
+  {
+    "code": "45c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apartments Swiss Star"
+  },
+  {
+    "code": "45b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AR Hotels & Resorts"
+  },
+  {
+    "code": "45a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Intur"
+  },
+  {
+    "code": "459",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quest Serviced Apartments"
+  },
+  {
+    "code": "458",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hipotels"
+  },
+  {
+    "code": "457",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Turim Hotels Group"
+  },
+  {
+    "code": "456",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tiara Hotels & Resorts"
+  },
+  {
+    "code": "455",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rydges Hotels & Resorts"
+  },
+  {
+    "code": "454",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fairfield Inn"
+  },
+  {
+    "code": "453",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "SpringHill Suites"
+  },
+  {
+    "code": "452",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Punthill Apartment Hotels"
+  },
+  {
+    "code": "451",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rent an Irish Cottage"
+  },
+  {
+    "code": "450",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Maisons & Hotels Sibuet"
+  },
+  {
+    "code": "44f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marlin Apartments"
+  },
+  {
+    "code": "44e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "SH Hotels"
+  },
+  {
+    "code": "44d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Seaside Hotels"
+  },
+  {
+    "code": "44c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ABC Hoteles"
+  },
+  {
+    "code": "44b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Alexandre Hotels"
+  },
+  {
+    "code": "44a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Landmark Group Of Hotels"
+  },
+  {
+    "code": "449",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Travelodge Hotels"
+  },
+  {
+    "code": "448",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vibe Hotels"
+  },
+  {
+    "code": "447",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Adina"
+  },
+  {
+    "code": "446",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Medina"
+  },
+  {
+    "code": "445",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Red Carpet Inn & Suites"
+  },
+  {
+    "code": "444",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Golden Hotels"
+  },
+  {
+    "code": "443",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grecian Hotels"
+  },
+  {
+    "code": "442",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Windsor Hotels"
+  },
+  {
+    "code": "441",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "StayAt Hotel Apartments"
+  },
+  {
+    "code": "440",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Leptos Calypso Hotels"
+  },
+  {
+    "code": "43f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guvon Hotels"
+  },
+  {
+    "code": "43e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aquasol Hotels"
+  },
+  {
+    "code": "43d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Waldorf Astoria Hotels & Resorts"
+  },
+  {
+    "code": "43c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Holiday Club Spa Hotels"
+  },
+  {
+    "code": "43b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gaia Hotels"
+  },
+  {
+    "code": "43a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lapland Hotels"
+  },
+  {
+    "code": "439",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Collector's Hotels"
+  },
+  {
+    "code": "438",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Extended Stay Hotels"
+  },
+  {
+    "code": "437",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Posadas de Espana"
+  },
+  {
+    "code": "436",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quinta Real"
+  },
+  {
+    "code": "435",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Blu Hotels"
+  },
+  {
+    "code": "434",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GIT Hoteles"
+  },
+  {
+    "code": "433",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GHM Luxury Hotels"
+  },
+  {
+    "code": "432",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "BridgeStreet"
+  },
+  {
+    "code": "431",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Frasers Hospitality"
+  },
+  {
+    "code": "430",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Antaeus"
+  },
+  {
+    "code": "42f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Continental Hotels"
+  },
+  {
+    "code": "42e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aranzazu Hotels"
+  },
+  {
+    "code": "42d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hilton Garden Inn"
+  },
+  {
+    "code": "42c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Extra Holidays by Wyndham"
+  },
+  {
+    "code": "42b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Innside Premium Hotels"
+  },
+  {
+    "code": "42a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Microtel Inns & Suites"
+  },
+  {
+    "code": "429",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hawthorn Suites"
+  },
+  {
+    "code": "428",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Claremont Group"
+  },
+  {
+    "code": "427",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Santa Grand Group"
+  },
+  {
+    "code": "426",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oberoi Hotels & Resorts"
+  },
+  {
+    "code": "425",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Masters Inn"
+  },
+  {
+    "code": "424",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Palace Resorts"
+  },
+  {
+    "code": "423",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AmericInn"
+  },
+  {
+    "code": "422",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aloft"
+  },
+  {
+    "code": "421",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Home Inns & Hotels Management Inc"
+  },
+  {
+    "code": "420",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Compass Hospitality"
+  },
+  {
+    "code": "41f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grand Chancellor Hotels"
+  },
+  {
+    "code": "41e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AR Hoteles"
+  },
+  {
+    "code": "41d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Green Tree Inns"
+  },
+  {
+    "code": "41c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sarovar Hotels"
+  },
+  {
+    "code": "41b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Parkland Hotels"
+  },
+  {
+    "code": "41a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oaks Hotels & Resorts"
+  },
+  {
+    "code": "419",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "SPN Group of Hotels"
+  },
+  {
+    "code": "418",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Amari Hotels and Resorts"
+  },
+  {
+    "code": "417",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lemon Tree Hotels"
+  },
+  {
+    "code": "416",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mark Hotels"
+  },
+  {
+    "code": "415",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Center Parcs"
+  },
+  {
+    "code": "414",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Diament"
+  },
+  {
+    "code": "413",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pontes Hotéis"
+  },
+  {
+    "code": "412",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shelton Inn"
+  },
+  {
+    "code": "411",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Nacional Inn"
+  },
+  {
+    "code": "410",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Estanplaza Hotels"
+  },
+  {
+    "code": "40f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Riema"
+  },
+  {
+    "code": "40e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Travel Inn Hotéis"
+  },
+  {
+    "code": "40d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rede Plaza de Hotéis"
+  },
+  {
+    "code": "40c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sol Express Hotéis"
+  },
+  {
+    "code": "40b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kronengruppen"
+  },
+  {
+    "code": "40a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Nirwana Gardens"
+  },
+  {
+    "code": "409",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Les Balcons"
+  },
+  {
+    "code": "408",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Novum Hotels"
+  },
+  {
+    "code": "407",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Taj Hotels, Resorts and Palaces"
+  },
+  {
+    "code": "406",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Langham Hotels International"
+  },
+  {
+    "code": "405",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aqua Resorts"
+  },
+  {
+    "code": "404",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Station Casino"
+  },
+  {
+    "code": "403",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Finlandia Hotels"
+  },
+  {
+    "code": "402",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mandarin Oriental"
+  },
+  {
+    "code": "401",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Celebrity Resorts"
+  },
+  {
+    "code": "400",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupa Hoteli WAM"
+  },
+  {
+    "code": "3ff",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vanity Hotels by Viva"
+  },
+  {
+    "code": "3fe",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Swiss Inn Hotels"
+  },
+  {
+    "code": "3fd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Camino Real"
+  },
+  {
+    "code": "3fc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "JS Hotels"
+  },
+  {
+    "code": "3fb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kungis"
+  },
+  {
+    "code": "3fa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Legend Lodges"
+  },
+  {
+    "code": "3f9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Heritage Hotels"
+  },
+  {
+    "code": "3f8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rendezvous Hotels"
+  },
+  {
+    "code": "3f7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Europe Hotels"
+  },
+  {
+    "code": "3f6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Baymont Inn & Suites"
+  },
+  {
+    "code": "3f5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Legacy Hotels & Resorts International"
+  },
+  {
+    "code": "3f4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Victor's Residenz Hotels"
+  },
+  {
+    "code": "3f3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grand Hotel International"
+  },
+  {
+    "code": "3f2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Geisel Privathotels"
+  },
+  {
+    "code": "3f1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pan Pacific Hotels & Resorts"
+  },
+  {
+    "code": "3f0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MH Apartments"
+  },
+  {
+    "code": "3ef",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Doubletree by Hilton"
+  },
+  {
+    "code": "3ee",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Embassy Suites Hotels"
+  },
+  {
+    "code": "3ed",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Homewood Suites by Hilton"
+  },
+  {
+    "code": "3ec",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Orea Hotels"
+  },
+  {
+    "code": "3eb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Niche Hotels"
+  },
+  {
+    "code": "3ea",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Eton Collection"
+  },
+  {
+    "code": "3e9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mellow Mood"
+  },
+  {
+    "code": "3e8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "pentahotels"
+  },
+  {
+    "code": "3e7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Ferrer"
+  },
+  {
+    "code": "3e6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hôtels-Chalets de Tradition"
+  },
+  {
+    "code": "3e5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Yes Hotels"
+  },
+  {
+    "code": "3e4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Urban Hip Hotels"
+  },
+  {
+    "code": "3e3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Premier Hotels"
+  },
+  {
+    "code": "3e2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arvena"
+  },
+  {
+    "code": "3e1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Residhotel"
+  },
+  {
+    "code": "3e0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fragrance Hotel"
+  },
+  {
+    "code": "3df",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hôtels de Charme et de Caractère"
+  },
+  {
+    "code": "3de",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Chincherini Holiday"
+  },
+  {
+    "code": "3dd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Americas Best Inn"
+  },
+  {
+    "code": "3dc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Planetaria Hotels"
+  },
+  {
+    "code": "3db",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shire Hotels"
+  },
+  {
+    "code": "3da",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Land-gut-Hotels"
+  },
+  {
+    "code": "3d9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Royal Premier Hoteles"
+  },
+  {
+    "code": "3d8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Parc Hotels"
+  },
+  {
+    "code": "3d7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kingsgate Hotels"
+  },
+  {
+    "code": "3d6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Cristal"
+  },
+  {
+    "code": "3d5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aston Hotels"
+  },
+  {
+    "code": "3d4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Adagio City Aparthotel"
+  },
+  {
+    "code": "3d3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Torse Hoteles"
+  },
+  {
+    "code": "3d2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MGallery"
+  },
+  {
+    "code": "3d1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "FPI Hotels"
+  },
+  {
+    "code": "3d0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "RCA Hotels"
+  },
+  {
+    "code": "3cf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hecansa"
+  },
+  {
+    "code": "3ce",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Caesars Entertainment"
+  },
+  {
+    "code": "3cd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kimpton Hotels"
+  },
+  {
+    "code": "3cc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sani Resort"
+  },
+  {
+    "code": "3cb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sunstar Hotels"
+  },
+  {
+    "code": "3ca",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "VCH Hotels"
+  },
+  {
+    "code": "3c9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Regardz"
+  },
+  {
+    "code": "3c8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Eden Hotels"
+  },
+  {
+    "code": "3c7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotel 81"
+  },
+  {
+    "code": "3c6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Iberostar Hotels & Resorts"
+  },
+  {
+    "code": "3c5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Günnewig Hotels"
+  },
+  {
+    "code": "3c4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aisia Hoteles"
+  },
+  {
+    "code": "3c3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sallés Hotels"
+  },
+  {
+    "code": "3c2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marcegaglia Tourism"
+  },
+  {
+    "code": "3c1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ascott The Residence"
+  },
+  {
+    "code": "3c0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Marmara Collection"
+  },
+  {
+    "code": "3bf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Divan Hotels"
+  },
+  {
+    "code": "3be",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "S.A.Brain & Co. Ltd"
+  },
+  {
+    "code": "3bd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lloyds Hotel Group"
+  },
+  {
+    "code": "3bc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Delta hotels"
+  },
+  {
+    "code": "3bb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oasis Atlântico Hotels & Resorts"
+  },
+  {
+    "code": "3ba",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "DC Hoteles"
+  },
+  {
+    "code": "3b9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Reverón Hoteles"
+  },
+  {
+    "code": "3b8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Furama Hotels International Management"
+  },
+  {
+    "code": "3b7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grand Bleu"
+  },
+  {
+    "code": "3b6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Small Elegant Hotels"
+  },
+  {
+    "code": "3b5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Different Hotels"
+  },
+  {
+    "code": "3b4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pebble Hotels"
+  },
+  {
+    "code": "3b3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GC Hotels"
+  },
+  {
+    "code": "3b2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Peermont Hotels Casinos Resorts"
+  },
+  {
+    "code": "3b1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "all seasons (Accor)"
+  },
+  {
+    "code": "3b0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Conrad Hotels & Resorts"
+  },
+  {
+    "code": "3af",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oceana Hotels & Leisure"
+  },
+  {
+    "code": "3ae",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Beatriz Hoteles"
+  },
+  {
+    "code": "3ad",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marco Polo Hotels"
+  },
+  {
+    "code": "3ac",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fasthotel"
+  },
+  {
+    "code": "3ab",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Travelodge"
+  },
+  {
+    "code": "3aa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hi Hotels"
+  },
+  {
+    "code": "3a9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Luna Hoteis"
+  },
+  {
+    "code": "3a8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hollybush Hotels"
+  },
+  {
+    "code": "3a7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sterling Hotels"
+  },
+  {
+    "code": "3a6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Far East Hospitality"
+  },
+  {
+    "code": "3a5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Distinct Hotels"
+  },
+  {
+    "code": "3a4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Corinthia Hotels"
+  },
+  {
+    "code": "3a3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tsokkos Hotels"
+  },
+  {
+    "code": "3a2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Domina Hotel Group"
+  },
+  {
+    "code": "3a1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Poseidón"
+  },
+  {
+    "code": "3a0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mac Hotels"
+  },
+  {
+    "code": "39f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shell Vacations Hospitality"
+  },
+  {
+    "code": "39e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Destination Hotels & Resorts"
+  },
+  {
+    "code": "39d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Elba"
+  },
+  {
+    "code": "39c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sonnenhotels AG"
+  },
+  {
+    "code": "39b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Precise Hotel Collection"
+  },
+  {
+    "code": "39a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "UR Hotels"
+  },
+  {
+    "code": "399",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Harbor"
+  },
+  {
+    "code": "398",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Three Corners Hotels & resorts"
+  },
+  {
+    "code": "397",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Topotel"
+  },
+  {
+    "code": "396",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Comwell Hotels"
+  },
+  {
+    "code": "395",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Top City & CountryLine Hotels"
+  },
+  {
+    "code": "394",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pullman Hotels and Resorts"
+  },
+  {
+    "code": "393",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guadalpin Hoteles"
+  },
+  {
+    "code": "392",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Manoli Hotels"
+  },
+  {
+    "code": "391",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hampton Hotels"
+  },
+  {
+    "code": "390",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Meininger Hotels"
+  },
+  {
+    "code": "38f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sonesta Collection Hotels"
+  },
+  {
+    "code": "38e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Revalis Ever"
+  },
+  {
+    "code": "38d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Don Suite Hotels"
+  },
+  {
+    "code": "38c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Helnan International Hotels"
+  },
+  {
+    "code": "38b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Leonardo Hotels"
+  },
+  {
+    "code": "38a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dolan Hotels"
+  },
+  {
+    "code": "389",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Seymour Hotels"
+  },
+  {
+    "code": "388",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Geovita Resorts"
+  },
+  {
+    "code": "387",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Red Roof Inn"
+  },
+  {
+    "code": "386",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Hoteles Ronda"
+  },
+  {
+    "code": "385",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ibiza Feeling"
+  },
+  {
+    "code": "384",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Clifton Hotels"
+  },
+  {
+    "code": "383",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Concorde"
+  },
+  {
+    "code": "382",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "EverHôtel"
+  },
+  {
+    "code": "381",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MdB"
+  },
+  {
+    "code": "380",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Delfin Hotels"
+  },
+  {
+    "code": "37f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dhillon Hotels"
+  },
+  {
+    "code": "37e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Balboa Hoteles"
+  },
+  {
+    "code": "37d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Elite Hotels of Sweden"
+  },
+  {
+    "code": "37c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cotswold Inns & Hotels Ltd"
+  },
+  {
+    "code": "37b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Amber Hotels"
+  },
+  {
+    "code": "37a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Althoff Hotel Collection"
+  },
+  {
+    "code": "379",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Odalys"
+  },
+  {
+    "code": "378",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apollo Hotels & Resorts"
+  },
+  {
+    "code": "377",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Three Cities Group"
+  },
+  {
+    "code": "376",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "BE-Housing"
+  },
+  {
+    "code": "375",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "English Lakes"
+  },
+  {
+    "code": "374",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Nestor Hotels"
+  },
+  {
+    "code": "373",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Orbis Hotels"
+  },
+  {
+    "code": "372",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hampshire Hotels Management"
+  },
+  {
+    "code": "371",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Zanhotel Group"
+  },
+  {
+    "code": "370",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "EIX Hotels"
+  },
+  {
+    "code": "36f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Terme Maribor"
+  },
+  {
+    "code": "36e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sava Hotels & Resorts"
+  },
+  {
+    "code": "36d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jadran Hoteli d.d."
+  },
+  {
+    "code": "36c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Terme SPA Rogaška d.d."
+  },
+  {
+    "code": "36b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sol y Mar"
+  },
+  {
+    "code": "36a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Mediterráneo"
+  },
+  {
+    "code": "369",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "arcona Management GmbH"
+  },
+  {
+    "code": "368",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gastland"
+  },
+  {
+    "code": "367",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marconfort Hotels & Apartments"
+  },
+  {
+    "code": "366",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MS Hoteles"
+  },
+  {
+    "code": "365",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "St Austell Brewery"
+  },
+  {
+    "code": "364",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Richardson Hotels"
+  },
+  {
+    "code": "363",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Your Hotel"
+  },
+  {
+    "code": "362",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "La Quinta Inn and Suites"
+  },
+  {
+    "code": "361",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Claphotels"
+  },
+  {
+    "code": "360",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Angala Hotels"
+  },
+  {
+    "code": "35f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Knights Inn"
+  },
+  {
+    "code": "35e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Wingate by Wyndham"
+  },
+  {
+    "code": "35d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Floris Hotels"
+  },
+  {
+    "code": "35c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Boí Taüll Resort"
+  },
+  {
+    "code": "35b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Camille Oostwegel ChâteauHotels & -Restaurants "
+  },
+  {
+    "code": "35a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "QMH Hotels"
+  },
+  {
+    "code": "359",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "W Hotels"
+  },
+  {
+    "code": "358",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sokos Hotels"
+  },
+  {
+    "code": "357",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Resort Quest"
+  },
+  {
+    "code": "356",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aquila Hotels"
+  },
+  {
+    "code": "355",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Leading Hotels of the World"
+  },
+  {
+    "code": "354",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jurys Inns"
+  },
+  {
+    "code": "353",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "RB Properties Inc."
+  },
+  {
+    "code": "352",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Somriu Hotels"
+  },
+  {
+    "code": "351",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Premium Hotels"
+  },
+  {
+    "code": "350",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Best Hotels"
+  },
+  {
+    "code": "34f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Somerset"
+  },
+  {
+    "code": "34e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jumeirah"
+  },
+  {
+    "code": "34d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Americas Best Value Inn"
+  },
+  {
+    "code": "34c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Westside Rentals"
+  },
+  {
+    "code": "34b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Greystone Hospitality"
+  },
+  {
+    "code": "34a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ctwo Hotels"
+  },
+  {
+    "code": "349",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vagabond Inn"
+  },
+  {
+    "code": "348",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Najeti"
+  },
+  {
+    "code": "347",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Radisson"
+  },
+  {
+    "code": "346",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Super 8"
+  },
+  {
+    "code": "345",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Country Inns & Suites"
+  },
+  {
+    "code": "344",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Loews Hotels"
+  },
+  {
+    "code": "343",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Park Plaza Hotels & Resorts"
+  },
+  {
+    "code": "342",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Park Inn by Radisson"
+  },
+  {
+    "code": "341",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Etap Hotel"
+  },
+  {
+    "code": "340",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Howard Johnson"
+  },
+  {
+    "code": "33f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dorint Hotels"
+  },
+  {
+    "code": "33e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Plaza Andorra"
+  },
+  {
+    "code": "33d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "African Sky Hotels, Spas and Resorts"
+  },
+  {
+    "code": "33c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "NP Plitvicka Jezera"
+  },
+  {
+    "code": "33b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Monarque Hoteles"
+  },
+  {
+    "code": "33a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mar Hotels"
+  },
+  {
+    "code": "339",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Concorde Hotels Germany"
+  },
+  {
+    "code": "338",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "LandKomfort Hotels"
+  },
+  {
+    "code": "337",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotels in Venice"
+  },
+  {
+    "code": "336",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Relais Hotels"
+  },
+  {
+    "code": "335",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Protea Hotels"
+  },
+  {
+    "code": "334",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rastelli Hotels"
+  },
+  {
+    "code": "333",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Nordic Hotels (Germany)"
+  },
+  {
+    "code": "332",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fairmont Hotels & Resorts"
+  },
+  {
+    "code": "331",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Abode Hotels"
+  },
+  {
+    "code": "330",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Scandic"
+  },
+  {
+    "code": "32f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marina D'or"
+  },
+  {
+    "code": "32e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HTP Korcula"
+  },
+  {
+    "code": "32d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jolly Hotels"
+  },
+  {
+    "code": "32c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GCH Hotel Group"
+  },
+  {
+    "code": "32b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "TRH Hoteles"
+  },
+  {
+    "code": "32a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Seetel Hotels"
+  },
+  {
+    "code": "329",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "London Premier"
+  },
+  {
+    "code": "328",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles MA"
+  },
+  {
+    "code": "327",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "City Hotels Hispania"
+  },
+  {
+    "code": "326",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mint Hotels"
+  },
+  {
+    "code": "325",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arenaturist"
+  },
+  {
+    "code": "324",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AC Hoteles"
+  },
+  {
+    "code": "323",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AC Hotels"
+  },
+  {
+    "code": "322",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hyatt"
+  },
+  {
+    "code": "321",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Exclusive Hotels"
+  },
+  {
+    "code": "320",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Euro Hostels"
+  },
+  {
+    "code": "31f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Epoque Hotels"
+  },
+  {
+    "code": "31e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oxford Hotels & Inns"
+  },
+  {
+    "code": "31d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Zerca Hoteles"
+  },
+  {
+    "code": "31c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Elizabeth Hotels"
+  },
+  {
+    "code": "31b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Electra Hotels & Resorts"
+  },
+  {
+    "code": "31a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Egido Hoteles"
+  },
+  {
+    "code": "319",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ecohoteles"
+  },
+  {
+    "code": "318",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Eazires Hotels"
+  },
+  {
+    "code": "317",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Logis du Grand Duché de Luxembourg"
+  },
+  {
+    "code": "316",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Logis International"
+  },
+  {
+    "code": "315",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Logis de Belgique"
+  },
+  {
+    "code": "314",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dusit Hotels & Resorts"
+  },
+  {
+    "code": "313",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dunne Hotels"
+  },
+  {
+    "code": "312",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ludovici Group"
+  },
+  {
+    "code": "311",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lucien Barriere"
+  },
+  {
+    "code": "310",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lindner Hotels & Resorts"
+  },
+  {
+    "code": "30f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lifeclass Hotels & Resorts"
+  },
+  {
+    "code": "30e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Liburnia Riviera Hoteli"
+  },
+  {
+    "code": "30d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dunas Hotels & Resorts"
+  },
+  {
+    "code": "30c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Les Hôtels de Paris"
+  },
+  {
+    "code": "30b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Leonardi Hotels"
+  },
+  {
+    "code": "30a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Legacy Hotels"
+  },
+  {
+    "code": "309",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dorisol Hotels"
+  },
+  {
+    "code": "308",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lavender Hotels"
+  },
+  {
+    "code": "307",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Landidyll"
+  },
+  {
+    "code": "306",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lake District Hotels"
+  },
+  {
+    "code": "305",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Domus Hotels"
+  },
+  {
+    "code": "304",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Domotel"
+  },
+  {
+    "code": "303",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kris Hoteles"
+  },
+  {
+    "code": "302",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Korman Communities"
+  },
+  {
+    "code": "301",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Domina Hotels & Resorts"
+  },
+  {
+    "code": "300",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dom Pedro"
+  },
+  {
+    "code": "2ff",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dolce Hotels & Resorts"
+  },
+  {
+    "code": "2fe",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Divani Collection"
+  },
+  {
+    "code": "2fd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Design Hotels"
+  },
+  {
+    "code": "2fc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Barcelona Apartment"
+  },
+  {
+    "code": "2fb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Derag Livinghotel"
+  },
+  {
+    "code": "2fa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Dema"
+  },
+  {
+    "code": "2f9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Delfthotels"
+  },
+  {
+    "code": "2f8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Danubius Hotels"
+  },
+  {
+    "code": "2f7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "D'or Hotels"
+  },
+  {
+    "code": "2f6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cross Country Hotels"
+  },
+  {
+    "code": "2f5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Crerar Hotels"
+  },
+  {
+    "code": "2f4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Countryside Hotels"
+  },
+  {
+    "code": "2f3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kempinski"
+  },
+  {
+    "code": "2f2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Keahotels"
+  },
+  {
+    "code": "2f1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "K+K Hotels"
+  },
+  {
+    "code": "2f0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Evenia Hotels"
+  },
+  {
+    "code": "2ef",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Costa brava Verd Hotels"
+  },
+  {
+    "code": "2ee",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Corus Hotels"
+  },
+  {
+    "code": "2ed",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Corsendonk Group Hotels"
+  },
+  {
+    "code": "2ec",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Corolla Hotels & Resorts"
+  },
+  {
+    "code": "2eb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Coral International Hotels , Resorts & Spas"
+  },
+  {
+    "code": "2ea",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Coral Hotels"
+  },
+  {
+    "code": "2e9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Confortel"
+  },
+  {
+    "code": "2e8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "H·Top Hotels Group"
+  },
+  {
+    "code": "2e7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Husa Hoteles"
+  },
+  {
+    "code": "2e6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Concerto Hotels"
+  },
+  {
+    "code": "2e5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Compagnie Hoteliere des Alpes"
+  },
+  {
+    "code": "2e4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Colonna Hotels"
+  },
+  {
+    "code": "2e3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cocoon Hotels"
+  },
+  {
+    "code": "2e2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Club Quarters"
+  },
+  {
+    "code": "2e1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hunguest Hotels"
+  },
+  {
+    "code": "2e0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Classical Hotels"
+  },
+  {
+    "code": "2df",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Classic Lodges"
+  },
+  {
+    "code": "2de",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Classic Hotels"
+  },
+  {
+    "code": "2dd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotetur"
+  },
+  {
+    "code": "2dc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Classic British Hotels"
+  },
+  {
+    "code": "2db",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotenco Hotels"
+  },
+  {
+    "code": "2da",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Civis Hotels"
+  },
+  {
+    "code": "2d9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Civis Hoteles"
+  },
+  {
+    "code": "2d8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Serhs Hotels "
+  },
+  {
+    "code": "2d7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ciutat Hotels"
+  },
+  {
+    "code": "2d6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Citymar"
+  },
+  {
+    "code": "2d5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotels Nuñez y Navarro"
+  },
+  {
+    "code": "2d4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "City Partner"
+  },
+  {
+    "code": "2d3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Citotel"
+  },
+  {
+    "code": "2d2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteli Maestral"
+  },
+  {
+    "code": "2d1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Citea"
+  },
+  {
+    "code": "2d0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteli Baska"
+  },
+  {
+    "code": "2cf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Citadines"
+  },
+  {
+    "code": "2ce",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Chateaux et Demeures de Tradition"
+  },
+  {
+    "code": "2cd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Chateaux et Hotels Collection"
+  },
+  {
+    "code": "2cc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Charme e Relax"
+  },
+  {
+    "code": "2cb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "RelaxInnz"
+  },
+  {
+    "code": "2ca",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Var"
+  },
+  {
+    "code": "2c9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Silken"
+  },
+  {
+    "code": "2c8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Servi Group"
+  },
+  {
+    "code": "2c7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Saint Michel"
+  },
+  {
+    "code": "2c6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Quo"
+  },
+  {
+    "code": "2c5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Porcel"
+  },
+  {
+    "code": "2c4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Monte"
+  },
+  {
+    "code": "2c3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Jale"
+  },
+  {
+    "code": "2c2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Invisa"
+  },
+  {
+    "code": "2c1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Chandris Hotels & Resorts"
+  },
+  {
+    "code": "2c0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Centerhotels"
+  },
+  {
+    "code": "2bf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Center Hotels"
+  },
+  {
+    "code": "2be",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Celuisma"
+  },
+  {
+    "code": "2bd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Joie de Vivre Hospitality"
+  },
+  {
+    "code": "2bc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "JM Hoteles"
+  },
+  {
+    "code": "2bb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "JJW Hotels & Resorts"
+  },
+  {
+    "code": "2ba",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jin Jiang Hotels"
+  },
+  {
+    "code": "2b9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jarvis"
+  },
+  {
+    "code": "2b8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cairn Hotels"
+  },
+  {
+    "code": "2b7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "CABINN AS"
+  },
+  {
+    "code": "2b6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jardins de Paris"
+  },
+  {
+    "code": "2b5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jahreszeiten Hotels"
+  },
+  {
+    "code": "2b4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Jadranka Hoteli"
+  },
+  {
+    "code": "2b3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ITI Hotels"
+  },
+  {
+    "code": "2b2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Intertur"
+  },
+  {
+    "code": "2b1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "International Vacation"
+  },
+  {
+    "code": "2b0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles, Casas y Palacios de Espana"
+  },
+  {
+    "code": "2af",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Inter-hotel"
+  },
+  {
+    "code": "2ae",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Insotel"
+  },
+  {
+    "code": "2ad",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Inntel"
+  },
+  {
+    "code": "2ac",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Imperial"
+  },
+  {
+    "code": "2ab",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ilirija Hotels"
+  },
+  {
+    "code": "2aa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Lopesan Hotels & Resorts"
+  },
+  {
+    "code": "2a9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Icelandair Hotels"
+  },
+  {
+    "code": "2a8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Iberotel Hotels & Resorts"
+  },
+  {
+    "code": "2a7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "IBB Hotels"
+  },
+  {
+    "code": "2a6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Safeer Hotels"
+  },
+  {
+    "code": "2a5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Salgar Hotels"
+  },
+  {
+    "code": "2a4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "San Marco Hotels"
+  },
+  {
+    "code": "2a3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "SANA Hotels"
+  },
+  {
+    "code": "2a2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sandton Hotels"
+  },
+  {
+    "code": "2a1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Savoy"
+  },
+  {
+    "code": "2a0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "SB Hotels"
+  },
+  {
+    "code": "29f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sbokos Hotel Group"
+  },
+  {
+    "code": "29e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Schick Hotels"
+  },
+  {
+    "code": "29d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sea Hotels Group"
+  },
+  {
+    "code": "29c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Séjours & Affaires"
+  },
+  {
+    "code": "29b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Select Marketing Hotels"
+  },
+  {
+    "code": "29a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sercotel Hoteles"
+  },
+  {
+    "code": "299",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Serrano Hotels"
+  },
+  {
+    "code": "298",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Set Hotels"
+  },
+  {
+    "code": "297",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shangri-La Hotels & Resorts"
+  },
+  {
+    "code": "296",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Shepherd Neame"
+  },
+  {
+    "code": "295",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Signature Hotel Group"
+  },
+  {
+    "code": "294",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Silence Hotels"
+  },
+  {
+    "code": "293",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sina Hotels"
+  },
+  {
+    "code": "292",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sirenis Hotels"
+  },
+  {
+    "code": "291",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sleepwell Hotels"
+  },
+  {
+    "code": "290",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Small Luxury Hotels of the World"
+  },
+  {
+    "code": "28f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Soglia Hotels & Resorts"
+  },
+  {
+    "code": "28e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Solaris Beach Resort"
+  },
+  {
+    "code": "28d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Solvasa Hoteles"
+  },
+  {
+    "code": "28c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Somerston Hotels"
+  },
+  {
+    "code": "28b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Hijano"
+  },
+  {
+    "code": "28a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sorat Hotels"
+  },
+  {
+    "code": "289",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sorell Hotels"
+  },
+  {
+    "code": "288",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Globales"
+  },
+  {
+    "code": "287",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Culturales Tématicos"
+  },
+  {
+    "code": "286",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sotour Austria"
+  },
+  {
+    "code": "285",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Costablanca"
+  },
+  {
+    "code": "284",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Star Inn Hotels"
+  },
+  {
+    "code": "283",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Starhotels"
+  },
+  {
+    "code": "282",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Stayokay"
+  },
+  {
+    "code": "281",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Center"
+  },
+  {
+    "code": "280",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "InterCityHotels"
+  },
+  {
+    "code": "27f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Steigenberger Hotels & Resorts"
+  },
+  {
+    "code": "27e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Stil Hotels & Resorts"
+  },
+  {
+    "code": "27d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Strathmore Hotels"
+  },
+  {
+    "code": "27c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Catalonia"
+  },
+  {
+    "code": "27b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Park & Suites Groupe"
+  },
+  {
+    "code": "27a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Summa Hoteles"
+  },
+  {
+    "code": "279",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Summit Hotels & Resorts"
+  },
+  {
+    "code": "278",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles Andaluces con Encanto"
+  },
+  {
+    "code": "277",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sun Confort"
+  },
+  {
+    "code": "276",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Suncani Hvar Hotels"
+  },
+  {
+    "code": "275",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sunflower Hotels"
+  },
+  {
+    "code": "274",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sunlight Hoteles"
+  },
+  {
+    "code": "273",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sunotel"
+  },
+  {
+    "code": "272",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Supranational"
+  },
+  {
+    "code": "271",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Swallow Hotels"
+  },
+  {
+    "code": "270",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Swiss Budget Hotels"
+  },
+  {
+    "code": "26f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Swiss Quality Hotels"
+  },
+  {
+    "code": "26e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Symbol Hoteles"
+  },
+  {
+    "code": "26d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteles & Resort EXPO"
+  },
+  {
+    "code": "26c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Roussill'hôtel"
+  },
+  {
+    "code": "26b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rotana"
+  },
+  {
+    "code": "26a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rosamar Hotels"
+  },
+  {
+    "code": "269",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Room Mate"
+  },
+  {
+    "code": "268",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Romantik"
+  },
+  {
+    "code": "267",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotel Edda"
+  },
+  {
+    "code": "266",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteis Real"
+  },
+  {
+    "code": "265",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rocco Forte Hotels"
+  },
+  {
+    "code": "264",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Roc Hotels"
+  },
+  {
+    "code": "263",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rive Gauche"
+  },
+  {
+    "code": "262",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ringhotels"
+  },
+  {
+    "code": "261",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rica Hotels"
+  },
+  {
+    "code": "260",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Riberpuig Hotels"
+  },
+  {
+    "code": "25f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "RH Hoteles"
+  },
+  {
+    "code": "25e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Reval Hotels"
+  },
+  {
+    "code": "25d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Symboles de France"
+  },
+  {
+    "code": "25c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Reside Etudes Apparthotels"
+  },
+  {
+    "code": "25b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Residentie Hotels"
+  },
+  {
+    "code": "25a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hoteis Heritage Lisboa"
+  },
+  {
+    "code": "259",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Renner"
+  },
+  {
+    "code": "258",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Relax Hotels"
+  },
+  {
+    "code": "257",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Symphony Hotels"
+  },
+  {
+    "code": "256",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Relais de Paris"
+  },
+  {
+    "code": "255",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Terme Krka"
+  },
+  {
+    "code": "254",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "THB Hoteles"
+  },
+  {
+    "code": "253",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Relais & Châteaux"
+  },
+  {
+    "code": "252",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Regetel"
+  },
+  {
+    "code": "251",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotasa"
+  },
+  {
+    "code": "250",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Red Carnation Hotels"
+  },
+  {
+    "code": "24f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Recommended Hotels"
+  },
+  {
+    "code": "24e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Myconian Collection"
+  },
+  {
+    "code": "24d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ramee Group"
+  },
+  {
+    "code": "24c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotansa"
+  },
+  {
+    "code": "24b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hospes"
+  },
+  {
+    "code": "24a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Raffles"
+  },
+  {
+    "code": "249",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rafaelhoteles"
+  },
+  {
+    "code": "248",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Stein Hotels & Resorts"
+  },
+  {
+    "code": "247",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Thistle"
+  },
+  {
+    "code": "246",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Homehotel"
+  },
+  {
+    "code": "245",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hollybourne Hotels"
+  },
+  {
+    "code": "244",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Logis Holland"
+  },
+  {
+    "code": "243",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Holiday Park"
+  },
+  {
+    "code": "242",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Thon Hotels"
+  },
+  {
+    "code": "241",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quietude-Evasion"
+  },
+  {
+    "code": "240",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Queens Gruppe"
+  },
+  {
+    "code": "23f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Qubus Hotel"
+  },
+  {
+    "code": "23e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quality Lodgings"
+  },
+  {
+    "code": "23d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quality Hotels Benidorm"
+  },
+  {
+    "code": "23c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Q Hotels"
+  },
+  {
+    "code": "23b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Protur Hotels"
+  },
+  {
+    "code": "23a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Profil Hotels"
+  },
+  {
+    "code": "239",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Prodomo Hotels"
+  },
+  {
+    "code": "238",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Private Selection Hotels"
+  },
+  {
+    "code": "237",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Prinsotel"
+  },
+  {
+    "code": "236",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Principal Hayley Hotels & Conference Venues"
+  },
+  {
+    "code": "235",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Prima Hotels"
+  },
+  {
+    "code": "234",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pretur Hoteles"
+  },
+  {
+    "code": "233",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Prestige"
+  },
+  {
+    "code": "232",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Premier Inn"
+  },
+  {
+    "code": "231",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HMC Hotels"
+  },
+  {
+    "code": "230",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HM Hotels"
+  },
+  {
+    "code": "22f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HLG Hoteles"
+  },
+  {
+    "code": "22e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Petit Palace Hoteles"
+  },
+  {
+    "code": "22d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Timhotel"
+  },
+  {
+    "code": "22c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "TIP TOP Hotels"
+  },
+  {
+    "code": "22b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tivoli Hotels"
+  },
+  {
+    "code": "22a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HG Hoteles"
+  },
+  {
+    "code": "229",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "TOP Hotels"
+  },
+  {
+    "code": "228",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HEM hotels"
+  },
+  {
+    "code": "227",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Helios Hotels"
+  },
+  {
+    "code": "226",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "HCC hotels"
+  },
+  {
+    "code": "225",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hatton hotel Group"
+  },
+  {
+    "code": "224",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hastings Hotels"
+  },
+  {
+    "code": "223",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Handpicked Hotels"
+  },
+  {
+    "code": "222",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ayre Hoteles"
+  },
+  {
+    "code": "221",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Premier Apartments"
+  },
+  {
+    "code": "220",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pregio Hotels"
+  },
+  {
+    "code": "21f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Preferred Hotel Group"
+  },
+  {
+    "code": "21e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Habitat Hotels"
+  },
+  {
+    "code": "21d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pousadas de Compostela"
+  },
+  {
+    "code": "21c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Brøchner Hotels"
+  },
+  {
+    "code": "21b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Britannia Hotels"
+  },
+  {
+    "code": "21a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Brit Hotel"
+  },
+  {
+    "code": "219",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Portfolio Hotels"
+  },
+  {
+    "code": "218",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Port Aventura"
+  },
+  {
+    "code": "217",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Polish Prestige Hotels & Resorts"
+  },
+  {
+    "code": "216",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Playa Senator"
+  },
+  {
+    "code": "215",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Brend Hotels"
+  },
+  {
+    "code": "214",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Piñero Hoteles"
+  },
+  {
+    "code": "213",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "BQ Hoteles"
+  },
+  {
+    "code": "212",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pierre & Vacances"
+  },
+  {
+    "code": "211",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "H10 Hotels"
+  },
+  {
+    "code": "210",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guldsmeden Hotels"
+  },
+  {
+    "code": "20f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Pestana Hotels & Resorts"
+  },
+  {
+    "code": "20e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Guitart Hotels"
+  },
+  {
+    "code": "20d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Personality Hotels"
+  },
+  {
+    "code": "20c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Adriatic Luxury Hotels"
+  },
+  {
+    "code": "20b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Peel Hotels"
+  },
+  {
+    "code": "20a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Boscolo First Class Hotels"
+  },
+  {
+    "code": "209",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Boscolo Luxury Hotels"
+  },
+  {
+    "code": "208",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Partner Hoteles"
+  },
+  {
+    "code": "207",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupotel"
+  },
+  {
+    "code": "206",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bonsaï Escale"
+  },
+  {
+    "code": "205",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bonsaï Etape"
+  },
+  {
+    "code": "204",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bonsaï Relais"
+  },
+  {
+    "code": "203",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Panorama Hotels"
+  },
+  {
+    "code": "202",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bologna Art Hotels"
+  },
+  {
+    "code": "201",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Othon"
+  },
+  {
+    "code": "200",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Belmond Hotels"
+  },
+  {
+    "code": "1ff",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Orco Group"
+  },
+  {
+    "code": "1fe",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ona Sol"
+  },
+  {
+    "code": "1fd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Omni Hotels"
+  },
+  {
+    "code": "1fc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Reino Hoteles"
+  },
+  {
+    "code": "1fb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Old English Inns"
+  },
+  {
+    "code": "1fa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "OK Hotels"
+  },
+  {
+    "code": "1f9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oceania"
+  },
+  {
+    "code": "1f8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ocean Group Hotels & Resorts"
+  },
+  {
+    "code": "1f7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Occidental"
+  },
+  {
+    "code": "1f6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "PlayaSol Hotel Group"
+  },
+  {
+    "code": "1f5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "OCA Hotels"
+  },
+  {
+    "code": "1f4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Naturalis"
+  },
+  {
+    "code": "1f3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Group Best Hotel"
+  },
+  {
+    "code": "1f2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Gargallo"
+  },
+  {
+    "code": "1f1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bensaude Hotels"
+  },
+  {
+    "code": "1f0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Belhotel Hotels & Resorts"
+  },
+  {
+    "code": "1ef",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Bali"
+  },
+  {
+    "code": "1ee",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grupo Abades"
+  },
+  {
+    "code": "1ed",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gromada Hotels"
+  },
+  {
+    "code": "1ec",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GreenLine Hotels"
+  },
+  {
+    "code": "1eb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Greene King's Pubs & Hotels"
+  },
+  {
+    "code": "1ea",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grecotel"
+  },
+  {
+    "code": "1e9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Great Southern Hotels"
+  },
+  {
+    "code": "1e8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grange hotels"
+  },
+  {
+    "code": "1e7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grandes Etapes Françaises"
+  },
+  {
+    "code": "1e6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Norlandia Hotels"
+  },
+  {
+    "code": "1e5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Noble House Hotels"
+  },
+  {
+    "code": "1e4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "New Lodges"
+  },
+  {
+    "code": "1e3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Newhotel"
+  },
+  {
+    "code": "1e2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "My One Hotels"
+  },
+  {
+    "code": "1e1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mur Hoteles"
+  },
+  {
+    "code": "1e0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Motel One"
+  },
+  {
+    "code": "1df",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Morvan Hotels"
+  },
+  {
+    "code": "1de",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Morgans Hotel Group"
+  },
+  {
+    "code": "1dd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Moran Hotels"
+  },
+  {
+    "code": "1dc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Morada Hotels & Resorts"
+  },
+  {
+    "code": "1db",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Grand UK Hotels"
+  },
+  {
+    "code": "1da",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Golden Leaf Hotels & Residences"
+  },
+  {
+    "code": "1d9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Goeres Group Luxembourg"
+  },
+  {
+    "code": "1d8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Oasis Hotels & Resorts"
+  },
+  {
+    "code": "1d7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Giglio Hotels"
+  },
+  {
+    "code": "1d6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GHT Hotels"
+  },
+  {
+    "code": "1d5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GHOTEL hotel & living"
+  },
+  {
+    "code": "1d4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "GH Hoteles"
+  },
+  {
+    "code": "1d3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Gema Hoteles"
+  },
+  {
+    "code": "1d2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Garzotto Hotels & Resorts"
+  },
+  {
+    "code": "1d1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Travel Charme Hotels & Resorts"
+  },
+  {
+    "code": "1d0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Monrif Hotels"
+  },
+  {
+    "code": "1cf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Garden Hoteles"
+  },
+  {
+    "code": "1ce",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fuller's"
+  },
+  {
+    "code": "1cd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mokinba  Hotels"
+  },
+  {
+    "code": "1cc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Moevenpick Hotels & Resorts"
+  },
+  {
+    "code": "1cb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fuerte Hoteles"
+  },
+  {
+    "code": "1ca",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mister Bed Residence"
+  },
+  {
+    "code": "1c9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mister Bed City"
+  },
+  {
+    "code": "1c8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mister Bed"
+  },
+  {
+    "code": "1c7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "MiniHotels"
+  },
+  {
+    "code": "1c6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Copthorne Hotels"
+  },
+  {
+    "code": "1c5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Millennium Hotels"
+  },
+  {
+    "code": "1c4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Good Night Inns"
+  },
+  {
+    "code": "1c3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Metropol Resort"
+  },
+  {
+    "code": "1c2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "France Patrimoine"
+  },
+  {
+    "code": "1c1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Meritus"
+  },
+  {
+    "code": "1c0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mercer Accomodation Group"
+  },
+  {
+    "code": "1bf",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Menzies Hotels"
+  },
+  {
+    "code": "1be",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Medplaya"
+  },
+  {
+    "code": "1bd",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Medium Hoteles"
+  },
+  {
+    "code": "1bc",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Foxa Hotels"
+  },
+  {
+    "code": "1bb",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "McKever Hotels"
+  },
+  {
+    "code": "1ba",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Martins"
+  },
+  {
+    "code": "1b9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Maritim"
+  },
+  {
+    "code": "1b8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mariterra Hotels"
+  },
+  {
+    "code": "1b7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Maris Hotels"
+  },
+  {
+    "code": "1b6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Four Pillars Hotels"
+  },
+  {
+    "code": "1b5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Treff"
+  },
+  {
+    "code": "1b4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fountain Court Apartments"
+  },
+  {
+    "code": "1b3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fosshotel"
+  },
+  {
+    "code": "1b2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Forestdale Hotels"
+  },
+  {
+    "code": "1b1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Folio Hotels Management"
+  },
+  {
+    "code": "1b0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Flair Hotels"
+  },
+  {
+    "code": "1af",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "First Hotels"
+  },
+  {
+    "code": "1ae",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Palladium Hotel Group"
+  },
+  {
+    "code": "1ad",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Festival Hotels"
+  },
+  {
+    "code": "1ac",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fenice Hotels"
+  },
+  {
+    "code": "1ab",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Manotel"
+  },
+  {
+    "code": "1aa",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Turin Hotels"
+  },
+  {
+    "code": "1a9",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Manniello Hotels"
+  },
+  {
+    "code": "1a8",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mamaison Hotels & Residences"
+  },
+  {
+    "code": "1a7",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Una Hotels & Resorts"
+  },
+  {
+    "code": "1a6",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Malmaison"
+  },
+  {
+    "code": "1a5",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Feathers"
+  },
+  {
+    "code": "1a4",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Maistra d.d."
+  },
+  {
+    "code": "1a3",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Macia Hotels"
+  },
+  {
+    "code": "1a2",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Falkensteiner Hotels & Residences"
+  },
+  {
+    "code": "1a1",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "F&G Hotels"
+  },
+  {
+    "code": "1a0",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Macdonald Hotels & Resorts"
+  },
+  {
+    "code": "19f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Upstalsboom"
+  },
+  {
+    "code": "19e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vacation Care"
+  },
+  {
+    "code": "19d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Valamar"
+  },
+  {
+    "code": "19c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Valentin Hotels"
+  },
+  {
+    "code": "19b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vavlitis Hotels"
+  },
+  {
+    "code": "19a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Venture Hotels"
+  },
+  {
+    "code": "199",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "De Vere Hotels & Resorts"
+  },
+  {
+    "code": "198",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Victoria Garden"
+  },
+  {
+    "code": "197",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vienna International Hotels & Resorts"
+  },
+  {
+    "code": "196",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vila Gale"
+  },
+  {
+    "code": "195",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Village and Life"
+  },
+  {
+    "code": "194",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bilderberg"
+  },
+  {
+    "code": "193",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Barceló Hotels & Resorts"
+  },
+  {
+    "code": "192",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Barata Hotel Group"
+  },
+  {
+    "code": "191",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Balladins"
+  },
+  {
+    "code": "190",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Balladins Express"
+  },
+  {
+    "code": "18f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Balladins Confort"
+  },
+  {
+    "code": "18e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Balladins Superior"
+  },
+  {
+    "code": "18d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Baglioni Hotels"
+  },
+  {
+    "code": "18c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "B&H Hotels"
+  },
+  {
+    "code": "18b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "B&B Hotels"
+  },
+  {
+    "code": "18a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aviotel"
+  },
+  {
+    "code": "189",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AVE Hotels"
+  },
+  {
+    "code": "188",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Austrotel Hotels"
+  },
+  {
+    "code": "187",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Austria Trend Hotels"
+  },
+  {
+    "code": "186",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Austria Hotels International"
+  },
+  {
+    "code": "185",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Austria Classic Hotels"
+  },
+  {
+    "code": "184",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Atrium Hotels"
+  },
+  {
+    "code": "183",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Atahotels"
+  },
+  {
+    "code": "182",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Astotel"
+  },
+  {
+    "code": "181",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arp-Hansen Hotel Group"
+  },
+  {
+    "code": "180",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aris Hotels"
+  },
+  {
+    "code": "17f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arcotel Hotels & Resorts"
+  },
+  {
+    "code": "17e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arcea Hoteles"
+  },
+  {
+    "code": "17d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Arcantis Hotels"
+  },
+  {
+    "code": "17c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aqua Hotel"
+  },
+  {
+    "code": "17b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apsis hotels"
+  },
+  {
+    "code": "17a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apple Core Hotels"
+  },
+  {
+    "code": "179",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Appart'City"
+  },
+  {
+    "code": "178",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apogia Hotel Group"
+  },
+  {
+    "code": "177",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Apex Hotels"
+  },
+  {
+    "code": "176",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Appart'Valley Hôtels et Résidences"
+  },
+  {
+    "code": "175",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Antiche Dimore"
+  },
+  {
+    "code": "174",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Anthurium Hotels"
+  },
+  {
+    "code": "173",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AMT Hotels"
+  },
+  {
+    "code": "172",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Amsterdam Hospitality"
+  },
+  {
+    "code": "171",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Amic Hotels"
+  },
+  {
+    "code": "170",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Alpitour World Hotels & Resorts"
+  },
+  {
+    "code": "16f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Alliance Alberghi"
+  },
+  {
+    "code": "16e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aldemar Hotels"
+  },
+  {
+    "code": "16d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Habtoor Hotels"
+  },
+  {
+    "code": "16c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AKZENT Hotels"
+  },
+  {
+    "code": "16b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Akena Relais"
+  },
+  {
+    "code": "16a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Akena City"
+  },
+  {
+    "code": "169",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Akena Hotel"
+  },
+  {
+    "code": "168",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Village Hotels & Leisure Clubs"
+  },
+  {
+    "code": "167",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Airotel Group"
+  },
+  {
+    "code": "166",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Villes et Vignobles"
+  },
+  {
+    "code": "165",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AHotels"
+  },
+  {
+    "code": "164",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AHC Hotels"
+  },
+  {
+    "code": "163",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "AGH Hoteles"
+  },
+  {
+    "code": "162",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Rodeway Inn"
+  },
+  {
+    "code": "161",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Econo Lodge"
+  },
+  {
+    "code": "160",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Main Stay Suites"
+  },
+  {
+    "code": "15f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Cambria Suites"
+  },
+  {
+    "code": "15e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Clarion"
+  },
+  {
+    "code": "15d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sleep Inn"
+  },
+  {
+    "code": "15c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Quality Inn"
+  },
+  {
+    "code": "15b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Comfort Suites"
+  },
+  {
+    "code": "15a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Comfort Inn"
+  },
+  {
+    "code": "159",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Swissôtel"
+  },
+  {
+    "code": "158",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vime Hoteles"
+  },
+  {
+    "code": "157",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Aeon Plaza Hotels"
+  },
+  {
+    "code": "156",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Advena Hotels"
+  },
+  {
+    "code": "155",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Vincci Hoteles"
+  },
+  {
+    "code": "154",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "VIP Hotels"
+  },
+  {
+    "code": "153",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Viva Hotels & resorts"
+  },
+  {
+    "code": "152",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Adrian Hoteles"
+  },
+  {
+    "code": "151",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ACHAT Hotels"
+  },
+  {
+    "code": "150",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Acevi Hotels"
+  },
+  {
+    "code": "14f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Acampora Hotels"
+  },
+  {
+    "code": "14e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "VP Hotels"
+  },
+  {
+    "code": "14d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Academia Hotels"
+  },
+  {
+    "code": "14c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotels Waldorf Paris"
+  },
+  {
+    "code": "14b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Abba Hoteles"
+  },
+  {
+    "code": "14a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Warwick Hotels"
+  },
+  {
+    "code": "149",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Weitzer Hotels"
+  },
+  {
+    "code": "148",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "A.s Hotels"
+  },
+  {
+    "code": "147",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Welcome Break"
+  },
+  {
+    "code": "146",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Residence Inn"
+  },
+  {
+    "code": "145",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "JW Marriott Hotels & Resorts"
+  },
+  {
+    "code": "144",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "welcome hotels & restaurants"
+  },
+  {
+    "code": "143",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Whitehouse Hotels"
+  },
+  {
+    "code": "142",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Ritz-Carlton Company, L.L.C"
+  },
+  {
+    "code": "141",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Courtyard by Marriott"
+  },
+  {
+    "code": "140",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Renaissance Hotels & Resorts"
+  },
+  {
+    "code": "13f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Winters Hotel Company"
+  },
+  {
+    "code": "13e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Eurostars Hotels"
+  },
+  {
+    "code": "13d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hotusa"
+  },
+  {
+    "code": "13c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sol Meliá Vacation Club"
+  },
+  {
+    "code": "13b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Paradisus Resorts"
+  },
+  {
+    "code": "13a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "A&O Hotels & Hostels"
+  },
+  {
+    "code": "139",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sol Hoteles"
+  },
+  {
+    "code": "138",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "TRYP Hoteles"
+  },
+  {
+    "code": "137",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ME by Meliá"
+  },
+  {
+    "code": "136",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Meliá Hotels & Resorts"
+  },
+  {
+    "code": "135",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": " Ever Hotels"
+  },
+  {
+    "code": "134",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Marriott Hotels & Resorts"
+  },
+  {
+    "code": "133",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Worldhotels"
+  },
+  {
+    "code": "132",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hilton Hotels & Resorts"
+  },
+  {
+    "code": "131",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "nhow by NH Hotels"
+  },
+  {
+    "code": "130",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Minotel"
+  },
+  {
+    "code": "12f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Staybridge Suites by Holiday Inn"
+  },
+  {
+    "code": "12e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Candlewood Suites"
+  },
+  {
+    "code": "12d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Even Hotels & Resorts"
+  },
+  {
+    "code": "12c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Holiday Inn Hotels & Resorts"
+  },
+  {
+    "code": "12b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Crowne Plaza Hotels & Resorts"
+  },
+  {
+    "code": "12a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "InterContinental Hotels & Resorts"
+  },
+  {
+    "code": "129",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Not in use"
+  },
+  {
+    "code": "128",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Zenit Hoteles"
+  },
+  {
+    "code": "127",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Zleep Hotels"
+  },
+  {
+    "code": "126",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sherlock Holmes"
+  },
+  {
+    "code": "125",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Plaza on the River"
+  },
+  {
+    "code": "124",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Westin"
+  },
+  {
+    "code": "123",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Le Meridien Hotels & Resorts"
+  },
+  {
+    "code": "122",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "The Luxury Collection by Starwood"
+  },
+  {
+    "code": "121",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "St. Regis"
+  },
+  {
+    "code": "120",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Four Points by Sheraton"
+  },
+  {
+    "code": "11f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sheraton"
+  },
+  {
+    "code": "11e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ZT Hotels"
+  },
+  {
+    "code": "11d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "ibis"
+  },
+  {
+    "code": "11c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Suite Novotel"
+  },
+  {
+    "code": "11b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Mercure"
+  },
+  {
+    "code": "11a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Novotel"
+  },
+  {
+    "code": "119",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Sofitel"
+  },
+  {
+    "code": "118",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Wyndham Hotels & Resorts"
+  },
+  {
+    "code": "117",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Travelodge by Wyndham"
+  },
+  {
+    "code": "116",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Days Inn"
+  },
+  {
+    "code": "115",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Ramada"
+  },
+  {
+    "code": "114",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "WestCord Hotels"
+  },
+  {
+    "code": "113",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "NH Hotels"
+  },
+  {
+    "code": "112",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Van der Valk Hotels"
+  },
+  {
+    "code": "111",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "art'otel"
+  },
+  {
+    "code": "110",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Park Plaza Hotels & Resorts"
+  },
+  {
+    "code": "10f",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hampshire Classic Hotels"
+  },
+  {
+    "code": "10e",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hampshire Inns"
+  },
+  {
+    "code": "10d",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Royal Tulip Hotels"
+  },
+  {
+    "code": "10c",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Tulip Inn"
+  },
+  {
+    "code": "10b",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Golden Tulip Resorts"
+  },
+  {
+    "code": "10a",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Golden Tulip Hotels"
+  },
+  {
+    "code": "109",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Eden City Hotels"
+  },
+  {
+    "code": "108",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Hampshire Hotels"
+  },
+  {
+    "code": "107",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Bastion Hotel Groep"
+  },
+  {
+    "code": "106",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Fletcher Hotels"
+  },
+  {
+    "code": "105",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Best Western"
+  },
+  {
+    "code": "104",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Amrath Hotels"
+  },
+  {
+    "code": "103",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kyriad Prestige Hotel"
+  },
+  {
+    "code": "102",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Premiere Classe Hotels"
+  },
+  {
+    "code": "101",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Kyriad Hotel"
+  },
+  {
+    "code": "100",
+    "updated_at": "2014-12-23T06:00:00Z",
+    "name": "Campanile"
+  }
+]

@@ -1,0 +1,70 @@
+POST - https://api-test.hotelspro.com/api/v2/book/PUKMP3MCBGSS
+body : name=1,test,test,adult&name=1,testb,testb,adult&expected_price=32.39
+
+Header: Content-Type:application/x-www-form-urlencoded
+Accept:application/json
+Authorization:Basic QXZvZ2FUcmF2ZWxzVGVzdDpoWlhDQXBDbTNuY3duMmVN
+
+response: 
+{
+    "code": "BW8SFE4W2227",
+    "created_at": "2018-05-29T08:20:49.393Z",
+    "checkin": "2018-06-11",
+    "checkout": "2018-06-12",
+    "hotel_code": "137635",
+    "destination_code": "12fcb",
+    "client_nationality": "in",
+    "pay_at_hotel": false,
+    "currency": "USD",
+    "mealtype_code": "BC",
+    "nonrefundable": true,
+    "view": false,
+    "policies": [
+        {
+            "days_remaining": 14,
+            "ratio": "1.00"
+        }
+    ],
+    "taxes": [],
+    "fees": [],
+    "price": "6.49",
+    "rooms": [
+        {
+            "pax": {
+                "children_ages": [],
+                "adult_quantity": 2
+            },
+            "room_category": "Standard",
+            "room_description": "Standard Room, 1 Double Bed",
+            "nightly_prices": {
+                "2018-06-11": "6.49"
+            },
+            "room_type": "DB"
+        }
+    ],
+    "status": "succeeded",
+    "confirmation_numbers": [
+        {
+            "confirmation_number": "308688587|1234",
+            "names": [
+                "testb testb",
+                "test test"
+            ],
+            "rooms": [
+                {
+                    "room_description": "",
+                    "room_type": "2"
+                }
+            ]
+        }
+    ],
+    "hotel_payment_info": [
+        {
+            "hotel_currency": null,
+            "hotel_price": null
+        }
+    ],
+    "minimum_selling_price": "6.69",
+    "special_request": null,
+    "hotel_confirmation_number_date": "2018-05-29 08:20:50.375824+00:00"
+}

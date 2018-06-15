@@ -1,0 +1,6133 @@
+[
+  {
+    "code": "10215",
+    "name": "Puk Tian",
+    "updated_at": "2014-09-22T21:05:24.986921Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.032997131348,
+    "latitude": 12.9499998092651,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "10214",
+    "name": "Ban Rai",
+    "updated_at": "2014-09-22T21:05:24.950881Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5211029052734,
+    "latitude": 15.0825004577637,
+    "regions": []
+  },
+  {
+    "code": "10213",
+    "name": "Ban Rai",
+    "updated_at": "2014-09-22T21:05:24.912534Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8499984741211,
+    "latitude": 20.25,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "10212",
+    "name": "Rawai Beach",
+    "updated_at": "2014-09-22T21:05:24.867936Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3167037963867,
+    "latitude": 7.78332996368408,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "10211",
+    "name": "Ban Rong",
+    "updated_at": "2014-09-22T21:05:24.845487Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0511016845703,
+    "latitude": 18.75,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10210",
+    "name": "Ban Rong Chang",
+    "updated_at": "2014-09-22T21:05:24.824606Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8167037963867,
+    "latitude": 13.5333003997803,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "1020f",
+    "name": "Ban San Sai (2)",
+    "updated_at": "2014-09-22T21:05:24.802771Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0333023071289,
+    "latitude": 18.7667007446289,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "1020e",
+    "name": "Ban Saphan Yao",
+    "updated_at": "2014-09-22T21:05:24.782206Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.616996765137,
+    "latitude": 7.15000009536743,
+    "regions": [
+      "14bb"
+    ]
+  },
+  {
+    "code": "1020d",
+    "name": "Saphli Beach",
+    "updated_at": "2014-09-22T21:05:24.751701Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.25,
+    "latitude": 10.6000003814697,
+    "regions": [
+      "14c2"
+    ]
+  },
+  {
+    "code": "1020c",
+    "name": "Ban Sap Phlu",
+    "updated_at": "2014-09-22T21:05:24.721263Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.666999816895,
+    "latitude": 14.6499996185303,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "1020b",
+    "name": "Ban Sap Phrik",
+    "updated_at": "2014-09-22T21:05:24.688413Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.182998657227,
+    "latitude": 14.6167001724243,
+    "regions": [
+      "1628"
+    ]
+  },
+  {
+    "code": "1020a",
+    "name": "Ban Song Phi Nong",
+    "updated_at": "2014-09-22T21:05:24.657391Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6832962036133,
+    "latitude": 12.8667001724243,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "10209",
+    "name": "Sop Poeng",
+    "updated_at": "2014-09-22T21:05:24.620892Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.8332977294922,
+    "latitude": 19.1000003814697,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10208",
+    "name": "Nathon Bay",
+    "updated_at": "2014-09-22T21:05:24.594443Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9899978637695,
+    "latitude": 9.49849987030029,
+    "regions": []
+  },
+  {
+    "code": "10207",
+    "name": "Takat Ngao",
+    "updated_at": "2014-09-22T21:05:24.572482Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.967002868652,
+    "latitude": 12.5666999816895,
+    "regions": [
+      "14bd"
+    ]
+  },
+  {
+    "code": "10206",
+    "name": "Ban Ta Mun",
+    "updated_at": "2014-09-22T21:05:24.480080Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.266998291016,
+    "latitude": 13.0832996368408,
+    "regions": [
+      "14bd"
+    ]
+  },
+  {
+    "code": "10205",
+    "name": "Ban Tha Ka Nuan Sung",
+    "updated_at": "2014-09-22T21:05:24.449529Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.282997131348,
+    "latitude": 15.0333003997803,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "10204",
+    "name": "Ban Tha Khrai",
+    "updated_at": "2014-09-22T21:05:24.418766Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.699996948242,
+    "latitude": 18.3332996368408,
+    "regions": [
+      "1674"
+    ]
+  },
+  {
+    "code": "10203",
+    "name": "Ka Tum",
+    "updated_at": "2014-09-22T21:05:24.387162Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.217002868652,
+    "latitude": 14.0500001907349,
+    "regions": []
+  },
+  {
+    "code": "10202",
+    "name": "Ban Tha Mai Ruak",
+    "updated_at": "2014-09-22T21:05:24.349852Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8000030517578,
+    "latitude": 12.8500003814697,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "10201",
+    "name": "Ban Tha Maprang",
+    "updated_at": "2014-09-22T21:05:24.311168Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.378997802734,
+    "latitude": 14.5152997970581,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "10200",
+    "name": "Ban Thep Sai",
+    "updated_at": "2014-09-22T21:05:24.287508Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.2332992553711,
+    "latitude": 8.03332996368408,
+    "regions": []
+  },
+  {
+    "code": "101ff",
+    "name": "Ban Thap Sai",
+    "updated_at": "2014-09-22T21:05:24.267183Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.266998291016,
+    "latitude": 12.9167003631592,
+    "regions": [
+      "14bd"
+    ]
+  },
+  {
+    "code": "101fe",
+    "name": "Ban Tha Rong Chang (1)",
+    "updated_at": "2014-09-22T21:05:24.246853Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1667022705078,
+    "latitude": 9.08333015441895,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "101fd",
+    "name": "Ujong Salang",
+    "updated_at": "2014-09-22T21:05:24.226062Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.36669921875,
+    "latitude": 7.98332977294922,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "101fc",
+    "name": "Ban Tha Sao Kradong",
+    "updated_at": "2014-09-22T21:05:24.205126Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5500030517578,
+    "latitude": 16.38330078125,
+    "regions": [
+      "1630"
+    ]
+  },
+  {
+    "code": "101fb",
+    "name": "Ban Tha Thong",
+    "updated_at": "2014-09-22T21:05:24.181035Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8632965087891,
+    "latitude": 17.2210998535156,
+    "regions": [
+      "14df"
+    ]
+  },
+  {
+    "code": "101fa",
+    "name": "Ban Thung Faek",
+    "updated_at": "2014-09-22T21:05:24.150845Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3332977294922,
+    "latitude": 13.5333003997803,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "101f9",
+    "name": "Thung Si Kan",
+    "updated_at": "2014-09-22T21:05:24.120524Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.583000183105,
+    "latitude": 13.9167003631592,
+    "regions": [
+      "1413"
+    ]
+  },
+  {
+    "code": "101f8",
+    "name": "Ban Thung Sukla (1)",
+    "updated_at": "2014-09-22T21:05:24.085873Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.916999816895,
+    "latitude": 13.1000003814697,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "101f7",
+    "name": "Thung Wua Laen Beach",
+    "updated_at": "2014-09-22T21:05:24.050853Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.2667007446289,
+    "latitude": 10.5666999816895,
+    "regions": [
+      "14c2"
+    ]
+  },
+  {
+    "code": "101f6",
+    "name": "Ban Ton Lan",
+    "updated_at": "2014-09-22T21:05:24.014378Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6832962036133,
+    "latitude": 19.7332992553711,
+    "regions": []
+  },
+  {
+    "code": "101f5",
+    "name": "Ban Wang Takhrai",
+    "updated_at": "2014-09-22T21:05:23.993907Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.305000305176,
+    "latitude": 14.3219003677368,
+    "regions": [
+      "1555"
+    ]
+  },
+  {
+    "code": "101f4",
+    "name": "Ban Wang Won",
+    "updated_at": "2014-09-22T21:05:23.971987Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.199996948242,
+    "latitude": 16.7667007446289,
+    "regions": [
+      "162a"
+    ]
+  },
+  {
+    "code": "101f3",
+    "name": "Ban Wat Luang",
+    "updated_at": "2014-09-22T21:05:23.951360Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.083000183105,
+    "latitude": 18.0167007446289,
+    "regions": [
+      "15f3"
+    ]
+  },
+  {
+    "code": "101f2",
+    "name": "Ban Wat Phrik (1)",
+    "updated_at": "2014-09-22T21:05:23.930602Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.233001708984,
+    "latitude": 16.75,
+    "regions": [
+      "162a"
+    ]
+  },
+  {
+    "code": "101f1",
+    "name": "Ban Wat Son",
+    "updated_at": "2014-09-22T21:05:23.909795Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.383003234863,
+    "latitude": 7.66666984558105,
+    "regions": [
+      "14bb"
+    ]
+  },
+  {
+    "code": "101f0",
+    "name": "Buriram",
+    "updated_at": "2014-09-22T21:05:23.826145Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.116996765137,
+    "latitude": 15.0,
+    "regions": [
+      "15f4"
+    ]
+  },
+  {
+    "code": "101ef",
+    "name": "Cha Am",
+    "updated_at": "2014-09-22T21:05:23.790944Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9662017822266,
+    "latitude": 12.7976999282837,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "101ee",
+    "name": "Chachoengsao",
+    "updated_at": "2014-09-22T21:05:23.753329Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.083000183105,
+    "latitude": 13.6999998092651,
+    "regions": [
+      "169b"
+    ]
+  },
+  {
+    "code": "101ed",
+    "name": "Chai Badan",
+    "updated_at": "2014-09-22T21:05:23.726329Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.13500213623,
+    "latitude": 15.207799911499,
+    "regions": [
+      "167d"
+    ]
+  },
+  {
+    "code": "101ec",
+    "name": "Chai Nat",
+    "updated_at": "2014-09-22T21:05:23.706290Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.133003234863,
+    "latitude": 15.1833000183105,
+    "regions": [
+      "1680"
+    ]
+  },
+  {
+    "code": "101eb",
+    "name": "Chaiyaphum",
+    "updated_at": "2014-09-22T21:05:23.683325Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.032997131348,
+    "latitude": 15.8000001907349,
+    "regions": [
+      "166a"
+    ]
+  },
+  {
+    "code": "101ea",
+    "name": "Chanthaburi",
+    "updated_at": "2014-09-22T21:05:23.661224Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.150001525879,
+    "latitude": 12.6000003814697,
+    "regions": [
+      "14bd"
+    ]
+  },
+  {
+    "code": "101e9",
+    "name": "Chiang Dao",
+    "updated_at": "2014-09-22T21:05:23.640301Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9607009887695,
+    "latitude": 19.3428993225098,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101e8",
+    "name": "Chiang Kham",
+    "updated_at": "2014-09-22T21:05:23.619778Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.299003601074,
+    "latitude": 19.5238990783691,
+    "regions": [
+      "162d"
+    ]
+  },
+  {
+    "code": "101e7",
+    "name": "Chiang Khan",
+    "updated_at": "2014-09-22T21:05:23.589113Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.666564941406,
+    "latitude": 17.898021697998,
+    "regions": [
+      "15f0"
+    ]
+  },
+  {
+    "code": "101e6",
+    "name": "Chiang Khong",
+    "updated_at": "2014-09-22T21:05:23.563910Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.400001525879,
+    "latitude": 20.2833003997803,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101e5",
+    "name": "Chiang Klang",
+    "updated_at": "2014-09-22T21:05:23.534578Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.866996765137,
+    "latitude": 19.2999992370605,
+    "regions": [
+      "162b"
+    ]
+  },
+  {
+    "code": "101e4",
+    "name": "Chiang Mai",
+    "updated_at": "2014-09-22T21:05:23.499394Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9816970825195,
+    "latitude": 18.7903003692627,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101e3",
+    "name": "Chiang Rai",
+    "updated_at": "2014-09-22T21:05:23.466851Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8332977294922,
+    "latitude": 19.8999996185303,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101e2",
+    "name": "Chiang Saen",
+    "updated_at": "2014-09-22T21:05:23.437430Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.083000183105,
+    "latitude": 20.2667007446289,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101e1",
+    "name": "Chom Bung",
+    "updated_at": "2014-09-22T21:05:23.417541Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5999984741211,
+    "latitude": 13.6167001724243,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "101e0",
+    "name": "Chom Thong",
+    "updated_at": "2014-09-22T21:05:23.397711Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.6781005859375,
+    "latitude": 18.4269008636475,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101df",
+    "name": "Chon Buri",
+    "updated_at": "2014-09-22T21:05:23.379285Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.983001708984,
+    "latitude": 13.3667001724243,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "101de",
+    "name": "Chum Phae",
+    "updated_at": "2014-09-22T21:05:23.360574Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.099998474121,
+    "latitude": 16.5333003997803,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "101dd",
+    "name": "Chumphon",
+    "updated_at": "2014-09-22T21:05:23.339628Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1667022705078,
+    "latitude": 10.5,
+    "regions": [
+      "14c2"
+    ]
+  },
+  {
+    "code": "101dc",
+    "name": "Damnoen Saduak",
+    "updated_at": "2014-09-22T21:05:23.310730Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9332962036133,
+    "latitude": 13.5166997909546,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "101db",
+    "name": "Dan Sai",
+    "updated_at": "2014-09-22T21:05:23.281674Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.150001525879,
+    "latitude": 17.2833003997803,
+    "regions": [
+      "15f0"
+    ]
+  },
+  {
+    "code": "101da",
+    "name": "Doi Saket",
+    "updated_at": "2014-09-22T21:05:23.250703Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1355972290039,
+    "latitude": 18.8743991851807,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101d9",
+    "name": "Fang",
+    "updated_at": "2014-09-22T21:05:23.216347Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.2166976928711,
+    "latitude": 19.9167003631592,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101d8",
+    "name": "Hang Dong",
+    "updated_at": "2014-09-22T21:05:23.184626Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9167022705078,
+    "latitude": 18.6872005462646,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101d7",
+    "name": "Hat Yai",
+    "updated_at": "2014-09-22T21:05:23.166178Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.467002868652,
+    "latitude": 7.01667022705078,
+    "regions": [
+      "14bb"
+    ]
+  },
+  {
+    "code": "101d6",
+    "name": "Hua Hin",
+    "updated_at": "2014-09-22T21:05:23.148014Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9572219848633,
+    "latitude": 12.5705146789551,
+    "regions": [
+      "14be"
+    ]
+  },
+  {
+    "code": "101d5",
+    "name": "Kabin Buri",
+    "updated_at": "2014-09-22T21:05:23.129014Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.717002868652,
+    "latitude": 13.9833002090454,
+    "regions": [
+      "15ab"
+    ]
+  },
+  {
+    "code": "101d4",
+    "name": "Kalasin",
+    "updated_at": "2014-09-22T21:05:23.110305Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.5,
+    "latitude": 16.4333000183105,
+    "regions": [
+      "1677"
+    ]
+  },
+  {
+    "code": "101d3",
+    "name": "Kamphaeng Phet",
+    "updated_at": "2014-09-22T21:05:23.091550Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5,
+    "latitude": 16.4666996002197,
+    "regions": [
+      "1630"
+    ]
+  },
+  {
+    "code": "101d2",
+    "name": "Kamphaeng Saen",
+    "updated_at": "2014-09-22T21:05:23.063330Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.0,
+    "latitude": 14.0,
+    "regions": [
+      "169a"
+    ]
+  },
+  {
+    "code": "101d1",
+    "name": "Kanchanaburi",
+    "updated_at": "2016-02-09T09:32:32.021262Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5297012329102,
+    "latitude": 14.0192003250122,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "101d0",
+    "name": "Kapong",
+    "updated_at": "2014-09-22T21:05:22.978873Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.4499969482422,
+    "latitude": 8.68332958221436,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "101cf",
+    "name": "Kathu",
+    "updated_at": "2014-09-22T21:05:22.944279Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3499984741211,
+    "latitude": 7.91666984558105,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "101ce",
+    "name": "Khanom",
+    "updated_at": "2014-09-22T21:05:22.917662Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.86669921875,
+    "latitude": 9.19999980926514,
+    "regions": [
+      "14c4"
+    ]
+  },
+  {
+    "code": "101cd",
+    "name": "Khiri Ratthanikhom",
+    "updated_at": "2014-09-22T21:05:22.898108Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9167022705078,
+    "latitude": 9.03332996368408,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "101cc",
+    "name": "Khlong Thom",
+    "updated_at": "2014-09-22T21:05:22.878472Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1500015258789,
+    "latitude": 7.93333005905151,
+    "regions": [
+      "1489"
+    ]
+  },
+  {
+    "code": "101cb",
+    "name": "Khlong Yai",
+    "updated_at": "2014-09-22T21:05:22.857046Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.900001525879,
+    "latitude": 11.7666997909546,
+    "regions": [
+      "14b4"
+    ]
+  },
+  {
+    "code": "101ca",
+    "name": "Khong Chiam",
+    "updated_at": "2014-09-22T21:05:22.838007Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 105.5,
+    "latitude": 15.3166999816895,
+    "regions": [
+      "166e"
+    ]
+  },
+  {
+    "code": "101c9",
+    "name": "Khon Kaen",
+    "updated_at": "2014-09-22T21:05:22.817747Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.836753845215,
+    "latitude": 16.4384231567383,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "101c8",
+    "name": "Ban Khun Yuam",
+    "updated_at": "2014-09-22T21:05:22.791015Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 97.934196472168,
+    "latitude": 18.8288993835449,
+    "regions": [
+      "14e0"
+    ]
+  },
+  {
+    "code": "101c7",
+    "name": "Ko Kho Khao",
+    "updated_at": "2014-09-22T21:05:22.736980Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2683715820312,
+    "latitude": 8.88519859313965,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "101c6",
+    "name": "Ko Lanta",
+    "updated_at": "2016-02-09T09:32:33.679906Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0681991577148,
+    "latitude": 7.59203004837036,
+    "regions": [
+      "13a7",
+      "1489"
+    ]
+  },
+  {
+    "code": "101c5",
+    "name": "Ko Si Chang",
+    "updated_at": "2014-09-22T21:05:22.644069Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.817001342773,
+    "latitude": 13.1499996185303,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "101c4",
+    "name": "Muang Kosum",
+    "updated_at": "2014-09-22T21:05:22.624423Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.016998291016,
+    "latitude": 16.2166996002197,
+    "regions": []
+  },
+  {
+    "code": "101c3",
+    "name": "Ko Yao Noi",
+    "updated_at": "2014-09-22T21:05:22.604630Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.5960998535156,
+    "latitude": 8.11328029632568,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "101c2",
+    "name": "Krabi town",
+    "updated_at": "2014-09-22T21:05:22.584504Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9167022705078,
+    "latitude": 8.06667041778564,
+    "regions": [
+      "1489"
+    ]
+  },
+  {
+    "code": "101c1",
+    "name": "Kranuan",
+    "updated_at": "2014-09-22T21:05:22.565969Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.083000183105,
+    "latitude": 16.7000007629395,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "101c0",
+    "name": "Kui Buri",
+    "updated_at": "2014-09-22T21:05:22.545061Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.86669921875,
+    "latitude": 12.0500001907349,
+    "regions": [
+      "14be",
+      "165d"
+    ]
+  },
+  {
+    "code": "101bf",
+    "name": "Laem Ngop",
+    "updated_at": "2014-09-22T21:05:22.516223Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.432998657227,
+    "latitude": 12.1667003631592,
+    "regions": [
+      "14b4"
+    ]
+  },
+  {
+    "code": "101be",
+    "name": "Laem Sing",
+    "updated_at": "2014-09-22T21:05:22.487328Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.067001342773,
+    "latitude": 12.4833002090454,
+    "regions": [
+      "14bd"
+    ]
+  },
+  {
+    "code": "101bd",
+    "name": "Lampang",
+    "updated_at": "2014-09-22T21:05:22.457129Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5072021484375,
+    "latitude": 18.2982997894287,
+    "regions": [
+      "1512"
+    ]
+  },
+  {
+    "code": "101bc",
+    "name": "Lamphun",
+    "updated_at": "2014-09-22T21:05:22.421913Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0092010498047,
+    "latitude": 18.5811004638672,
+    "regions": [
+      "162c"
+    ]
+  },
+  {
+    "code": "101bb",
+    "name": "Lan Sak",
+    "updated_at": "2014-09-22T21:05:22.383844Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6832962036133,
+    "latitude": 15.4167003631592,
+    "regions": []
+  },
+  {
+    "code": "101ba",
+    "name": "Lan Saka",
+    "updated_at": "2014-09-22T21:05:22.362014Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8000030517578,
+    "latitude": 8.35000038146973,
+    "regions": [
+      "14c4"
+    ]
+  },
+  {
+    "code": "101b9",
+    "name": "Lat Bua Luang",
+    "updated_at": "2014-09-22T21:05:22.343740Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.317001342773,
+    "latitude": 14.1667003631592,
+    "regions": [
+      "14ba"
+    ]
+  },
+  {
+    "code": "101b8",
+    "name": "Lat Krabang",
+    "updated_at": "2014-09-22T21:05:22.325498Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.782997131348,
+    "latitude": 13.7166996002197,
+    "regions": [
+      "1413",
+      "14b9"
+    ]
+  },
+  {
+    "code": "101b7",
+    "name": "Loei",
+    "updated_at": "2014-09-22T21:05:22.306852Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.717002868652,
+    "latitude": 17.4832992553711,
+    "regions": [
+      "15f0"
+    ]
+  },
+  {
+    "code": "101b6",
+    "name": "Lop Buri",
+    "updated_at": "2014-09-22T21:05:22.287938Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.616996765137,
+    "latitude": 14.8000001907349,
+    "regions": [
+      "167d"
+    ]
+  },
+  {
+    "code": "101b5",
+    "name": "Mae Ai",
+    "updated_at": "2014-09-22T21:05:22.264340Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3167037963867,
+    "latitude": 20.0333003997803,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101b4",
+    "name": "Mae Chan",
+    "updated_at": "2014-09-22T21:05:22.235638Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8538970947266,
+    "latitude": 20.1471996307373,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101b3",
+    "name": "Mae Hong Son",
+    "updated_at": "2014-09-22T21:05:22.207087Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 97.9332962036133,
+    "latitude": 19.2667007446289,
+    "regions": [
+      "14e0"
+    ]
+  },
+  {
+    "code": "101b2",
+    "name": "Ban Mae La Noi",
+    "updated_at": "2014-09-22T21:05:22.174067Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 97.9356002807617,
+    "latitude": 18.3813991546631,
+    "regions": [
+      "14e0"
+    ]
+  },
+  {
+    "code": "101b1",
+    "name": "Mae Rim",
+    "updated_at": "2014-09-22T21:05:22.139059Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.939697265625,
+    "latitude": 18.9122009277344,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101b0",
+    "name": "Mae Sai",
+    "updated_at": "2014-09-22T21:05:22.101902Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8858032226562,
+    "latitude": 20.4300003051758,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101af",
+    "name": "Mae Sariang",
+    "updated_at": "2014-09-22T21:05:22.083653Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 97.9336013793945,
+    "latitude": 18.1578006744385,
+    "regions": [
+      "14e0"
+    ]
+  },
+  {
+    "code": "101ae",
+    "name": "Mae Sot",
+    "updated_at": "2014-09-22T21:05:22.065398Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.5667037963867,
+    "latitude": 16.7166996002197,
+    "regions": [
+      "1633"
+    ]
+  },
+  {
+    "code": "101ad",
+    "name": "Mae Suai",
+    "updated_at": "2014-09-22T21:05:22.046929Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5500030517578,
+    "latitude": 19.6499996185303,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "101ac",
+    "name": "Mae Taeng",
+    "updated_at": "2014-09-22T21:05:22.027816Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9499969482422,
+    "latitude": 19.11669921875,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "101ab",
+    "name": "Mae Tha",
+    "updated_at": "2014-09-22T21:05:22.007655Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.136100769043,
+    "latitude": 18.4613990783691,
+    "regions": [
+      "162c"
+    ]
+  },
+  {
+    "code": "101aa",
+    "name": "Goh Mun Nok",
+    "updated_at": "2014-09-22T21:05:21.982023Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.699996948242,
+    "latitude": 12.5666999816895,
+    "regions": []
+  },
+  {
+    "code": "101a9",
+    "name": "Mukdahan",
+    "updated_at": "2014-09-22T21:05:21.956371Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.717002868652,
+    "latitude": 16.5333003997803,
+    "regions": [
+      "1676"
+    ]
+  },
+  {
+    "code": "101a8",
+    "name": "Talat Amphoe Nakhon Chai Si",
+    "updated_at": "2014-09-22T21:05:21.927782Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.182998657227,
+    "latitude": 13.8000001907349,
+    "regions": [
+      "169a"
+    ]
+  },
+  {
+    "code": "101a7",
+    "name": "Nakhon Nayok",
+    "updated_at": "2014-09-22T21:05:21.893542Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.214996337891,
+    "latitude": 14.2031002044678,
+    "regions": [
+      "1555"
+    ]
+  },
+  {
+    "code": "101a6",
+    "name": "Nakhon Pathom",
+    "updated_at": "2014-09-22T21:05:21.858624Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.062889099121,
+    "latitude": 13.8203592300415,
+    "regions": [
+      "169a"
+    ]
+  },
+  {
+    "code": "101a5",
+    "name": "Nakhon Phanom",
+    "updated_at": "2014-09-22T21:05:21.835819Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.782997131348,
+    "latitude": 17.3999996185303,
+    "regions": [
+      "1675"
+    ]
+  },
+  {
+    "code": "101a4",
+    "name": "Nakhon Ratchasima",
+    "updated_at": "2016-02-09T09:32:27.753761Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.116996765137,
+    "latitude": 14.9666996002197,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "101a3",
+    "name": "Nakhon Sawan",
+    "updated_at": "2014-09-22T21:05:21.799036Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.116996765137,
+    "latitude": 15.6833000183105,
+    "regions": [
+      "162f"
+    ]
+  },
+  {
+    "code": "101a2",
+    "name": "Nakhon Si Thammarat",
+    "updated_at": "2014-09-22T21:05:21.779662Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9666976928711,
+    "latitude": 8.43332958221436,
+    "regions": [
+      "14c4"
+    ]
+  },
+  {
+    "code": "101a1",
+    "name": "Nan",
+    "updated_at": "2014-09-22T21:05:21.760756Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.782997131348,
+    "latitude": 18.7833003997803,
+    "regions": [
+      "162b"
+    ]
+  },
+  {
+    "code": "101a0",
+    "name": "Nang Rong",
+    "updated_at": "2014-09-22T21:05:21.739472Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.800003051758,
+    "latitude": 14.6332998275757,
+    "regions": [
+      "15f4"
+    ]
+  },
+  {
+    "code": "1019f",
+    "name": "Narathiwat",
+    "updated_at": "2014-09-22T21:05:21.710642Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.823997497559,
+    "latitude": 6.42443990707397,
+    "regions": [
+      "1617"
+    ]
+  },
+  {
+    "code": "1019e",
+    "name": "Nong Khai",
+    "updated_at": "2014-09-22T21:05:21.652422Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.744003295898,
+    "latitude": 17.8761005401611,
+    "regions": [
+      "15f3"
+    ]
+  },
+  {
+    "code": "1019d",
+    "name": "Nong Ya Plong",
+    "updated_at": "2014-09-22T21:05:21.617411Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6999969482422,
+    "latitude": 13.1499996185303,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "1019c",
+    "name": "Nonthaburi",
+    "updated_at": "2014-09-22T21:05:21.580788Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.483001708984,
+    "latitude": 13.8332996368408,
+    "regions": [
+      "1413",
+      "1556"
+    ]
+  },
+  {
+    "code": "1019b",
+    "name": "Pai",
+    "updated_at": "2014-09-22T21:05:21.557605Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.4419403076172,
+    "latitude": 19.3601760864258,
+    "regions": [
+      "14e0"
+    ]
+  },
+  {
+    "code": "1019a",
+    "name": "Pak Chong",
+    "updated_at": "2014-09-22T21:05:21.539419Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.41300201416,
+    "latitude": 14.7041997909546,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "10199",
+    "name": "Pak Kret",
+    "updated_at": "2014-09-22T21:05:18.471420Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.5,
+    "latitude": 13.9167003631592,
+    "regions": [
+      "1556"
+    ]
+  },
+  {
+    "code": "10198",
+    "name": "Patiyu",
+    "updated_at": "2014-09-22T21:05:18.449088Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3167037963867,
+    "latitude": 10.6999998092651,
+    "regions": []
+  },
+  {
+    "code": "10197",
+    "name": "Pathum Thani",
+    "updated_at": "2014-09-22T21:05:18.426644Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.532997131348,
+    "latitude": 14.0166997909546,
+    "regions": [
+      "1697"
+    ]
+  },
+  {
+    "code": "10196",
+    "name": "Phak Hai",
+    "updated_at": "2014-09-22T21:05:18.401786Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.366996765137,
+    "latitude": 14.4499998092651,
+    "regions": [
+      "14ba"
+    ]
+  },
+  {
+    "code": "10195",
+    "name": "Phangnga",
+    "updated_at": "2014-09-22T21:05:18.376070Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.5333023071289,
+    "latitude": 8.46667003631592,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "10194",
+    "name": "Phan Thong",
+    "updated_at": "2014-09-22T21:05:18.347788Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.099998474121,
+    "latitude": 13.4666996002197,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "10193",
+    "name": "Phatthalung",
+    "updated_at": "2014-09-22T21:05:18.318521Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.083000183105,
+    "latitude": 7.61667013168335,
+    "regions": []
+  },
+  {
+    "code": "10192",
+    "name": "Phayao",
+    "updated_at": "2014-09-22T21:05:18.286860Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9167022705078,
+    "latitude": 19.1667003631592,
+    "regions": [
+      "162d"
+    ]
+  },
+  {
+    "code": "10191",
+    "name": "Phetchabun",
+    "updated_at": "2014-09-22T21:05:18.252948Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.133003234863,
+    "latitude": 16.4167003631592,
+    "regions": [
+      "1351"
+    ]
+  },
+  {
+    "code": "10190",
+    "name": "Phitsanulok",
+    "updated_at": "2014-09-22T21:05:18.225195Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.25,
+    "latitude": 16.8332996368408,
+    "regions": [
+      "162a"
+    ]
+  },
+  {
+    "code": "1018f",
+    "name": "Phon Thong",
+    "updated_at": "2014-09-22T21:05:18.207036Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.983001708984,
+    "latitude": 16.2999992370605,
+    "regions": [
+      "1669"
+    ]
+  },
+  {
+    "code": "1018e",
+    "name": "Phrae",
+    "updated_at": "2014-09-22T21:05:18.189235Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.133003234863,
+    "latitude": 18.1499996185303,
+    "regions": [
+      "162e"
+    ]
+  },
+  {
+    "code": "1018d",
+    "name": "Phra Nakhon Si Ayutthaya",
+    "updated_at": "2014-09-22T21:05:18.171210Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.576721191406,
+    "latitude": 14.3520650863647,
+    "regions": [
+      "1413",
+      "14ba"
+    ]
+  },
+  {
+    "code": "1018c",
+    "name": "Phuket Town",
+    "updated_at": "2014-09-22T21:05:18.154026Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3852310180664,
+    "latitude": 7.88924503326416,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "1018b",
+    "name": "Phu Khieo",
+    "updated_at": "2014-09-22T21:05:18.133917Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.133003234863,
+    "latitude": 16.36669921875,
+    "regions": [
+      "166a"
+    ]
+  },
+  {
+    "code": "1018a",
+    "name": "Phu Rua",
+    "updated_at": "2014-09-22T21:05:18.116983Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.366996765137,
+    "latitude": 17.4500007629395,
+    "regions": [
+      "15f0"
+    ]
+  },
+  {
+    "code": "10189",
+    "name": "Phutthaisong",
+    "updated_at": "2014-09-22T21:05:18.097569Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.016998291016,
+    "latitude": 15.5333003997803,
+    "regions": [
+      "15f4"
+    ]
+  },
+  {
+    "code": "10188",
+    "name": "Phu Wiang",
+    "updated_at": "2014-09-22T21:05:18.072765Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.383003234863,
+    "latitude": 16.6499996185303,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "10187",
+    "name": "Plai Phraya",
+    "updated_at": "2014-09-22T21:05:18.049115Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.86669921875,
+    "latitude": 8.58333015441895,
+    "regions": [
+      "1489"
+    ]
+  },
+  {
+    "code": "10186",
+    "name": "Pluak Daeng",
+    "updated_at": "2014-09-22T21:05:18.023270Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.217002868652,
+    "latitude": 12.9666996002197,
+    "regions": [
+      "14b8"
+    ]
+  },
+  {
+    "code": "10185",
+    "name": "Prachin Buri",
+    "updated_at": "2014-09-22T21:05:17.994987Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.370002746582,
+    "latitude": 14.0502996444702,
+    "regions": [
+      "15ab"
+    ]
+  },
+  {
+    "code": "10184",
+    "name": "Prachuap Khiri Khan",
+    "updated_at": "2014-09-22T21:05:17.963273Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8000030517578,
+    "latitude": 11.8166999816895,
+    "regions": [
+      "14be"
+    ]
+  },
+  {
+    "code": "10183",
+    "name": "Pran Buri",
+    "updated_at": "2014-09-22T21:05:17.933998Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9331970214844,
+    "latitude": 12.3763999938965,
+    "regions": [
+      "14be",
+      "165d"
+    ]
+  },
+  {
+    "code": "10182",
+    "name": "Prasat",
+    "updated_at": "2014-09-22T21:05:17.912843Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.400001525879,
+    "latitude": 14.6332998275757,
+    "regions": [
+      "1631"
+    ]
+  },
+  {
+    "code": "10181",
+    "name": "Pua",
+    "updated_at": "2014-09-22T21:05:17.893581Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.916999816895,
+    "latitude": 19.1833000183105,
+    "regions": [
+      "162b"
+    ]
+  },
+  {
+    "code": "10180",
+    "name": "Ranong",
+    "updated_at": "2014-09-22T21:05:17.875522Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.63330078125,
+    "latitude": 9.96667003631592,
+    "regions": [
+      "14c3"
+    ]
+  },
+  {
+    "code": "1017f",
+    "name": "Ratchaburi",
+    "updated_at": "2014-09-22T21:05:17.858626Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8000030517578,
+    "latitude": 13.5333003997803,
+    "regions": []
+  },
+  {
+    "code": "1017e",
+    "name": "Rayong",
+    "updated_at": "2014-09-22T21:05:17.839945Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.282997131348,
+    "latitude": 12.6667003631592,
+    "regions": [
+      "14b8"
+    ]
+  },
+  {
+    "code": "1017d",
+    "name": "Roi Et",
+    "updated_at": "2014-09-22T21:05:17.821497Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.666999816895,
+    "latitude": 16.0499992370605,
+    "regions": [
+      "1669"
+    ]
+  },
+  {
+    "code": "1017c",
+    "name": "Sai Yok",
+    "updated_at": "2014-09-22T21:05:17.802933Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1374969482422,
+    "latitude": 14.1169004440308,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "1017b",
+    "name": "Sa Kaeo",
+    "updated_at": "2014-09-22T21:05:17.778450Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.067001342773,
+    "latitude": 13.8166999816895,
+    "regions": [
+      "1698"
+    ]
+  },
+  {
+    "code": "1017a",
+    "name": "Sakon Nakhon",
+    "updated_at": "2014-09-22T21:05:17.729718Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.150001525879,
+    "latitude": 17.1667003631592,
+    "regions": [
+      "15e9"
+    ]
+  },
+  {
+    "code": "10179",
+    "name": "Sam Chuk",
+    "updated_at": "2014-09-22T21:05:17.701941Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.099998474121,
+    "latitude": 14.75,
+    "regions": []
+  },
+  {
+    "code": "10178",
+    "name": "Sam Phran",
+    "updated_at": "2014-09-22T21:05:17.669461Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.217002868652,
+    "latitude": 13.7166996002197,
+    "regions": [
+      "169a"
+    ]
+  },
+  {
+    "code": "10177",
+    "name": "Samut Songkhram",
+    "updated_at": "2014-09-22T21:05:17.611115Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.0,
+    "latitude": 13.3999996185303,
+    "regions": [
+      "1634"
+    ]
+  },
+  {
+    "code": "10176",
+    "name": "Sangkhla Buri",
+    "updated_at": "2014-09-22T21:05:17.594175Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.4666976928711,
+    "latitude": 15.1167001724243,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "10175",
+    "name": "Sangkhom",
+    "updated_at": "2014-09-22T21:05:17.576104Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.259254455566,
+    "latitude": 18.0775890350342,
+    "regions": []
+  },
+  {
+    "code": "10174",
+    "name": "San Kamphaeng",
+    "updated_at": "2014-09-22T21:05:17.559272Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1224975585938,
+    "latitude": 18.7422008514404,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10173",
+    "name": "San Pa Tong",
+    "updated_at": "2014-09-22T21:05:17.542743Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.894401550293,
+    "latitude": 18.6247005462646,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10172",
+    "name": "San Sai",
+    "updated_at": "2014-09-22T21:05:17.525920Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0453033447266,
+    "latitude": 18.8521995544434,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10171",
+    "name": "Saraphi",
+    "updated_at": "2014-09-22T21:05:17.491354Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0353012084961,
+    "latitude": 18.7141990661621,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10170",
+    "name": "Sathing Phra",
+    "updated_at": "2014-09-22T21:05:17.474382Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.432998657227,
+    "latitude": 7.46667003631592,
+    "regions": [
+      "14bb"
+    ]
+  },
+  {
+    "code": "1016f",
+    "name": "Sattahip",
+    "updated_at": "2014-09-22T21:05:17.453468Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.900001525879,
+    "latitude": 12.6667003631592,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "1016e",
+    "name": "Satun",
+    "updated_at": "2014-09-22T21:05:17.432382Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.067001342773,
+    "latitude": 6.62777996063232,
+    "regions": [
+      "1616"
+    ]
+  },
+  {
+    "code": "1016d",
+    "name": "Sawankhalok",
+    "updated_at": "2014-09-22T21:05:17.412245Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8341979980469,
+    "latitude": 17.3085994720459,
+    "regions": [
+      "14df"
+    ]
+  },
+  {
+    "code": "1016c",
+    "name": "Si Chiang Mai",
+    "updated_at": "2014-09-22T21:05:17.388638Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.58699798584,
+    "latitude": 17.9563999176025,
+    "regions": [
+      "15f3"
+    ]
+  },
+  {
+    "code": "1016b",
+    "name": "Si Khio",
+    "updated_at": "2014-09-22T21:05:17.361477Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.733001708984,
+    "latitude": 14.8832998275757,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "1016a",
+    "name": "Sing Buri",
+    "updated_at": "2014-09-22T21:05:17.332034Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.416999816895,
+    "latitude": 14.8832998275757,
+    "regions": [
+      "167f"
+    ]
+  },
+  {
+    "code": "10169",
+    "name": "Si Racha",
+    "updated_at": "2014-09-22T21:05:17.305732Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.932998657227,
+    "latitude": 13.1667003631592,
+    "regions": [
+      "14b6"
+    ]
+  },
+  {
+    "code": "10168",
+    "name": "Si Sa Ket",
+    "updated_at": "2014-09-22T21:05:17.277875Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.333000183105,
+    "latitude": 15.1167001724243,
+    "regions": [
+      "166b"
+    ]
+  },
+  {
+    "code": "10167",
+    "name": "Songkhla",
+    "updated_at": "2014-09-22T21:05:17.259468Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.599998474121,
+    "latitude": 7.19999980926514,
+    "regions": [
+      "14bb"
+    ]
+  },
+  {
+    "code": "10166",
+    "name": "Suan Phung",
+    "updated_at": "2014-09-22T21:05:17.241263Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3499984741211,
+    "latitude": 13.5166997909546,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "10165",
+    "name": "Sukhothai",
+    "updated_at": "2014-09-22T21:05:17.223457Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8233032226562,
+    "latitude": 17.0063991546631,
+    "regions": [
+      "14df"
+    ]
+  },
+  {
+    "code": "10164",
+    "name": "Suphan Buri",
+    "updated_at": "2014-09-22T21:05:17.206850Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.116996765137,
+    "latitude": 14.4666996002197,
+    "regions": []
+  },
+  {
+    "code": "10163",
+    "name": "Surat Thani",
+    "updated_at": "2016-02-09T09:32:32.867244Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3167037963867,
+    "latitude": 9.13333034515381,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "10162",
+    "name": "Tak",
+    "updated_at": "2014-09-22T21:05:17.173292Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.13330078125,
+    "latitude": 16.86669921875,
+    "regions": [
+      "1633"
+    ]
+  },
+  {
+    "code": "10161",
+    "name": "Tha Chang",
+    "updated_at": "2014-09-22T21:05:17.155027Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.400001525879,
+    "latitude": 14.7666997909546,
+    "regions": [
+      "167f"
+    ]
+  },
+  {
+    "code": "10160",
+    "name": "Thai Muang",
+    "updated_at": "2014-09-22T21:05:17.138347Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2667007446289,
+    "latitude": 8.39999961853027,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "1015f",
+    "name": "Thalang",
+    "updated_at": "2014-09-22T21:05:17.120076Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3348007202148,
+    "latitude": 8.03287982940674,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "1015e",
+    "name": "Thanya Buri",
+    "updated_at": "2014-09-22T21:05:17.098734Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.75,
+    "latitude": 14.0166997909546,
+    "regions": [
+      "1697"
+    ]
+  },
+  {
+    "code": "1015d",
+    "name": "Thap Sakae",
+    "updated_at": "2014-09-22T21:05:17.082036Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.61669921875,
+    "latitude": 11.5,
+    "regions": [
+      "14be"
+    ]
+  },
+  {
+    "code": "1015c",
+    "name": "Tha Tako",
+    "updated_at": "2014-09-22T21:05:17.038009Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.483001708984,
+    "latitude": 15.6332998275757,
+    "regions": [
+      "162f"
+    ]
+  },
+  {
+    "code": "1015b",
+    "name": "That Phanom",
+    "updated_at": "2014-09-22T21:05:17.009128Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.724258422852,
+    "latitude": 16.9433498382568,
+    "regions": [
+      "1675"
+    ]
+  },
+  {
+    "code": "1015a",
+    "name": "Thoeng",
+    "updated_at": "2014-09-22T21:05:16.990476Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.199996948242,
+    "latitude": 19.6833000183105,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "10159",
+    "name": "Thung Chang",
+    "updated_at": "2014-09-22T21:05:16.939439Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.883003234863,
+    "latitude": 19.4167003631592,
+    "regions": [
+      "162b"
+    ]
+  },
+  {
+    "code": "10158",
+    "name": "Thung Saliam",
+    "updated_at": "2014-09-22T21:05:16.922337Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5588989257812,
+    "latitude": 17.3136005401611,
+    "regions": [
+      "14df"
+    ]
+  },
+  {
+    "code": "10157",
+    "name": "Trang",
+    "updated_at": "2014-09-22T21:05:16.885523Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5999984741211,
+    "latitude": 7.55000019073486,
+    "regions": [
+      "154d"
+    ]
+  },
+  {
+    "code": "10156",
+    "name": "Trat",
+    "updated_at": "2014-09-22T21:05:16.867510Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.5,
+    "latitude": 12.2333002090454,
+    "regions": [
+      "14b4"
+    ]
+  },
+  {
+    "code": "10155",
+    "name": "Ubon Ratchathani",
+    "updated_at": "2014-09-22T21:05:16.850161Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.862998962402,
+    "latitude": 15.233099937439,
+    "regions": [
+      "166e"
+    ]
+  },
+  {
+    "code": "10154",
+    "name": "Udon Thani",
+    "updated_at": "2014-09-22T21:05:16.832964Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.792999267578,
+    "latitude": 17.4074993133545,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "10153",
+    "name": "Uttaradit",
+    "updated_at": "2014-09-22T21:05:16.816486Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.100997924805,
+    "latitude": 17.6310997009277,
+    "regions": [
+      "1699"
+    ]
+  },
+  {
+    "code": "10152",
+    "name": "Warin Chamrap",
+    "updated_at": "2014-09-22T21:05:16.799418Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 104.883003234863,
+    "latitude": 15.1999998092651,
+    "regions": [
+      "166e"
+    ]
+  },
+  {
+    "code": "10151",
+    "name": "Phetchaburi",
+    "updated_at": "2014-09-22T21:05:16.777469Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9499969482422,
+    "latitude": 13.1000003814697,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "10150",
+    "name": "Alto de los Pozos",
+    "updated_at": "2014-09-22T21:05:16.736287Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.5167007446289,
+    "latitude": 19.4832992553711,
+    "regions": []
+  },
+  {
+    "code": "1014f",
+    "name": "Baní",
+    "updated_at": "2014-09-22T21:05:16.714719Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.3332977294922,
+    "latitude": 18.2833003997803,
+    "regions": []
+  },
+  {
+    "code": "1014e",
+    "name": "Bávaro",
+    "updated_at": "2014-09-22T21:05:16.671527Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.4499969482422,
+    "latitude": 18.7166996002197,
+    "regions": []
+  },
+  {
+    "code": "1014d",
+    "name": "Bayahibe",
+    "updated_at": "2014-09-22T21:05:16.652074Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.8332977294922,
+    "latitude": 18.36669921875,
+    "regions": []
+  },
+  {
+    "code": "1014c",
+    "name": "Boca Chica",
+    "updated_at": "2014-09-22T21:05:16.632071Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.5999984741211,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "1014b",
+    "name": "Cabarete",
+    "updated_at": "2014-09-22T21:05:16.586497Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.4000015258789,
+    "latitude": 19.75,
+    "regions": []
+  },
+  {
+    "code": "1014a",
+    "name": "Cabrera",
+    "updated_at": "2014-09-22T21:05:16.572914Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.9000015258789,
+    "latitude": 19.63330078125,
+    "regions": []
+  },
+  {
+    "code": "10149",
+    "name": "Camú",
+    "updated_at": "2014-09-22T21:05:16.559067Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.61669921875,
+    "latitude": 19.7000007629395,
+    "regions": []
+  },
+  {
+    "code": "10148",
+    "name": "Concepción de La Vega",
+    "updated_at": "2014-09-22T21:05:16.501060Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.5167007446289,
+    "latitude": 19.2166996002197,
+    "regions": []
+  },
+  {
+    "code": "10147",
+    "name": "Constanza",
+    "updated_at": "2014-09-22T21:05:16.482641Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.75,
+    "latitude": 18.9167003631592,
+    "regions": []
+  },
+  {
+    "code": "10146",
+    "name": "Cosón",
+    "updated_at": "2014-09-22T21:05:16.467636Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.5832977294922,
+    "latitude": 19.2999992370605,
+    "regions": []
+  },
+  {
+    "code": "10145",
+    "name": "Cumayasa",
+    "updated_at": "2014-09-22T21:05:16.447143Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.0999984741211,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "10144",
+    "name": "Dajabón",
+    "updated_at": "2014-09-22T21:05:16.429448Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.6999969482422,
+    "latitude": 19.5499992370605,
+    "regions": []
+  },
+  {
+    "code": "10143",
+    "name": "El Canal",
+    "updated_at": "2014-09-22T21:05:16.398561Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.4832992553711,
+    "latitude": 19.7833003997803,
+    "regions": []
+  },
+  {
+    "code": "10142",
+    "name": "El Catey",
+    "updated_at": "2014-09-22T21:05:16.367023Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.6999969482422,
+    "latitude": 19.25,
+    "regions": []
+  },
+  {
+    "code": "10141",
+    "name": "El Cortesito",
+    "updated_at": "2014-09-22T21:05:16.349301Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.4167022705078,
+    "latitude": 18.6833000183105,
+    "regions": []
+  },
+  {
+    "code": "10140",
+    "name": "El Francés",
+    "updated_at": "2014-09-22T21:05:16.334797Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.2166976928711,
+    "latitude": 19.2000007629395,
+    "regions": []
+  },
+  {
+    "code": "1013f",
+    "name": "El Limón",
+    "updated_at": "2014-09-22T21:05:16.319951Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.4332962036133,
+    "latitude": 19.2833003997803,
+    "regions": []
+  },
+  {
+    "code": "1013e",
+    "name": "El Quemado",
+    "updated_at": "2014-09-22T21:05:16.305418Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.4167022705078,
+    "latitude": 18.4832992553711,
+    "regions": []
+  },
+  {
+    "code": "1013d",
+    "name": "Guayabo",
+    "updated_at": "2014-09-22T21:05:16.275165Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.63330078125,
+    "latitude": 18.75,
+    "regions": []
+  },
+  {
+    "code": "1013c",
+    "name": "Jarabacoa",
+    "updated_at": "2014-09-22T21:05:16.260214Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.63330078125,
+    "latitude": 19.11669921875,
+    "regions": []
+  },
+  {
+    "code": "1013b",
+    "name": "Juan Dolio",
+    "updated_at": "2014-09-22T21:05:16.239722Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.4176025390625,
+    "latitude": 18.4260997772217,
+    "regions": []
+  },
+  {
+    "code": "1013a",
+    "name": "Las Canas",
+    "updated_at": "2014-09-22T21:05:16.192087Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.3167037963867,
+    "latitude": 19.6499996185303,
+    "regions": []
+  },
+  {
+    "code": "10139",
+    "name": "La Julia",
+    "updated_at": "2014-09-22T21:05:16.166194Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.9332962036133,
+    "latitude": 18.4666996002197,
+    "regions": []
+  },
+  {
+    "code": "10138",
+    "name": "La Romana",
+    "updated_at": "2014-09-22T21:05:16.110031Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.9666976928711,
+    "latitude": 18.4167003631592,
+    "regions": []
+  },
+  {
+    "code": "10137",
+    "name": "Las Galeras",
+    "updated_at": "2014-09-22T21:05:16.089432Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.1999969482422,
+    "latitude": 19.2999992370605,
+    "regions": []
+  },
+  {
+    "code": "10136",
+    "name": "Las Marras",
+    "updated_at": "2014-09-22T21:05:16.075029Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.9832992553711,
+    "latitude": 19.9167003631592,
+    "regions": []
+  },
+  {
+    "code": "10135",
+    "name": "Las Salinas",
+    "updated_at": "2014-09-22T21:05:16.060150Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.5500030517578,
+    "latitude": 18.2166996002197,
+    "regions": []
+  },
+  {
+    "code": "10134",
+    "name": "Las Terrenas",
+    "updated_at": "2014-09-22T21:05:16.045430Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.5333023071289,
+    "latitude": 19.3166999816895,
+    "regions": []
+  },
+  {
+    "code": "10133",
+    "name": "Los Apargatales",
+    "updated_at": "2014-09-22T21:05:16.030692Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.4499969482422,
+    "latitude": 19.7667007446289,
+    "regions": []
+  },
+  {
+    "code": "10132",
+    "name": "Los Cacaos",
+    "updated_at": "2014-09-22T21:05:16.014555Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.2667007446289,
+    "latitude": 19.1833000183105,
+    "regions": []
+  },
+  {
+    "code": "10131",
+    "name": "Los Guineos Perdidos",
+    "updated_at": "2014-09-22T21:05:15.997990Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.4666976928711,
+    "latitude": 19.0499992370605,
+    "regions": []
+  },
+  {
+    "code": "10130",
+    "name": "Los Haitises",
+    "updated_at": "2014-09-22T21:05:15.977793Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.8167037963867,
+    "latitude": 19.2166996002197,
+    "regions": []
+  },
+  {
+    "code": "1012f",
+    "name": "Los Mameyes",
+    "updated_at": "2014-09-22T21:05:15.957554Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.6832962036133,
+    "latitude": 19.7833003997803,
+    "regions": []
+  },
+  {
+    "code": "1012e",
+    "name": "Los Patos",
+    "updated_at": "2014-09-22T21:05:15.937466Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.1832962036133,
+    "latitude": 17.9666996002197,
+    "regions": []
+  },
+  {
+    "code": "1012d",
+    "name": "Magante",
+    "updated_at": "2014-09-22T21:05:15.912765Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.1667022705078,
+    "latitude": 19.61669921875,
+    "regions": []
+  },
+  {
+    "code": "1012c",
+    "name": "Maggiolo",
+    "updated_at": "2014-09-22T21:05:15.891250Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.7332992553711,
+    "latitude": 19.8166999816895,
+    "regions": []
+  },
+  {
+    "code": "1012b",
+    "name": "Nagua",
+    "updated_at": "2014-09-22T21:05:15.830799Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.8332977294922,
+    "latitude": 19.38330078125,
+    "regions": []
+  },
+  {
+    "code": "1012a",
+    "name": "Palmar de Ocoa",
+    "updated_at": "2014-09-22T21:05:15.815083Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.5832977294922,
+    "latitude": 18.2999992370605,
+    "regions": []
+  },
+  {
+    "code": "10129",
+    "name": "Paraíso",
+    "updated_at": "2014-09-22T21:05:15.799424Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.1667022705078,
+    "latitude": 18.0,
+    "regions": []
+  },
+  {
+    "code": "10128",
+    "name": "Punta Cana",
+    "updated_at": "2014-09-22T21:05:15.782892Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.3883895874023,
+    "latitude": 18.6149044036865,
+    "regions": []
+  },
+  {
+    "code": "10127",
+    "name": "Punta Rucia",
+    "updated_at": "2014-09-22T21:05:15.765426Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.2332992553711,
+    "latitude": 19.8332996368408,
+    "regions": []
+  },
+  {
+    "code": "10126",
+    "name": "Río San Juan",
+    "updated_at": "2014-09-22T21:05:15.747678Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.0832977294922,
+    "latitude": 19.6499996185303,
+    "regions": []
+  },
+  {
+    "code": "10125",
+    "name": "San Felipe de Puerto Plata",
+    "updated_at": "2014-09-22T21:05:15.721416Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.6877975463867,
+    "latitude": 19.7849998474121,
+    "regions": [
+      "110f"
+    ]
+  },
+  {
+    "code": "10124",
+    "name": "San Fernando de Monte Cristi",
+    "updated_at": "2014-09-22T21:05:15.695500Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.6500015258789,
+    "latitude": 19.86669921875,
+    "regions": []
+  },
+  {
+    "code": "10123",
+    "name": "San Francisco de Macorís",
+    "updated_at": "2014-09-22T21:05:15.667059Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.25,
+    "latitude": 19.2999992370605,
+    "regions": []
+  },
+  {
+    "code": "10122",
+    "name": "San Pedro de Macorís",
+    "updated_at": "2014-09-22T21:05:15.631069Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.3000030517578,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "10121",
+    "name": "Santa Bárbara de Samaná",
+    "updated_at": "2014-09-22T21:05:15.597023Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.3345031738281,
+    "latitude": 19.2047939300537,
+    "regions": []
+  },
+  {
+    "code": "10120",
+    "name": "Santa Cruz de Barahona",
+    "updated_at": "2014-09-22T21:05:15.576046Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -71.0999984741211,
+    "latitude": 18.2000007629395,
+    "regions": []
+  },
+  {
+    "code": "1011f",
+    "name": "Santiago de los Caballeros",
+    "updated_at": "2014-09-22T21:05:15.558848Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.6999969482422,
+    "latitude": 19.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "1011e",
+    "name": "Santo Domingo",
+    "updated_at": "2014-09-22T21:05:15.541523Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -69.8974838256836,
+    "latitude": 18.4736518859863,
+    "regions": [
+      "110e"
+    ]
+  },
+  {
+    "code": "1011d",
+    "name": "Sosúa",
+    "updated_at": "2014-09-22T21:05:15.524078Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.5225982666016,
+    "latitude": 19.7520999908447,
+    "regions": [
+      "110f"
+    ]
+  },
+  {
+    "code": "1011c",
+    "name": "Uvero Alto",
+    "updated_at": "2014-09-22T21:05:15.460739Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -68.5832977294922,
+    "latitude": 18.8166999816895,
+    "regions": []
+  },
+  {
+    "code": "1011b",
+    "name": "Villa Altagracia",
+    "updated_at": "2014-09-22T21:05:15.434649Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.1667022705078,
+    "latitude": 18.6667003631592,
+    "regions": []
+  },
+  {
+    "code": "1011a",
+    "name": "Yaque Arriba",
+    "updated_at": "2014-09-22T21:05:15.402276Z",
+    "country": "do",
+    "parent": null,
+    "longitude": -70.6999969482422,
+    "latitude": 19.2667007446289,
+    "regions": []
+  },
+  {
+    "code": "10119",
+    "name": "Chonnabot",
+    "updated_at": "2014-09-22T21:05:15.368149Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.567001342773,
+    "latitude": 16.0832996368408,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "10118",
+    "name": "Amphoe Tha Li",
+    "updated_at": "2014-09-22T21:05:15.332491Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.349998474121,
+    "latitude": 17.5333003997803,
+    "regions": []
+  },
+  {
+    "code": "10117",
+    "name": "Bang Rak Beach",
+    "updated_at": "2014-09-22T21:05:15.312697Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.050003051758,
+    "latitude": 9.55000019073486,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "10116",
+    "name": "Nai Thon Beach",
+    "updated_at": "2014-09-22T21:05:15.292850Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2799987792969,
+    "latitude": 8.05916976928711,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "10115",
+    "name": "Ban Ao Ku Ning",
+    "updated_at": "2014-09-22T21:05:15.272696Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2667007446289,
+    "latitude": 9.18332958221436,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "10114",
+    "name": "Ban Bang Po",
+    "updated_at": "2014-09-22T21:05:15.252249Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9499969482422,
+    "latitude": 9.56667041778564,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "10113",
+    "name": "Chiang Phin Self Help Settlement",
+    "updated_at": "2014-09-22T21:05:15.208667Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.66300201416,
+    "latitude": 17.3374996185303,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "10112",
+    "name": "Ban Choeng Doi Suthep",
+    "updated_at": "2014-09-22T21:05:15.156833Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9468994140625,
+    "latitude": 18.7933006286621,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "10111",
+    "name": "Ban Don Ban",
+    "updated_at": "2014-09-22T21:05:15.121958Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.7667007446289,
+    "latitude": 9.30000019073486,
+    "regions": []
+  },
+  {
+    "code": "10110",
+    "name": "Ban Dong Kheng",
+    "updated_at": "2014-09-22T21:05:15.085845Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.825996398926,
+    "latitude": 17.3477993011475,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "1010f",
+    "name": "Ban Don Khwang",
+    "updated_at": "2014-09-22T21:05:15.052413Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.692001342773,
+    "latitude": 17.4503002166748,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "1010e",
+    "name": "Ban Du",
+    "updated_at": "2014-09-22T21:05:15.033971Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.86669921875,
+    "latitude": 19.9666996002197,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "1010d",
+    "name": "Ban Hua Doi",
+    "updated_at": "2014-09-22T21:05:15.015674Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.88330078125,
+    "latitude": 19.8332996368408,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "1010c",
+    "name": "Ban Huai Chomphu",
+    "updated_at": "2014-09-22T21:05:14.997091Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5,
+    "latitude": 19.13330078125,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "1010b",
+    "name": "Ban Huai Kachae",
+    "updated_at": "2014-09-22T21:05:14.978101Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.8000030517578,
+    "latitude": 14.7333002090454,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "1010a",
+    "name": "Ban Huai Khai",
+    "updated_at": "2014-09-22T21:05:14.959304Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5667037963867,
+    "latitude": 19.8166999816895,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "10109",
+    "name": "Ban Huai Sai Nua",
+    "updated_at": "2014-09-22T21:05:14.901679Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1611022949219,
+    "latitude": 18.6975002288818,
+    "regions": [
+      "162c"
+    ]
+  },
+  {
+    "code": "10108",
+    "name": "Ban Kao",
+    "updated_at": "2014-09-22T21:05:14.841181Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.75,
+    "latitude": 19.5333003997803,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "10107",
+    "name": "Kata Beach",
+    "updated_at": "2014-09-22T21:05:14.806256Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3007965087891,
+    "latitude": 7.82230997085571,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "10106",
+    "name": "Ban Khao San",
+    "updated_at": "2014-09-22T21:05:14.757019Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.838996887207,
+    "latitude": 17.32080078125,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "10105",
+    "name": "Ban Khao Ya Nua",
+    "updated_at": "2014-09-22T21:05:14.737045Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.967002868652,
+    "latitude": 16.5666999816895,
+    "regions": [
+      "1351"
+    ]
+  },
+  {
+    "code": "10104",
+    "name": "Ban Khlong Krathon",
+    "updated_at": "2014-09-22T21:05:14.716812Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.689002990723,
+    "latitude": 14.3906002044678,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "10103",
+    "name": "Ban Khlong Mae Nam",
+    "updated_at": "2014-09-22T21:05:14.696414Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.016998291016,
+    "latitude": 9.53332996368408,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "10102",
+    "name": "Ko Kood",
+    "updated_at": "2014-09-22T21:05:14.676203Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.550003051758,
+    "latitude": 11.6272001266479,
+    "regions": [
+      "1353",
+      "14b4"
+    ]
+  },
+  {
+    "code": "10101",
+    "name": "Ban Khlong Yang",
+    "updated_at": "2014-09-22T21:05:14.597391Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.483001708984,
+    "latitude": 14.6571998596191,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "10100",
+    "name": "Ban Khok Kroat",
+    "updated_at": "2014-09-22T21:05:14.563306Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9666976928711,
+    "latitude": 9.46667003631592,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "100ff",
+    "name": "Ban Khok Lante",
+    "updated_at": "2014-09-22T21:05:14.526558Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.049003601074,
+    "latitude": 17.2507991790771,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "100fe",
+    "name": "Ban Khu",
+    "updated_at": "2014-09-22T21:05:14.498396Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.949996948242,
+    "latitude": 15.6999998092651,
+    "regions": [
+      "15f4"
+    ]
+  },
+  {
+    "code": "100fd",
+    "name": "Ban Khun Lao",
+    "updated_at": "2014-09-22T21:05:14.479980Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3007965087891,
+    "latitude": 19.0139007568359,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "100fc",
+    "name": "Ko Tao",
+    "updated_at": "2014-09-22T21:05:14.461512Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8332977294922,
+    "latitude": 10.0832996368408,
+    "regions": [
+      "1171",
+      "14b5"
+    ]
+  },
+  {
+    "code": "100fb",
+    "name": "Ban Kraison",
+    "updated_at": "2014-09-22T21:05:14.442262Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.6667022705078,
+    "latitude": 9.01667022705078,
+    "regions": [
+      "14b5",
+      "14c5"
+    ]
+  },
+  {
+    "code": "100fa",
+    "name": "Ban Krang",
+    "updated_at": "2014-09-22T21:05:14.423310Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.3332977294922,
+    "latitude": 12.8667001724243,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "100f9",
+    "name": "Ban Kuam",
+    "updated_at": "2014-09-22T21:05:14.372935Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.4593963623047,
+    "latitude": 18.8178005218506,
+    "regions": [
+      "1512"
+    ]
+  },
+  {
+    "code": "100f8",
+    "name": "Ban Laem Mong Khoi",
+    "updated_at": "2014-09-22T21:05:14.349453Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1149978637695,
+    "latitude": 14.4153003692627,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "100f7",
+    "name": "Ban Lao",
+    "updated_at": "2014-09-22T21:05:14.317804Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.067001342773,
+    "latitude": 19.9167003631592,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "100f6",
+    "name": "Ban Mae Mae",
+    "updated_at": "2014-09-22T21:05:14.281917Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.8807983398438,
+    "latitude": 18.9002990722656,
+    "regions": []
+  },
+  {
+    "code": "100f5",
+    "name": "Ban Mae Pong",
+    "updated_at": "2014-09-22T21:05:14.245479Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.1738967895508,
+    "latitude": 18.8202991485596,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "100f4",
+    "name": "Mae Salong Nai",
+    "updated_at": "2014-09-22T21:05:14.222682Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8003005981445,
+    "latitude": 20.201099395752,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "100f3",
+    "name": "Ban Maklua",
+    "updated_at": "2014-09-22T21:05:14.204264Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.851997375488,
+    "latitude": 15.6106004714966,
+    "regions": [
+      "166a"
+    ]
+  },
+  {
+    "code": "100f2",
+    "name": "Ban Muang Ton Mamuang",
+    "updated_at": "2014-09-22T21:05:14.185788Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.2332992553711,
+    "latitude": 13.5832996368408,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "100f1",
+    "name": "Ban Noi Tat San",
+    "updated_at": "2014-09-22T21:05:14.147777Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.383003234863,
+    "latitude": 17.3999996185303,
+    "regions": [
+      "15f0"
+    ]
+  },
+  {
+    "code": "100f0",
+    "name": "Ban Nong Hin",
+    "updated_at": "2014-09-22T21:05:14.101996Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.883003234863,
+    "latitude": 16.4832992553711,
+    "regions": [
+      "14c1"
+    ]
+  },
+  {
+    "code": "100ef",
+    "name": "Ban Nong Kasa",
+    "updated_at": "2014-09-22T21:05:14.076021Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.38500213623,
+    "latitude": 15.6291999816895,
+    "regions": [
+      "166a"
+    ]
+  },
+  {
+    "code": "100ee",
+    "name": "Ban Nong Kham",
+    "updated_at": "2014-09-22T21:05:14.045673Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.4666976928711,
+    "latitude": 13.5666999816895,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "100ed",
+    "name": "Ban Nong Makha",
+    "updated_at": "2014-09-22T21:05:14.009647Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.578002929688,
+    "latitude": 14.539999961853,
+    "regions": [
+      "15eb"
+    ]
+  },
+  {
+    "code": "100ec",
+    "name": "Ban Nong Nok Karian",
+    "updated_at": "2014-09-22T21:05:13.973877Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.5333023071289,
+    "latitude": 13.5832996368408,
+    "regions": []
+  },
+  {
+    "code": "100eb",
+    "name": "Ban Nong Ri",
+    "updated_at": "2014-09-22T21:05:13.951734Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0,
+    "latitude": 8.98332977294922,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "100ea",
+    "name": "Ban Nong Si Nuan",
+    "updated_at": "2014-09-22T21:05:13.932563Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.4332962036133,
+    "latitude": 13.6167001724243,
+    "regions": [
+      "14de"
+    ]
+  },
+  {
+    "code": "100e9",
+    "name": "Ban Nong Tao",
+    "updated_at": "2014-09-22T21:05:13.912585Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 103.483001708984,
+    "latitude": 14.8500003814697,
+    "regions": [
+      "1631"
+    ]
+  },
+  {
+    "code": "100e8",
+    "name": "Ban Pak Ba Ra",
+    "updated_at": "2014-09-22T21:05:13.892107Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.7332992553711,
+    "latitude": 6.84999990463257,
+    "regions": [
+      "1616"
+    ]
+  },
+  {
+    "code": "100e7",
+    "name": "Ban Pak Chuk",
+    "updated_at": "2014-09-22T21:05:13.871851Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2667007446289,
+    "latitude": 9.16666984558105,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "100e6",
+    "name": "Ban Pang",
+    "updated_at": "2014-09-22T21:05:13.848935Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.398002624512,
+    "latitude": 15.101900100708,
+    "regions": [
+      "167d"
+    ]
+  },
+  {
+    "code": "100e5",
+    "name": "Ban Pa Pae",
+    "updated_at": "2014-09-22T21:05:13.823226Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.6999969482422,
+    "latitude": 19.11669921875,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "100e4",
+    "name": "Patong Beach",
+    "updated_at": "2014-09-22T21:05:13.794250Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2984008789062,
+    "latitude": 7.89271020889282,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "100e3",
+    "name": "Khao Kho",
+    "updated_at": "2014-09-22T21:05:13.758817Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.016998291016,
+    "latitude": 16.7667007446289,
+    "regions": [
+      "1351"
+    ]
+  },
+  {
+    "code": "100e2",
+    "name": "Ban Pa Yang",
+    "updated_at": "2014-09-22T21:05:13.725013Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.7889022827148,
+    "latitude": 17.4438991546631,
+    "regions": [
+      "14df"
+    ]
+  },
+  {
+    "code": "100e1",
+    "name": "Ban Phu Bon",
+    "updated_at": "2014-09-22T21:05:13.670744Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6500015258789,
+    "latitude": 12.9833002090454,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "100e0",
+    "name": "Ban Phu Wai",
+    "updated_at": "2014-09-22T21:05:13.652200Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.8499984741211,
+    "latitude": 12.7166996002197,
+    "regions": []
+  },
+  {
+    "code": "100df",
+    "name": "Ban Plai Huai Kaeng Riang",
+    "updated_at": "2014-09-22T21:05:13.614301Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.9832992553711,
+    "latitude": 14.3832998275757,
+    "regions": [
+      "1340"
+    ]
+  },
+  {
+    "code": "100de",
+    "name": "Choeng Mon Beach",
+    "updated_at": "2014-09-22T21:05:13.595399Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.067001342773,
+    "latitude": 9.56667041778564,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "100dd",
+    "name": "Ban Samnak",
+    "updated_at": "2014-09-22T21:05:13.521902Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.5500030517578,
+    "latitude": 9.60000038146973,
+    "regions": [
+      "14c3"
+    ]
+  },
+  {
+    "code": "100dc",
+    "name": "Ban Samphao",
+    "updated_at": "2014-09-22T21:05:13.486613Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9167022705078,
+    "latitude": 8.89999961853027,
+    "regions": [
+      "14c4"
+    ]
+  },
+  {
+    "code": "100db",
+    "name": "Ban Sang Sa",
+    "updated_at": "2014-09-22T21:05:13.450016Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 102.865997314453,
+    "latitude": 17.6930999755859,
+    "regions": [
+      "15ee"
+    ]
+  },
+  {
+    "code": "100da",
+    "name": "Ban San Pa Hiang",
+    "updated_at": "2014-09-22T21:05:13.413837Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.0997009277344,
+    "latitude": 18.6243991851807,
+    "regions": [
+      "162c"
+    ]
+  },
+  {
+    "code": "100d9",
+    "name": "Ban Sap Bon",
+    "updated_at": "2014-09-22T21:05:13.395134Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.833999633789,
+    "latitude": 14.3591995239258,
+    "regions": []
+  },
+  {
+    "code": "100d8",
+    "name": "Ban Sap Muang",
+    "updated_at": "2014-09-22T21:05:13.376669Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.035003662109,
+    "latitude": 14.7825002670288,
+    "regions": [
+      "1628"
+    ]
+  },
+  {
+    "code": "100d7",
+    "name": "Khao Sok",
+    "updated_at": "2014-09-22T21:05:13.357924Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.5333023071289,
+    "latitude": 8.89999961853027,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "100d6",
+    "name": "Golden Triangle",
+    "updated_at": "2014-09-22T21:05:13.337259Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.082000732422,
+    "latitude": 20.3488998413086,
+    "regions": [
+      "148a"
+    ]
+  },
+  {
+    "code": "100d5",
+    "name": "Ban Tai",
+    "updated_at": "2014-09-22T21:05:13.317951Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.9832992553711,
+    "latitude": 9.56667041778564,
+    "regions": [
+      "1172",
+      "14b5"
+    ]
+  },
+  {
+    "code": "100d4",
+    "name": "Ban Tha Pling",
+    "updated_at": "2014-09-22T21:05:13.291811Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6832962036133,
+    "latitude": 9.19999980926514,
+    "regions": []
+  },
+  {
+    "code": "100d3",
+    "name": "Ban Thung Pong",
+    "updated_at": "2014-09-22T21:05:13.235896Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.4167022705078,
+    "latitude": 19.25,
+    "regions": []
+  },
+  {
+    "code": "100d2",
+    "name": "Ban Ton Lung",
+    "updated_at": "2014-09-22T21:05:13.169232Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.8499984741211,
+    "latitude": 19.1499996185303,
+    "regions": [
+      "143b"
+    ]
+  },
+  {
+    "code": "100d1",
+    "name": "Ban Wang Malako",
+    "updated_at": "2014-09-22T21:05:13.139115Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.7332992553711,
+    "latitude": 12.8332996368408,
+    "regions": [
+      "14bc"
+    ]
+  },
+  {
+    "code": "100d0",
+    "name": "Ban Yang Mae Sa",
+    "updated_at": "2014-09-22T21:05:13.119000Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.3341979980469,
+    "latitude": 18.8150005340576,
+    "regions": []
+  },
+  {
+    "code": "100cf",
+    "name": "Don Sak",
+    "updated_at": "2014-09-22T21:05:13.099026Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 99.6832962036133,
+    "latitude": 9.30000019073486,
+    "regions": [
+      "14b5"
+    ]
+  },
+  {
+    "code": "100ce",
+    "name": "Khao Kho",
+    "updated_at": "2014-09-22T21:05:13.078306Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.967002868652,
+    "latitude": 16.6667003631592,
+    "regions": [
+      "1351"
+    ]
+  },
+  {
+    "code": "100cd",
+    "name": "Khura Buri",
+    "updated_at": "2014-09-22T21:05:13.057957Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.4332962036133,
+    "latitude": 9.19999980926514,
+    "regions": [
+      "143d"
+    ]
+  },
+  {
+    "code": "100cc",
+    "name": "Muaklek",
+    "updated_at": "2014-09-22T21:05:13.037247Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 101.203002929688,
+    "latitude": 14.6639003753662,
+    "regions": []
+  },
+  {
+    "code": "100cb",
+    "name": "Bangkok",
+    "updated_at": "2014-09-22T21:05:13.011243Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 100.505638122559,
+    "latitude": 13.755838394165,
+    "regions": [
+      "1413"
+    ]
+  },
+  {
+    "code": "100ca",
+    "name": "Kamala Beach",
+    "updated_at": "2014-09-22T21:05:12.985014Z",
+    "country": "th",
+    "parent": null,
+    "longitude": 98.2779998779297,
+    "latitude": 7.9490909576416,
+    "regions": [
+      "134b"
+    ]
+  },
+  {
+    "code": "100c9",
+    "name": "An Thoi",
+    "updated_at": "2016-02-09T09:32:32.462482Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 104.032997131348,
+    "latitude": 10.0166997909546,
+    "regions": [
+      "1581",
+      "15ef"
+    ]
+  },
+  {
+    "code": "100c8",
+    "name": "Ap Vi Binh",
+    "updated_at": "2016-02-09T09:32:32.037208Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.521003723145,
+    "latitude": 9.74306011199951,
+    "regions": [
+      "16da"
+    ]
+  },
+  {
+    "code": "100c7",
+    "name": "Xuân Thiều",
+    "updated_at": "2014-09-22T21:05:12.724515Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.123001098633,
+    "latitude": 16.0956001281738,
+    "regions": []
+  },
+  {
+    "code": "100c6",
+    "name": "Ban Den",
+    "updated_at": "2016-02-09T09:32:31.143356Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.949996948242,
+    "latitude": 22.25,
+    "regions": [
+      "1646"
+    ]
+  },
+  {
+    "code": "100c5",
+    "name": "Bao Loc",
+    "updated_at": "2016-02-09T09:32:32.447191Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.800003051758,
+    "latitude": 11.5333003997803,
+    "regions": [
+      "164a"
+    ]
+  },
+  {
+    "code": "100c4",
+    "name": "Ba Ria",
+    "updated_at": "2016-02-09T09:32:31.135811Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.166999816895,
+    "latitude": 10.5,
+    "regions": [
+      "1640"
+    ]
+  },
+  {
+    "code": "100c3",
+    "name": "Ben Tre",
+    "updated_at": "2016-02-09T09:32:29.560275Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.383003234863,
+    "latitude": 10.2333002090454,
+    "regions": [
+      "16d6"
+    ]
+  },
+  {
+    "code": "100c2",
+    "name": "Bien Hoa",
+    "updated_at": "2014-09-22T21:05:12.544619Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.817001342773,
+    "latitude": 10.9499998092651,
+    "regions": [
+      "16d2"
+    ]
+  },
+  {
+    "code": "100c1",
+    "name": "Buon Ma Thuot",
+    "updated_at": "2014-09-22T21:05:12.525274Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.050003051758,
+    "latitude": 12.6667003631592,
+    "regions": [
+      "16ce"
+    ]
+  },
+  {
+    "code": "100c0",
+    "name": "Cai Be",
+    "updated_at": "2016-02-09T09:32:31.570987Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.032997131348,
+    "latitude": 10.3332996368408,
+    "regions": [
+      "16d5"
+    ]
+  },
+  {
+    "code": "100bf",
+    "name": "Can Gio",
+    "updated_at": "2014-09-22T21:05:12.472887Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.967002868652,
+    "latitude": 10.4167003631592,
+    "regions": [
+      "163c"
+    ]
+  },
+  {
+    "code": "100be",
+    "name": "Can Tho",
+    "updated_at": "2014-09-22T21:05:12.441884Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.782997131348,
+    "latitude": 10.0333003997803,
+    "regions": [
+      "163d"
+    ]
+  },
+  {
+    "code": "100bd",
+    "name": "Cao Lãnh",
+    "updated_at": "2014-09-22T21:05:12.381135Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.633003234863,
+    "latitude": 10.4499998092651,
+    "regions": [
+      "16d8"
+    ]
+  },
+  {
+    "code": "100bc",
+    "name": "Cat Ba",
+    "updated_at": "2014-09-22T21:05:12.341071Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.050003051758,
+    "latitude": 20.7332992553711,
+    "regions": [
+      "1647"
+    ]
+  },
+  {
+    "code": "100bb",
+    "name": "Chau Doc",
+    "updated_at": "2014-09-22T21:05:12.306677Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.116996765137,
+    "latitude": 10.6999998092651,
+    "regions": [
+      "16d9"
+    ]
+  },
+  {
+    "code": "100ba",
+    "name": "Chi Khu Cỏ Ông",
+    "updated_at": "2014-09-22T21:05:12.290793Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.633003234863,
+    "latitude": 8.73332977294922,
+    "regions": []
+  },
+  {
+    "code": "100b9",
+    "name": "Cho Lach",
+    "updated_at": "2016-02-09T09:32:33.223887Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.116996765137,
+    "latitude": 10.2666997909546,
+    "regions": [
+      "16d6"
+    ]
+  },
+  {
+    "code": "100b8",
+    "name": "Con Dao",
+    "updated_at": "2014-09-22T21:05:12.219644Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.616996765137,
+    "latitude": 8.68332958221436,
+    "regions": []
+  },
+  {
+    "code": "100b7",
+    "name": "Cua Can",
+    "updated_at": "2014-09-22T21:05:12.189198Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.904571533203,
+    "latitude": 10.3036041259766,
+    "regions": [
+      "1581",
+      "15ef"
+    ]
+  },
+  {
+    "code": "100b6",
+    "name": "Cửa Lò",
+    "updated_at": "2014-09-22T21:05:12.155168Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.717002868652,
+    "latitude": 18.8166999816895,
+    "regions": [
+      "16de"
+    ]
+  },
+  {
+    "code": "100b5",
+    "name": "Cuong Ha",
+    "updated_at": "2016-02-09T09:32:30.385877Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.383003234863,
+    "latitude": 17.63330078125,
+    "regions": [
+      "16f6"
+    ]
+  },
+  {
+    "code": "100b4",
+    "name": "Da Hòa",
+    "updated_at": "2014-09-22T21:05:12.103399Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.633003234863,
+    "latitude": 11.3999996185303,
+    "regions": [
+      "164a"
+    ]
+  },
+  {
+    "code": "100b3",
+    "name": "Ðại Lãnh",
+    "updated_at": "2014-09-22T21:05:12.087825Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.366996765137,
+    "latitude": 12.8332996368408,
+    "regions": [
+      "1585"
+    ]
+  },
+  {
+    "code": "100b2",
+    "name": "Da Lat",
+    "updated_at": "2014-09-22T21:05:12.071782Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.416999816895,
+    "latitude": 11.9333000183105,
+    "regions": [
+      "164a"
+    ]
+  },
+  {
+    "code": "100b1",
+    "name": "Dam Mon",
+    "updated_at": "2014-09-22T21:05:12.055593Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.416999816895,
+    "latitude": 12.6667003631592,
+    "regions": [
+      "1585"
+    ]
+  },
+  {
+    "code": "100b0",
+    "name": "Da Nang",
+    "updated_at": "2014-09-22T21:05:12.039653Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.221000671387,
+    "latitude": 16.0678005218506,
+    "regions": [
+      "163f"
+    ]
+  },
+  {
+    "code": "100af",
+    "name": "Dien Ban",
+    "updated_at": "2014-09-22T21:05:11.995163Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.25700378418,
+    "latitude": 15.8858003616333,
+    "regions": []
+  },
+  {
+    "code": "100ae",
+    "name": "Diện Biên Phủ",
+    "updated_at": "2014-09-22T21:05:11.969009Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.016998291016,
+    "latitude": 21.38330078125,
+    "regions": [
+      "16e9"
+    ]
+  },
+  {
+    "code": "100ad",
+    "name": "Dien Khanh",
+    "updated_at": "2016-02-09T09:32:27.339639Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.099998474121,
+    "latitude": 12.25,
+    "regions": [
+      "1585"
+    ]
+  },
+  {
+    "code": "100ac",
+    "name": "Ðinh Thôn",
+    "updated_at": "2014-09-22T21:05:11.902164Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.782997131348,
+    "latitude": 21.0167007446289,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "100ab",
+    "name": "Dong Thuong",
+    "updated_at": "2014-09-22T21:05:11.855565Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.800003051758,
+    "latitude": 20.7166996002197,
+    "regions": []
+  },
+  {
+    "code": "100aa",
+    "name": "Dong Hoi",
+    "updated_at": "2016-02-09T09:32:28.238300Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.599998474121,
+    "latitude": 17.4832992553711,
+    "regions": [
+      "16f6"
+    ]
+  },
+  {
+    "code": "100a9",
+    "name": "Dong Quan",
+    "updated_at": "2016-02-09T09:32:32.829072Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.717002868652,
+    "latitude": 18.7999992370605,
+    "regions": [
+      "16de"
+    ]
+  },
+  {
+    "code": "100a8",
+    "name": "Ðố Sơn",
+    "updated_at": "2014-09-22T21:05:11.803564Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.789001464844,
+    "latitude": 20.7136001586914,
+    "regions": [
+      "1647"
+    ]
+  },
+  {
+    "code": "100a7",
+    "name": "Giong Rieng",
+    "updated_at": "2016-02-09T09:32:28.658228Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.317001342773,
+    "latitude": 9.90694046020508,
+    "regions": [
+      "1581"
+    ]
+  },
+  {
+    "code": "100a6",
+    "name": "Ha Giang",
+    "updated_at": "2014-09-22T21:05:11.761562Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 104.983001708984,
+    "latitude": 22.8332996368408,
+    "regions": [
+      "16e1"
+    ]
+  },
+  {
+    "code": "100a5",
+    "name": "Hải Dương",
+    "updated_at": "2014-09-22T21:05:11.735578Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.317001342773,
+    "latitude": 20.9333000183105,
+    "regions": [
+      "16ea"
+    ]
+  },
+  {
+    "code": "100a4",
+    "name": "Mui Ne",
+    "updated_at": "2014-09-22T21:05:11.713403Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.282997131348,
+    "latitude": 10.9333000183105,
+    "regions": [
+      "1580"
+    ]
+  },
+  {
+    "code": "100a3",
+    "name": "Hai Phong",
+    "updated_at": "2014-09-22T21:05:11.680349Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.681999206543,
+    "latitude": 20.8561000823975,
+    "regions": [
+      "1647"
+    ]
+  },
+  {
+    "code": "100a2",
+    "name": "Hanoi",
+    "updated_at": "2014-09-22T21:05:11.651150Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.856002807617,
+    "latitude": 21.025899887085,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "100a1",
+    "name": "Ha Tien",
+    "updated_at": "2014-09-22T21:05:11.623570Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 104.483001708984,
+    "latitude": 10.3832998275757,
+    "regions": [
+      "1581"
+    ]
+  },
+  {
+    "code": "100a0",
+    "name": "Ha Tinh",
+    "updated_at": "2016-02-09T09:32:32.438280Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.900001525879,
+    "latitude": 18.3332996368408,
+    "regions": [
+      "16df"
+    ]
+  },
+  {
+    "code": "1009f",
+    "name": "Hoi An",
+    "updated_at": "2016-02-09T09:32:33.770809Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.330001831055,
+    "latitude": 15.8770999908447,
+    "regions": [
+      "16f4"
+    ]
+  },
+  {
+    "code": "1009e",
+    "name": "Ha Long",
+    "updated_at": "2014-09-22T21:05:11.541790Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.080001831055,
+    "latitude": 20.951099395752,
+    "regions": [
+      "157f"
+    ]
+  },
+  {
+    "code": "1009d",
+    "name": "Hue",
+    "updated_at": "2014-09-22T21:05:11.517873Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.59001159668,
+    "latitude": 16.4636611938477,
+    "regions": [
+      "163e"
+    ]
+  },
+  {
+    "code": "1009c",
+    "name": "Ke Ga",
+    "updated_at": "2014-09-22T21:05:11.491986Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.983001708984,
+    "latitude": 10.6999998092651,
+    "regions": [
+      "1580"
+    ]
+  },
+  {
+    "code": "1009b",
+    "name": "Kiên Lương",
+    "updated_at": "2014-09-22T21:05:11.435200Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 104.650001525879,
+    "latitude": 10.2833003997803,
+    "regions": [
+      "1581"
+    ]
+  },
+  {
+    "code": "1009a",
+    "name": "Kon Rung (1)",
+    "updated_at": "2014-09-22T21:05:11.401932Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.300003051758,
+    "latitude": 14.0500001907349,
+    "regions": []
+  },
+  {
+    "code": "10099",
+    "name": "La Gi",
+    "updated_at": "2014-09-22T21:05:11.373419Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.782997131348,
+    "latitude": 10.6667003631592,
+    "regions": [
+      "1580"
+    ]
+  },
+  {
+    "code": "10098",
+    "name": "Lao Bao",
+    "updated_at": "2016-02-09T09:32:29.552574Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.599998474121,
+    "latitude": 16.61669921875,
+    "regions": [
+      "16f5"
+    ]
+  },
+  {
+    "code": "10097",
+    "name": "Lao Cai",
+    "updated_at": "2014-09-22T21:05:11.293445Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.949996948242,
+    "latitude": 22.4832992553711,
+    "regions": [
+      "1646"
+    ]
+  },
+  {
+    "code": "10096",
+    "name": "La Phu",
+    "updated_at": "2016-02-09T09:32:33.240546Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.282997131348,
+    "latitude": 21.1667003631592,
+    "regions": [
+      "16e8"
+    ]
+  },
+  {
+    "code": "10095",
+    "name": "Mai Chau",
+    "updated_at": "2014-09-22T21:05:11.247899Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.083000183105,
+    "latitude": 20.6499996185303,
+    "regions": [
+      "16e0"
+    ]
+  },
+  {
+    "code": "10094",
+    "name": "Wangchieh",
+    "updated_at": "2014-09-22T21:05:11.220275Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.967002868652,
+    "latitude": 21.5333003997803,
+    "regions": [
+      "157f"
+    ]
+  },
+  {
+    "code": "10093",
+    "name": "My Tho",
+    "updated_at": "2016-02-09T09:32:33.778445Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.349998474121,
+    "latitude": 10.3500003814697,
+    "regions": [
+      "16d5"
+    ]
+  },
+  {
+    "code": "10092",
+    "name": "Nam Giao",
+    "updated_at": "2014-09-22T21:05:11.153285Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.5,
+    "latitude": 20.9832992553711,
+    "regions": [
+      "16e0"
+    ]
+  },
+  {
+    "code": "10091",
+    "name": "Ngọc Quang",
+    "updated_at": "2014-09-22T21:05:11.127422Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.717002868652,
+    "latitude": 21.3332996368408,
+    "regions": [
+      "16eb"
+    ]
+  },
+  {
+    "code": "10090",
+    "name": "Nha Trang",
+    "updated_at": "2014-09-22T21:05:11.111261Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.195175170898,
+    "latitude": 12.2385015487671,
+    "regions": [
+      "1585"
+    ]
+  },
+  {
+    "code": "1008f",
+    "name": "Ninh Binh",
+    "updated_at": "2014-09-22T21:05:11.078398Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.974998474121,
+    "latitude": 20.2539005279541,
+    "regions": [
+      "1648"
+    ]
+  },
+  {
+    "code": "1008e",
+    "name": "Ninh Phuoc",
+    "updated_at": "2016-02-09T09:32:32.065157Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.282997131348,
+    "latitude": 12.4499998092651,
+    "regions": [
+      "1585"
+    ]
+  },
+  {
+    "code": "1008d",
+    "name": "Noi Bai",
+    "updated_at": "2016-02-09T09:32:30.765688Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.817001342773,
+    "latitude": 21.2166996002197,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "1008c",
+    "name": "Phan Rang",
+    "updated_at": "2014-09-22T21:05:10.995812Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.983001708984,
+    "latitude": 11.5666999816895,
+    "regions": [
+      "16f1"
+    ]
+  },
+  {
+    "code": "1008b",
+    "name": "Phan Thiet",
+    "updated_at": "2014-09-22T21:05:10.970617Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.099998474121,
+    "latitude": 10.9333000183105,
+    "regions": [
+      "1580"
+    ]
+  },
+  {
+    "code": "1008a",
+    "name": "Pho Trach",
+    "updated_at": "2014-09-22T21:05:10.935070Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.366996765137,
+    "latitude": 16.5832996368408,
+    "regions": [
+      "163e"
+    ]
+  },
+  {
+    "code": "10089",
+    "name": "Phu Loc",
+    "updated_at": "2016-02-09T09:32:32.842671Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.883003234863,
+    "latitude": 16.2667007446289,
+    "regions": [
+      "163e"
+    ]
+  },
+  {
+    "code": "10088",
+    "name": "Phú Mỹ",
+    "updated_at": "2014-09-22T21:05:10.872537Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.067001342773,
+    "latitude": 10.6332998275757,
+    "regions": [
+      "1640"
+    ]
+  },
+  {
+    "code": "10087",
+    "name": "Phước Hậu (1)",
+    "updated_at": "2014-09-22T21:05:10.855420Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.300003051758,
+    "latitude": 13.1000003814697,
+    "regions": [
+      "1649"
+    ]
+  },
+  {
+    "code": "10086",
+    "name": "Duong Dong",
+    "updated_at": "2014-09-22T21:05:10.838387Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.967002868652,
+    "latitude": 10.2166996002197,
+    "regions": [
+      "1581",
+      "15ef"
+    ]
+  },
+  {
+    "code": "10085",
+    "name": "Pleiku",
+    "updated_at": "2014-09-22T21:05:10.820845Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.0,
+    "latitude": 13.9833002090454,
+    "regions": [
+      "16ef"
+    ]
+  },
+  {
+    "code": "10084",
+    "name": "Quang Ninh",
+    "updated_at": "2014-09-22T21:05:10.803258Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.550003051758,
+    "latitude": 20.9333000183105,
+    "regions": [
+      "157f"
+    ]
+  },
+  {
+    "code": "10083",
+    "name": "Quang Ngai",
+    "updated_at": "2016-02-09T09:32:28.676220Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.800003051758,
+    "latitude": 15.1167001724243,
+    "regions": [
+      "16f3"
+    ]
+  },
+  {
+    "code": "10082",
+    "name": "Quy Nhon",
+    "updated_at": "2014-09-22T21:05:10.730204Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.233001708984,
+    "latitude": 13.7666997909546,
+    "regions": [
+      "16f2"
+    ]
+  },
+  {
+    "code": "10081",
+    "name": "Rach Gia",
+    "updated_at": "2016-02-09T09:32:30.786470Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.083000183105,
+    "latitude": 10.0166997909546,
+    "regions": [
+      "1581"
+    ]
+  },
+  {
+    "code": "10080",
+    "name": "Sa Huynh",
+    "updated_at": "2016-02-09T09:32:29.602876Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.067001342773,
+    "latitude": 14.6667003631592,
+    "regions": [
+      "16f3"
+    ]
+  },
+  {
+    "code": "1007f",
+    "name": "Sầm Sơn",
+    "updated_at": "2014-09-22T21:05:10.629366Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.900001525879,
+    "latitude": 19.7332992553711,
+    "regions": [
+      "16d4"
+    ]
+  },
+  {
+    "code": "1007e",
+    "name": "Sa Pa",
+    "updated_at": "2014-09-22T21:05:10.607088Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 103.844321250217,
+    "latitude": 22.3377867924879,
+    "regions": [
+      "1646"
+    ]
+  },
+  {
+    "code": "1007d",
+    "name": "Soc Trang",
+    "updated_at": "2016-02-09T09:32:32.454860Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.980003356934,
+    "latitude": 9.6033296585083,
+    "regions": [
+      "16db"
+    ]
+  },
+  {
+    "code": "1007c",
+    "name": "Sơn Tây",
+    "updated_at": "2014-09-22T21:05:10.571767Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.504997253418,
+    "latitude": 21.1378002166748,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "1007b",
+    "name": "Ta Lai",
+    "updated_at": "2014-09-22T21:05:10.553788Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.383003234863,
+    "latitude": 11.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "1007a",
+    "name": "Tam Ðảo",
+    "updated_at": "2014-09-22T21:05:10.536250Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.643997192383,
+    "latitude": 21.4535999298096,
+    "regions": [
+      "16eb"
+    ]
+  },
+  {
+    "code": "10079",
+    "name": "Tam Ky",
+    "updated_at": "2016-02-09T09:32:33.248493Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.483001708984,
+    "latitude": 15.5666999816895,
+    "regions": [
+      "16f4"
+    ]
+  },
+  {
+    "code": "10078",
+    "name": "Tân Hiệp",
+    "updated_at": "2014-09-22T21:05:10.490815Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.5,
+    "latitude": 15.9499998092651,
+    "regions": [
+      "16f4"
+    ]
+  },
+  {
+    "code": "10077",
+    "name": "Tân Lưu",
+    "updated_at": "2014-09-22T21:05:10.464626Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.264999389648,
+    "latitude": 15.9981002807617,
+    "regions": []
+  },
+  {
+    "code": "10076",
+    "name": "Tan Phong",
+    "updated_at": "2014-09-22T21:05:10.432731Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.702003479004,
+    "latitude": 10.7339000701904,
+    "regions": [
+      "163c"
+    ]
+  },
+  {
+    "code": "10075",
+    "name": "Thach Loi",
+    "updated_at": "2016-02-09T09:32:28.230645Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.766998291016,
+    "latitude": 21.2166996002197,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "10074",
+    "name": "Thanh Ðông (1)",
+    "updated_at": "2014-09-22T21:05:10.366503Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.366996765137,
+    "latitude": 15.8832998275757,
+    "regions": []
+  },
+  {
+    "code": "10073",
+    "name": "Ho Chi Minh City",
+    "updated_at": "2016-02-09T09:32:27.773834Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.699867248535,
+    "latitude": 10.778902053833,
+    "regions": [
+      "163c"
+    ]
+  },
+  {
+    "code": "10072",
+    "name": "Thôn Lập An",
+    "updated_at": "2014-09-22T21:05:10.298503Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.050003051758,
+    "latitude": 16.2667007446289,
+    "regions": []
+  },
+  {
+    "code": "10071",
+    "name": "Thuận An",
+    "updated_at": "2014-09-22T21:05:10.280762Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.383003234863,
+    "latitude": 15.8500003814697,
+    "regions": []
+  },
+  {
+    "code": "10070",
+    "name": "Thu Dau Mot",
+    "updated_at": "2016-02-09T09:32:32.476793Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.650001525879,
+    "latitude": 10.9666996002197,
+    "regions": [
+      "1584"
+    ]
+  },
+  {
+    "code": "1006f",
+    "name": "Trại Kênh",
+    "updated_at": "2014-09-22T21:05:10.175888Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.666999816895,
+    "latitude": 20.9500007629395,
+    "regions": [
+      "1647"
+    ]
+  },
+  {
+    "code": "1006e",
+    "name": "Tuyên Hóa",
+    "updated_at": "2014-09-22T21:05:10.147253Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.217002868652,
+    "latitude": 16.0333003997803,
+    "regions": [
+      "163f"
+    ]
+  },
+  {
+    "code": "1006d",
+    "name": "Tuy Hoa",
+    "updated_at": "2014-09-22T21:05:10.114446Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.300003051758,
+    "latitude": 13.0832996368408,
+    "regions": [
+      "1649"
+    ]
+  },
+  {
+    "code": "1006c",
+    "name": "Tuy Luật Mỹ",
+    "updated_at": "2014-09-22T21:05:10.095096Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 109.25,
+    "latitude": 13.5500001907349,
+    "regions": [
+      "1649"
+    ]
+  },
+  {
+    "code": "1006b",
+    "name": "Ung Hoa",
+    "updated_at": "2014-09-22T21:05:10.079422Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.782997131348,
+    "latitude": 20.7332992553711,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "1006a",
+    "name": "Vinh",
+    "updated_at": "2014-09-22T21:05:10.063516Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.666999816895,
+    "latitude": 18.6667003631592,
+    "regions": [
+      "16de"
+    ]
+  },
+  {
+    "code": "10069",
+    "name": "Vung Tau",
+    "updated_at": "2014-09-22T21:05:10.010128Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.084426879883,
+    "latitude": 10.3476819992065,
+    "regions": [
+      "1640"
+    ]
+  },
+  {
+    "code": "10068",
+    "name": "Vu Xa",
+    "updated_at": "2016-02-09T09:32:29.066481Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.166999816895,
+    "latitude": 20.8166999816895,
+    "regions": [
+      "16ea"
+    ]
+  },
+  {
+    "code": "10067",
+    "name": "Long Hai",
+    "updated_at": "2014-09-22T21:05:09.957831Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 107.233001708984,
+    "latitude": 10.3832998275757,
+    "regions": [
+      "1640"
+    ]
+  },
+  {
+    "code": "10066",
+    "name": "Xom Ba Da",
+    "updated_at": "2016-02-09T09:32:28.256071Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.883003234863,
+    "latitude": 11.1667003631592,
+    "regions": [
+      "1584"
+    ]
+  },
+  {
+    "code": "10065",
+    "name": "Xóm Ða Mẹ (1)",
+    "updated_at": "2014-09-22T21:05:09.893123Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 108.25,
+    "latitude": 16.0167007446289,
+    "regions": []
+  },
+  {
+    "code": "10064",
+    "name": "Xóm Ðé",
+    "updated_at": "2014-09-22T21:05:09.859913Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.616996765137,
+    "latitude": 17.4832992553711,
+    "regions": [
+      "16f6"
+    ]
+  },
+  {
+    "code": "10063",
+    "name": "Xóm Gò Sồng",
+    "updated_at": "2014-09-22T21:05:09.842462Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.400001525879,
+    "latitude": 21.11669921875,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "10062",
+    "name": "Xuan Dam",
+    "updated_at": "2016-02-09T09:32:30.802044Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 106.983001708984,
+    "latitude": 20.75,
+    "regions": []
+  },
+  {
+    "code": "10061",
+    "name": "Yên Bài",
+    "updated_at": "2014-09-22T21:05:09.809510Z",
+    "country": "vn",
+    "parent": null,
+    "longitude": 105.432998657227,
+    "latitude": 21.0499992370605,
+    "regions": [
+      "163b"
+    ]
+  },
+  {
+    "code": "10060",
+    "name": "Ngerbeched",
+    "updated_at": "2014-09-22T21:05:09.793362Z",
+    "country": "pw",
+    "parent": null,
+    "longitude": 134.47200012207,
+    "latitude": 7.33333015441895,
+    "regions": []
+  },
+  {
+    "code": "1005f",
+    "name": "Colonia",
+    "updated_at": "2014-09-22T21:05:09.776945Z",
+    "country": "fm",
+    "parent": null,
+    "longitude": 138.128997802734,
+    "latitude": 9.51443958282471,
+    "regions": [
+      "166f"
+    ]
+  },
+  {
+    "code": "1005e",
+    "name": "Yepan",
+    "updated_at": "2014-09-22T21:05:09.753237Z",
+    "country": "fm",
+    "parent": null,
+    "longitude": 163.031005859375,
+    "latitude": 5.34082984924316,
+    "regions": [
+      "1670"
+    ]
+  },
+  {
+    "code": "1005d",
+    "name": "Abingdon",
+    "updated_at": "2014-09-22T21:05:09.726921Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.3000030517578,
+    "latitude": 18.38330078125,
+    "regions": []
+  },
+  {
+    "code": "1005c",
+    "name": "Alma",
+    "updated_at": "2014-09-22T21:05:09.671545Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.1999969482422,
+    "latitude": 18.2833003997803,
+    "regions": []
+  },
+  {
+    "code": "1005b",
+    "name": "Belfast",
+    "updated_at": "2014-09-22T21:05:09.637903Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.38330078125,
+    "latitude": 17.88330078125,
+    "regions": []
+  },
+  {
+    "code": "1005a",
+    "name": "Black River",
+    "updated_at": "2014-09-22T21:05:09.608108Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.8499984741211,
+    "latitude": 18.0167007446289,
+    "regions": []
+  },
+  {
+    "code": "10059",
+    "name": "Boscobel",
+    "updated_at": "2014-09-22T21:05:09.591414Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.9666976928711,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "10058",
+    "name": "Boston",
+    "updated_at": "2014-09-22T21:05:09.574764Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.3499984741211,
+    "latitude": 18.1499996185303,
+    "regions": []
+  },
+  {
+    "code": "10057",
+    "name": "Brown Hill Village",
+    "updated_at": "2014-09-22T21:05:09.556901Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.7332992553711,
+    "latitude": 18.2332992553711,
+    "regions": []
+  },
+  {
+    "code": "10056",
+    "name": "Cherryfield",
+    "updated_at": "2014-09-22T21:05:09.522357Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.0333023071289,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "10055",
+    "name": "Cinnamon Hill",
+    "updated_at": "2014-09-22T21:05:09.498175Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.8167037963867,
+    "latitude": 18.5167007446289,
+    "regions": []
+  },
+  {
+    "code": "10054",
+    "name": "Claremont",
+    "updated_at": "2014-09-22T21:05:09.474035Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.1832962036133,
+    "latitude": 18.3166999816895,
+    "regions": []
+  },
+  {
+    "code": "10053",
+    "name": "Darliston",
+    "updated_at": "2014-09-22T21:05:09.448733Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.9666976928711,
+    "latitude": 18.2332992553711,
+    "regions": []
+  },
+  {
+    "code": "10052",
+    "name": "Drapers",
+    "updated_at": "2014-09-22T21:05:09.380465Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.4167022705078,
+    "latitude": 18.1833000183105,
+    "regions": []
+  },
+  {
+    "code": "10051",
+    "name": "Fairy Hill",
+    "updated_at": "2014-09-22T21:05:09.340623Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.38330078125,
+    "latitude": 18.1499996185303,
+    "regions": []
+  },
+  {
+    "code": "10050",
+    "name": "Falmouth",
+    "updated_at": "2014-09-22T21:05:09.325309Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.6500015258789,
+    "latitude": 18.5,
+    "regions": [
+      "111e"
+    ]
+  },
+  {
+    "code": "1004f",
+    "name": "Flat Grass",
+    "updated_at": "2014-09-22T21:05:09.309762Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.2833023071289,
+    "latitude": 18.0167007446289,
+    "regions": []
+  },
+  {
+    "code": "1004e",
+    "name": "Good Hope",
+    "updated_at": "2014-09-22T21:05:09.293821Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.3499984741211,
+    "latitude": 18.25,
+    "regions": []
+  },
+  {
+    "code": "1004d",
+    "name": "Green Island",
+    "updated_at": "2014-09-22T21:05:09.277905Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.2833023071289,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "1004c",
+    "name": "Hopewell",
+    "updated_at": "2014-09-22T21:05:09.230099Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.0167007446289,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "1004b",
+    "name": "Kew",
+    "updated_at": "2014-09-22T21:05:09.202980Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.1500015258789,
+    "latitude": 18.4333000183105,
+    "regions": []
+  },
+  {
+    "code": "1004a",
+    "name": "Kingston",
+    "updated_at": "2014-09-22T21:05:09.171963Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.8000030517578,
+    "latitude": 18.0,
+    "regions": []
+  },
+  {
+    "code": "10049",
+    "name": "Long Bay",
+    "updated_at": "2014-09-22T21:05:09.139383Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.3167037963867,
+    "latitude": 18.1000003814697,
+    "regions": []
+  },
+  {
+    "code": "10048",
+    "name": "Lucea",
+    "updated_at": "2014-09-22T21:05:09.110903Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.1667022705078,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "10047",
+    "name": "Mammee Bay",
+    "updated_at": "2014-09-22T21:05:09.079598Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.1667022705078,
+    "latitude": 18.4167003631592,
+    "regions": []
+  },
+  {
+    "code": "10046",
+    "name": "Mandeville",
+    "updated_at": "2014-09-22T21:05:09.047765Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.5,
+    "latitude": 18.0333003997803,
+    "regions": []
+  },
+  {
+    "code": "10045",
+    "name": "Marlie",
+    "updated_at": "2014-09-22T21:05:09.031544Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.9666976928711,
+    "latitude": 18.3166999816895,
+    "regions": []
+  },
+  {
+    "code": "10044",
+    "name": "Mavis Bank",
+    "updated_at": "2014-09-22T21:05:09.006065Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.6667022705078,
+    "latitude": 18.0333003997803,
+    "regions": []
+  },
+  {
+    "code": "10043",
+    "name": "Milford",
+    "updated_at": "2014-09-22T21:05:08.980274Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.0999984741211,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "10042",
+    "name": "Montego Bay",
+    "updated_at": "2014-09-22T21:05:08.957951Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.9167022705078,
+    "latitude": 18.4666996002197,
+    "regions": [
+      "111b"
+    ]
+  },
+  {
+    "code": "10041",
+    "name": "Negril",
+    "updated_at": "2014-09-22T21:05:08.923616Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.3499984741211,
+    "latitude": 18.2737998962402,
+    "regions": [
+      "111c"
+    ]
+  },
+  {
+    "code": "10040",
+    "name": "Negril Spots",
+    "updated_at": "2014-09-22T21:05:08.888081Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.2833023071289,
+    "latitude": 18.25,
+    "regions": []
+  },
+  {
+    "code": "1003f",
+    "name": "Newcastle",
+    "updated_at": "2014-09-22T21:05:08.861041Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.7166976928711,
+    "latitude": 18.0666999816895,
+    "regions": []
+  },
+  {
+    "code": "1003e",
+    "name": "Ocho Rios",
+    "updated_at": "2014-09-22T21:05:08.844253Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.9682006835938,
+    "latitude": 18.4050006866455,
+    "regions": []
+  },
+  {
+    "code": "1003d",
+    "name": "Oracabessa",
+    "updated_at": "2014-09-22T21:05:08.827459Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.9499969482422,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "1003c",
+    "name": "Orange Bay",
+    "updated_at": "2014-09-22T21:05:08.809324Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.3167037963867,
+    "latitude": 18.36669921875,
+    "regions": []
+  },
+  {
+    "code": "1003b",
+    "name": "Pleasant Hill",
+    "updated_at": "2014-09-22T21:05:08.791274Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.2833023071289,
+    "latitude": 18.0666999816895,
+    "regions": []
+  },
+  {
+    "code": "1003a",
+    "name": "Port Antonio",
+    "updated_at": "2014-09-22T21:05:08.774955Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.530403137207,
+    "latitude": 18.2003002166748,
+    "regions": [
+      "111a"
+    ]
+  },
+  {
+    "code": "10039",
+    "name": "Portland Village",
+    "updated_at": "2014-09-22T21:05:08.748751Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.2332992553711,
+    "latitude": 17.7667007446289,
+    "regions": []
+  },
+  {
+    "code": "10038",
+    "name": "Port Maria",
+    "updated_at": "2014-09-22T21:05:08.723060Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.9000015258789,
+    "latitude": 18.36669921875,
+    "regions": []
+  },
+  {
+    "code": "10037",
+    "name": "Port Royal",
+    "updated_at": "2014-09-22T21:05:08.692059Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.8499984741211,
+    "latitude": 17.9333000183105,
+    "regions": []
+  },
+  {
+    "code": "10036",
+    "name": "Priory",
+    "updated_at": "2014-09-22T21:05:08.657993Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.2166976928711,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "10035",
+    "name": "Roscommon",
+    "updated_at": "2014-09-22T21:05:08.602920Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.0500030517578,
+    "latitude": 18.3999996185303,
+    "regions": []
+  },
+  {
+    "code": "10034",
+    "name": "Rose Hall",
+    "updated_at": "2014-09-22T21:05:08.587797Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.7886962890625,
+    "latitude": 18.5030994415283,
+    "regions": []
+  },
+  {
+    "code": "10033",
+    "name": "Rosemount",
+    "updated_at": "2014-09-22T21:05:08.572568Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.88330078125,
+    "latitude": 18.4666996002197,
+    "regions": []
+  },
+  {
+    "code": "10032",
+    "name": "Runaway Bay",
+    "updated_at": "2014-09-22T21:05:08.554564Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.322380065918,
+    "latitude": 18.4637889862061,
+    "regions": [
+      "111e"
+    ]
+  },
+  {
+    "code": "10031",
+    "name": "Saint Annʼs Bay",
+    "updated_at": "2014-09-22T21:05:08.538625Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.1999969482422,
+    "latitude": 18.4333000183105,
+    "regions": []
+  },
+  {
+    "code": "10030",
+    "name": "Saint Maryʼs",
+    "updated_at": "2014-09-22T21:05:08.518145Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.6667022705078,
+    "latitude": 17.9167003631592,
+    "regions": []
+  },
+  {
+    "code": "1002f",
+    "name": "Silver Hill",
+    "updated_at": "2014-09-22T21:05:08.466507Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.7166976928711,
+    "latitude": 18.13330078125,
+    "regions": []
+  },
+  {
+    "code": "1002e",
+    "name": "Sommers Town",
+    "updated_at": "2014-09-22T21:05:08.402579Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.4332962036133,
+    "latitude": 18.1667003631592,
+    "regions": []
+  },
+  {
+    "code": "1002d",
+    "name": "Trafalgar",
+    "updated_at": "2014-09-22T21:05:08.351770Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.9666976928711,
+    "latitude": 18.4333000183105,
+    "regions": []
+  },
+  {
+    "code": "1002c",
+    "name": "Treasure Beach",
+    "updated_at": "2014-09-22T21:05:08.335054Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.7332992553711,
+    "latitude": 17.88330078125,
+    "regions": []
+  },
+  {
+    "code": "1002b",
+    "name": "Tryall",
+    "updated_at": "2014-09-22T21:05:08.300902Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -78.0667037963867,
+    "latitude": 18.4500007629395,
+    "regions": []
+  },
+  {
+    "code": "1002a",
+    "name": "Tumbridge",
+    "updated_at": "2014-09-22T21:05:08.283837Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -76.8167037963867,
+    "latitude": 18.0499992370605,
+    "regions": []
+  },
+  {
+    "code": "10029",
+    "name": "Whitehouse",
+    "updated_at": "2014-09-22T21:05:08.262170Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.9666976928711,
+    "latitude": 18.0832996368408,
+    "regions": []
+  },
+  {
+    "code": "10028",
+    "name": "Wiltshire",
+    "updated_at": "2014-09-22T21:05:08.236128Z",
+    "country": "jm",
+    "parent": null,
+    "longitude": -77.9499969482422,
+    "latitude": 18.4167003631592,
+    "regions": []
+  },
+  {
+    "code": "10027",
+    "name": "Neuhaus am Klausenbach",
+    "updated_at": "2014-09-22T21:05:08.202702Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 16.0333003997803,
+    "latitude": 46.86669921875,
+    "regions": [
+      "10eb"
+    ]
+  },
+  {
+    "code": "10026",
+    "name": "Rohrbach",
+    "updated_at": "2014-09-22T21:05:08.171532Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 15.7166996002197,
+    "latitude": 46.9500007629395,
+    "regions": [
+      "1009"
+    ]
+  },
+  {
+    "code": "10025",
+    "name": "Korotsko",
+    "updated_at": "2014-09-22T21:05:08.112624Z",
+    "country": "ru",
+    "parent": null,
+    "longitude": 33.2566986083984,
+    "latitude": 57.9289016723633,
+    "regions": []
+  },
+  {
+    "code": "10024",
+    "name": "Udomlya",
+    "updated_at": "2014-09-22T21:05:08.086604Z",
+    "country": "ru",
+    "parent": null,
+    "longitude": 34.9925003051758,
+    "latitude": 57.8793983459473,
+    "regions": []
+  },
+  {
+    "code": "10023",
+    "name": "Petrikovo",
+    "updated_at": "2014-09-22T21:05:08.060547Z",
+    "country": "ru",
+    "parent": null,
+    "longitude": 33.1194000244141,
+    "latitude": 57.0786018371582,
+    "regions": []
+  },
+  {
+    "code": "10022",
+    "name": "Yaqui",
+    "updated_at": "2014-09-22T21:05:07.961222Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -116.317001342773,
+    "latitude": 31.9832992553711,
+    "regions": []
+  },
+  {
+    "code": "10021",
+    "name": "Héroes de Chapultepec",
+    "updated_at": "2014-09-22T21:05:07.931350Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -116.233001708984,
+    "latitude": 31.0,
+    "regions": [
+      "13b6"
+    ]
+  },
+  {
+    "code": "10020",
+    "name": "Camalú",
+    "updated_at": "2014-09-22T21:05:07.898232Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -116.067001342773,
+    "latitude": 30.8500003814697,
+    "regions": []
+  },
+  {
+    "code": "1001f",
+    "name": "Kleinarl",
+    "updated_at": "2014-09-22T21:05:07.864068Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 13.3166999816895,
+    "latitude": 47.2832984924316,
+    "regions": [
+      "10ee"
+    ]
+  },
+  {
+    "code": "1001e",
+    "name": "Niederuntersberg",
+    "updated_at": "2014-09-22T21:05:07.827971Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 13.1833000183105,
+    "latitude": 47.3166999816895,
+    "regions": [
+      "10ee"
+    ]
+  },
+  {
+    "code": "1001d",
+    "name": "Gersbach",
+    "updated_at": "2014-09-22T21:05:07.811335Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 13.2666997909546,
+    "latitude": 47.3333015441895,
+    "regions": [
+      "10ee"
+    ]
+  },
+  {
+    "code": "1001c",
+    "name": "Ayios Nikolaos",
+    "updated_at": "2014-09-22T21:05:07.776316Z",
+    "country": "cy",
+    "parent": null,
+    "longitude": 33.7042007446289,
+    "latitude": 35.375,
+    "regions": [
+      "1388"
+    ]
+  },
+  {
+    "code": "1001b",
+    "name": "Zeybekköy",
+    "updated_at": "2014-09-22T21:05:07.755950Z",
+    "country": "cy",
+    "parent": null,
+    "longitude": 33.9124984741211,
+    "latitude": 34.9791984558105,
+    "regions": [
+      "1388"
+    ]
+  },
+  {
+    "code": "1001a",
+    "name": "Nea Dimmata",
+    "updated_at": "2014-09-22T21:05:07.731130Z",
+    "country": "cy",
+    "parent": null,
+    "longitude": 32.5231018066406,
+    "latitude": 35.1330986022949,
+    "regions": [
+      "1286"
+    ]
+  },
+  {
+    "code": "10019",
+    "name": "Radling",
+    "updated_at": "2014-09-22T21:05:07.705478Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 13.8332996368408,
+    "latitude": 47.5833015441895,
+    "regions": []
+  },
+  {
+    "code": "10018",
+    "name": "Xianshiliaochang",
+    "updated_at": "2014-09-22T21:05:07.674521Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 117.011001586914,
+    "latitude": 31.7138996124268,
+    "regions": [
+      "1033"
+    ]
+  },
+  {
+    "code": "10017",
+    "name": "Renyuexing",
+    "updated_at": "2014-09-22T21:05:07.638962Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 117.106002807617,
+    "latitude": 30.5305995941162,
+    "regions": [
+      "1033"
+    ]
+  },
+  {
+    "code": "10016",
+    "name": "Jiuhua",
+    "updated_at": "2014-09-22T21:05:07.608297Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 117.791999816895,
+    "latitude": 30.5417003631592,
+    "regions": [
+      "1033"
+    ]
+  },
+  {
+    "code": "10015",
+    "name": "Gengcheng",
+    "updated_at": "2014-09-22T21:05:07.586579Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.157997131348,
+    "latitude": 30.2332992553711,
+    "regions": [
+      "1033"
+    ]
+  },
+  {
+    "code": "10014",
+    "name": "Shiyangzhen",
+    "updated_at": "2014-09-22T21:05:07.550103Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.275001525879,
+    "latitude": 31.9500007629395,
+    "regions": [
+      "1033"
+    ]
+  },
+  {
+    "code": "10013",
+    "name": "Wangxu",
+    "updated_at": "2014-09-22T21:05:07.531706Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.449996948242,
+    "latitude": 31.36669921875,
+    "regions": []
+  },
+  {
+    "code": "10012",
+    "name": "Båkskäret",
+    "updated_at": "2014-09-22T21:05:07.513198Z",
+    "country": "se",
+    "parent": null,
+    "longitude": 20.8999996185303,
+    "latitude": 63.99169921875,
+    "regions": []
+  },
+  {
+    "code": "10011",
+    "name": "Sandöverken",
+    "updated_at": "2014-09-22T21:05:07.491295Z",
+    "country": "se",
+    "parent": null,
+    "longitude": 17.9832992553711,
+    "latitude": 62.8166999816895,
+    "regions": [
+      "125d"
+    ]
+  },
+  {
+    "code": "10010",
+    "name": "Stornäset",
+    "updated_at": "2014-09-22T21:05:07.464554Z",
+    "country": "se",
+    "parent": null,
+    "longitude": 17.4724998474121,
+    "latitude": 62.4536018371582,
+    "regions": [
+      "125d",
+      "15c3"
+    ]
+  },
+  {
+    "code": "1000f",
+    "name": "Lachtal",
+    "updated_at": "2014-09-22T21:05:07.436945Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 14.3667001724243,
+    "latitude": 47.25,
+    "regions": [
+      "1009"
+    ]
+  },
+  {
+    "code": "1000e",
+    "name": "Hinterwinkel",
+    "updated_at": "2014-09-22T21:05:07.405988Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 14.3332996368408,
+    "latitude": 47.3499984741211,
+    "regions": [
+      "1009"
+    ]
+  },
+  {
+    "code": "1000d",
+    "name": "San Rafael",
+    "updated_at": "2014-09-22T21:05:07.338453Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -107.866996765137,
+    "latitude": 27.4832992553711,
+    "regions": [
+      "15ad"
+    ]
+  },
+  {
+    "code": "1000c",
+    "name": "Irenental",
+    "updated_at": "2014-09-22T21:05:07.322422Z",
+    "country": "at",
+    "parent": null,
+    "longitude": 16.1000003814697,
+    "latitude": 48.2000007629395,
+    "regions": [
+      "154f"
+    ]
+  },
+  {
+    "code": "1000b",
+    "name": "Chapeng",
+    "updated_at": "2014-09-22T21:05:07.306699Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 117.150001525879,
+    "latitude": 34.2193984985352,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "1000a",
+    "name": "El Naranjo",
+    "updated_at": "2014-09-22T21:05:07.288762Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -99.3332977294922,
+    "latitude": 22.5333003997803,
+    "regions": [
+      "139c"
+    ]
+  },
+  {
+    "code": "10009",
+    "name": "Wangdian",
+    "updated_at": "2014-09-22T21:05:07.206062Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.587997436523,
+    "latitude": 32.7902984619141,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "10008",
+    "name": "Jianshe",
+    "updated_at": "2014-09-22T21:05:07.179891Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.592002868652,
+    "latitude": 32.0167007446289,
+    "regions": []
+  },
+  {
+    "code": "10007",
+    "name": "Shimenkan",
+    "updated_at": "2014-09-22T21:05:07.145201Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 118.791999816895,
+    "latitude": 32.0125007629395,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "10006",
+    "name": "Bylehamn",
+    "updated_at": "2014-09-22T21:05:07.110897Z",
+    "country": "se",
+    "parent": null,
+    "longitude": 18.9832992553711,
+    "latitude": 59.9000015258789,
+    "regions": [
+      "10cf"
+    ]
+  },
+  {
+    "code": "10005",
+    "name": "Xuzhuang",
+    "updated_at": "2014-09-22T21:05:07.080866Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 119.901000976562,
+    "latitude": 32.3286018371582,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "10004",
+    "name": "Hengshan",
+    "updated_at": "2014-09-22T21:05:07.060883Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 119.567001342773,
+    "latitude": 31.25,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "10003",
+    "name": "Xingzhuang",
+    "updated_at": "2014-09-22T21:05:07.041737Z",
+    "country": "cn",
+    "parent": null,
+    "longitude": 119.703002929688,
+    "latitude": 31.1721992492676,
+    "regions": [
+      "103b"
+    ]
+  },
+  {
+    "code": "10002",
+    "name": "Kino Nuevo",
+    "updated_at": "2014-09-22T21:05:07.022237Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -112.032997131348,
+    "latitude": 28.86669921875,
+    "regions": [
+      "136b"
+    ]
+  },
+  {
+    "code": "10001",
+    "name": "San Carlos",
+    "updated_at": "2014-09-22T21:05:07.004153Z",
+    "country": "mx",
+    "parent": null,
+    "longitude": -111.067001342773,
+    "latitude": 27.9666996002197,
+    "regions": [
+      "136b"
+    ]
+  },
+  {
+    "code": "10000",
+    "name": "El Agua",
+    "updated_at": "2014-09-22T21:05:06.987568Z",
+    "country": "ve",
+    "parent": null,
+    "longitude": -63.8681602478027,
+    "latitude": 11.14244556427,
+    "regions": [
+      "1440"
+    ]
+  }
+]

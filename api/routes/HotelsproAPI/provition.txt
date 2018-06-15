@@ -1,0 +1,47 @@
+POST - https://api-test.hotelspro.com/api/v2/provision/137635_1910064206_1_11_2_1_1_0_1207398519_0_1-0-0_14-100.20180611_1_2_0_104_aff770129f6746848ed47bd672d34983_
+
+header - Content-Type:application/x-www-form-urlencoded
+Accept:application/json
+Authorization:Basic QXZvZ2FUcmF2ZWxzVGVzdDpoWlhDQXBDbTNuY3duMmVN
+
+response: {
+    "code": "PUKMP3MCBGSS",
+    "destination_code": "12fcb",
+    "offer": true,
+    "price": "6.49",
+    "currency": "USD",
+    "rooms": [
+        {
+            "pax": {
+                "children_ages": [],
+                "adult_quantity": 2
+            },
+            "room_category": "Standard",
+            "room_description": "Standard Room, 1 Double Bed",
+            "nightly_prices": {
+                "2018-06-11": "6.49"
+            },
+            "room_type": "DB"
+        }
+    ],
+    "nonrefundable": true,
+    "fees": [],
+    "additional_info": "<p><b>Fees</b> <br /><p>The following fees and deposits are charged by the property at time of service, check-in, or check-out. </p> <ul>                   <li>Rollaway bed fee: INR 150 per day</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p></p>. -This booking is non-amendable, If you need to make an amendment, please cancel and re-book for the new dates or room type.. Taxes are subject to change based on Goods and Services Tax (GST) implementation. For more details, please contact the property using the information on the reservation confirmation received after booking.. 1 double bed. Standard Room, 1 Double Bed. Breakfast for 2. Free Wireless Internet",
+    "supports_cancellation": true,
+    "taxes": [],
+    "hotel_code": "137635",
+    "hotel_currency": null,
+    "hotel_price": null,
+    "checkin": "2018-06-11",
+    "meal_type": "BC",
+    "policies": [
+        {
+            "ratio": "1.00",
+            "days_remaining": 14
+        }
+    ],
+    "view": false,
+    "checkout": "2018-06-12",
+    "minimum_selling_price": "6.69",
+    "pay_at_hotel": false
+}

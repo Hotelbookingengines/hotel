@@ -1,0 +1,82 @@
+[
+  {
+    "code": "2d",
+    "name": "Activities & Sports",
+    "updated_at": "2016-02-11T15:26:13.080951Z"
+  },
+  {
+    "code": "2c",
+    "name": "Pools & Wellness",
+    "updated_at": "2016-02-11T15:26:13.086102Z"
+  },
+  {
+    "code": "2b",
+    "name": "Hotel Facilities",
+    "updated_at": "2016-02-11T15:26:13.053984Z"
+  },
+  {
+    "code": "2a",
+    "name": "Hotel Services",
+    "updated_at": "2016-02-11T15:26:13.059651Z"
+  },
+  {
+    "code": "26",
+    "name": "Parking",
+    "updated_at": "2016-02-11T15:26:13.070209Z"
+  },
+  {
+    "code": "25",
+    "name": "Rooms",
+    "updated_at": "2016-02-11T15:26:13.091685Z"
+  },
+  {
+    "code": "24",
+    "name": "General",
+    "updated_at": "2016-02-11T15:26:13.112883Z"
+  },
+  {
+    "code": "23",
+    "name": "Shopping",
+    "updated_at": "2016-02-11T15:26:13.096846Z"
+  },
+  {
+    "code": "1e",
+    "name": "Payment",
+    "updated_at": "2016-02-11T15:26:13.075725Z"
+  },
+  {
+    "code": "19",
+    "name": "Transportation",
+    "updated_at": "2016-02-11T15:26:13.102010Z"
+  },
+  {
+    "code": "17",
+    "name": "Beach",
+    "updated_at": "2016-02-11T15:26:13.029367Z"
+  },
+  {
+    "code": "16",
+    "name": "Policy",
+    "updated_at": "2016-02-11T15:26:13.118059Z"
+  },
+  {
+    "code": "15",
+    "name": "Internet",
+    "updated_at": "2016-02-11T15:26:13.046735Z"
+  },
+  {
+    "code": "14",
+    "name": "Location",
+    "updated_at": "2016-02-11T15:26:13.064964Z"
+  },
+  {
+    "code": "13",
+    "name": "Food & Drink",
+    "updated_at": "2016-02-11T15:26:13.036475Z"
+  },
+  {
+    "code": "11",
+    "name": "Entertainment",
+    "updated_at": "2016-02-11T15:26:13.107612Z"
+  }
+]

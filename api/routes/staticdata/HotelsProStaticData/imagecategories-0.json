@@ -1,0 +1,347 @@
+[
+  {
+    "code": "54",
+    "updated_at": "2015-06-19T08:20:00.560660Z",
+    "name": "Beach/Ocean View"
+  },
+  {
+    "code": "53",
+    "updated_at": "2015-06-19T08:20:00.554619Z",
+    "name": "Pet-Friendly"
+  },
+  {
+    "code": "52",
+    "updated_at": "2015-06-19T08:20:00.545276Z",
+    "name": "Map"
+  },
+  {
+    "code": "51",
+    "updated_at": "2015-06-19T08:20:00.532450Z",
+    "name": "Breakfast/Breakfast Room"
+  },
+  {
+    "code": "50",
+    "updated_at": "2015-06-19T08:20:00.526493Z",
+    "name": "Logo"
+  },
+  {
+    "code": "4f",
+    "updated_at": "2015-06-19T08:20:00.493411Z",
+    "name": "Exterior"
+  },
+  {
+    "code": "4e",
+    "updated_at": "2015-06-19T08:20:00.446672Z",
+    "name": "Other"
+  },
+  {
+    "code": "4d",
+    "updated_at": "2015-06-19T08:20:00.433655Z",
+    "name": "Surrounding"
+  },
+  {
+    "code": "4c",
+    "updated_at": "2015-06-19T08:20:00.413559Z",
+    "name": "Fitness Center/ Gym"
+  },
+  {
+    "code": "4b",
+    "updated_at": "2015-06-19T08:20:00.397354Z",
+    "name": "Snow and Ski Sports"
+  },
+  {
+    "code": "4a",
+    "updated_at": "2015-06-19T08:20:00.391310Z",
+    "name": "Promotional"
+  },
+  {
+    "code": "49",
+    "updated_at": "2015-06-19T08:20:00.385216Z",
+    "name": "Sundeck"
+  },
+  {
+    "code": "48",
+    "updated_at": "2015-06-19T08:20:00.362039Z",
+    "name": "Terrace /Balcony"
+  },
+  {
+    "code": "47",
+    "updated_at": "2015-06-19T08:20:00.338941Z",
+    "name": "Golf"
+  },
+  {
+    "code": "46",
+    "updated_at": "2015-06-19T08:20:00.323861Z",
+    "name": "Health club"
+  },
+  {
+    "code": "45",
+    "updated_at": "2015-06-19T08:20:00.304130Z",
+    "name": "Meeting Room"
+  },
+  {
+    "code": "44",
+    "updated_at": "2015-06-19T08:20:00.294733Z",
+    "name": "Minibar / Fridge"
+  },
+  {
+    "code": "43",
+    "updated_at": "2015-06-19T08:20:00.292022Z",
+    "name": "Room Type 3"
+  },
+  {
+    "code": "42",
+    "updated_at": "2016-05-17T15:31:05.473684Z",
+    "name": "Room"
+  },
+  {
+    "code": "41",
+    "updated_at": "2015-06-19T08:20:00.283372Z",
+    "name": "City View"
+  },
+  {
+    "code": "40",
+    "updated_at": "2015-06-19T08:20:00.263049Z",
+    "name": "Reception"
+  },
+  {
+    "code": "3f",
+    "updated_at": "2015-06-19T08:20:00.253384Z",
+    "name": "In-Room Kitchen"
+  },
+  {
+    "code": "3e",
+    "updated_at": "2015-06-19T08:20:00.237183Z",
+    "name": "Parking & Shuttle"
+  },
+  {
+    "code": "3d",
+    "updated_at": "2015-06-19T08:20:00.220843Z",
+    "name": "Garden View"
+  },
+  {
+    "code": "3c",
+    "updated_at": "2015-06-19T08:20:00.214642Z",
+    "name": "Natural Pool"
+  },
+  {
+    "code": "3b",
+    "updated_at": "2015-06-19T08:20:00.205232Z",
+    "name": "Outdoor Dining"
+  },
+  {
+    "code": "3a",
+    "updated_at": "2015-06-19T08:20:00.195844Z",
+    "name": "Casino"
+  },
+  {
+    "code": "39",
+    "updated_at": "2015-06-19T08:20:00.176420Z",
+    "name": "Guestroom "
+  },
+  {
+    "code": "38",
+    "updated_at": "2015-06-19T08:20:00.156788Z",
+    "name": "Restaurant"
+  },
+  {
+    "code": "37",
+    "updated_at": "2015-06-19T08:20:00.150776Z",
+    "name": "BBQ / Picnic Area"
+  },
+  {
+    "code": "36",
+    "updated_at": "2015-06-19T08:20:00.144816Z",
+    "name": "Basics"
+  },
+  {
+    "code": "35",
+    "updated_at": "2015-06-19T08:20:00.132001Z",
+    "name": "Hotel Entrance"
+  },
+  {
+    "code": "34",
+    "updated_at": "2015-06-19T08:20:00.088744Z",
+    "name": "Pool"
+  },
+  {
+    "code": "33",
+    "updated_at": "2015-06-19T08:20:00.065858Z",
+    "name": "Lobby"
+  },
+  {
+    "code": "32",
+    "updated_at": "2015-06-19T08:20:00.059823Z",
+    "name": "View of skyline"
+  },
+  {
+    "code": "31",
+    "updated_at": "2015-06-19T08:20:00.050347Z",
+    "name": "Courtyard View"
+  },
+  {
+    "code": "30",
+    "updated_at": "2015-06-19T08:20:00.040988Z",
+    "name": "Wedding"
+  },
+  {
+    "code": "2f",
+    "updated_at": "2015-06-19T08:20:00.035006Z",
+    "name": "In-Room Dining Area"
+  },
+  {
+    "code": "2e",
+    "updated_at": "2015-06-19T08:19:59.953899Z",
+    "name": "Recreation & Activities"
+  },
+  {
+    "code": "2d",
+    "updated_at": "2015-06-19T08:19:59.944528Z",
+    "name": "Water park /Aqua center"
+  },
+  {
+    "code": "2c",
+    "updated_at": "2015-06-19T08:19:59.893720Z",
+    "name": "Spa/Bath/Sauna"
+  },
+  {
+    "code": "2b",
+    "updated_at": "2015-06-19T08:19:59.884175Z",
+    "name": "Lake View"
+  },
+  {
+    "code": "2a",
+    "updated_at": "2015-06-19T08:19:59.874786Z",
+    "name": "Aerial view"
+  },
+  {
+    "code": "29",
+    "updated_at": "2015-06-19T08:19:59.868745Z",
+    "name": "Turkish Bath"
+  },
+  {
+    "code": "28",
+    "updated_at": "2015-06-19T08:19:59.862713Z",
+    "name": "Mountain View"
+  },
+  {
+    "code": "27",
+    "updated_at": "2015-06-19T08:19:59.846387Z",
+    "name": "Business"
+  },
+  {
+    "code": "26",
+    "updated_at": "2015-06-19T08:19:59.840335Z",
+    "name": "In-Room Business Center"
+  },
+  {
+    "code": "25",
+    "updated_at": "2015-06-19T08:19:59.834325Z",
+    "name": "Concierge Desk"
+  },
+  {
+    "code": "24",
+    "updated_at": "2015-06-19T08:19:59.828306Z",
+    "name": "Executive Lounge"
+  },
+  {
+    "code": "23",
+    "updated_at": "2015-06-19T08:19:59.822248Z",
+    "name": "Hot News"
+  },
+  {
+    "code": "22",
+    "updated_at": "2015-06-19T08:19:59.808864Z",
+    "name": "Beach"
+  },
+  {
+    "code": "21",
+    "updated_at": "2015-06-19T08:19:59.775700Z",
+    "name": "Food / Dining Area"
+  },
+  {
+    "code": "20",
+    "updated_at": "2015-06-19T08:19:59.756127Z",
+    "name": "Sports Facility /Court"
+  },
+  {
+    "code": "1f",
+    "updated_at": "2015-06-19T08:19:59.743296Z",
+    "name": "Suite"
+  },
+  {
+    "code": "1e",
+    "updated_at": "2015-06-19T08:19:59.737328Z",
+    "name": "Childrens Pool"
+  },
+  {
+    "code": "1d",
+    "updated_at": "2015-06-19T08:19:59.727775Z",
+    "name": "Marina / Dock"
+  },
+  {
+    "code": "1c",
+    "updated_at": "2015-06-19T08:19:59.721709Z",
+    "name": "Room Service - Dining"
+  },
+  {
+    "code": "1b",
+    "updated_at": "2015-06-19T08:19:59.712172Z",
+    "name": "Massage / Treatment Room"
+  },
+  {
+    "code": "1a",
+    "updated_at": "2015-06-19T08:19:59.699364Z",
+    "name": "View from Hotel"
+  },
+  {
+    "code": "19",
+    "updated_at": "2015-06-19T08:19:59.683074Z",
+    "name": "Lounge"
+  },
+  {
+    "code": "18",
+    "updated_at": "2015-06-19T08:19:59.653239Z",
+    "name": "Banquet/Ballroom"
+  },
+  {
+    "code": "17",
+    "updated_at": "2015-06-19T08:19:59.609516Z",
+    "name": "Cafe/Bar"
+  },
+  {
+    "code": "16",
+    "updated_at": "2015-06-19T08:19:59.596534Z",
+    "name": "Featured Image"
+  },
+  {
+    "code": "15",
+    "updated_at": "2015-06-19T08:19:59.556274Z",
+    "name": "Property Facilities"
+  },
+  {
+    "code": "14",
+    "updated_at": "2015-06-19T08:19:59.536589Z",
+    "name": "Guest room amenity"
+  },
+  {
+    "code": "13",
+    "updated_at": "2015-06-19T08:19:59.523679Z",
+    "name": "Living Room"
+  },
+  {
+    "code": "12",
+    "updated_at": "2015-06-19T08:19:59.500290Z",
+    "name": "Bathroom"
+  },
+  {
+    "code": "11",
+    "updated_at": "2015-06-19T08:19:59.476500Z",
+    "name": "Childrens Activities & Playground"
+  },
+  {
+    "code": "10",
+    "updated_at": "2015-06-19T08:19:59.461787Z",
+    "name": "Conference"
+  }
+]
