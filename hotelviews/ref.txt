@@ -1,0 +1,196 @@
+use hotels
+> show collections
+
+final table name : continents - khant
+
+
+
+bootstrap ref : https://react-bootstrap.github.io/getting-started/introduction/
+
+                <li key={item.name}>
+                  {item.name} {item.postId}
+                </li>
+
+https://sandbox.24x7rooms.com/ws/index.php?action=hotel_detail&username=trip_ws&password=supplier@123&hotel_id=OT000227100&unique_id=&gzip=no 
+https://sandbox.24x7rooms.com/ws/index.php?action=hotel_search&username=trip_ws&password=supplier@123&checkin_date=01/05/2015&checkout_date=02/05/2015&sel_country=IN&sel_city=BOM-&chk_ratings=3.0,4.0,5.0&sel_nationality=IN&sel_currency=USD&availableonly=1&number_of_rooms=1&twin1=&roomDetails=[{"numberOfAdults":"2","numberOfChild":"0","ChildAge":"0"} ]&gzip=no
+ 
+User Name : trip_ws
+Password : supplier@123
+ 
+ 
+Login E-mail: denzilwick@gmail.com
+User Code: AG-919505-AH
+Password: 1624AnN@#$
+ 
+AG-919505-AH_1 1624AnN@#$
+
+
+xmlsupport@hotelspro.com
+furkanp@hotelspro.com
+
+<div className="form-row">
+                <label className="col-form-label">About the hotel : </label> 
+                {items.facility.about.map(recipe => {
+                    return (
+                      <textarea className="form-control" placeholder="Enter Hotel Adderess" rows="3">{recipe}</textarea>
+                    )
+                  })
+                  }                
+            </div>  
+            <div className="form-row">
+                <label className="col-form-label">Location : </label> 
+                {items.facility.Location.map(recipe => {
+                    return (
+                      <textarea className="form-control" placeholder="Enter Hotel Adderess" rows="3">{recipe}</textarea>
+                    )
+                  })
+                  }
+            </div>  
+            <div className="form-row">
+                <label className="col-form-label">Features : </label> 
+                {items.facility.Features.map(recipe => {
+                    return (
+                      <textarea className="form-control" placeholder="Enter Hotel Adderess" rows="3">{recipe}</textarea>
+                    )
+                  })
+                  }
+            </div>  
+            <div className="form-row">
+                <label className="col-form-label">Rooms : </label> 
+                {items.facility.RoomsDetails.map(recipe => {
+                    return (
+                      <textarea className="form-control" placeholder="Enter Hotel Adderess" rows="3">{recipe}</textarea>
+                    )
+                  })
+                  }
+            </div>  
+            <div className="form-group">
+                <label className="col-form-label">Amenities : </label> 
+                <div className="row">
+                  {items.facility.amenities.map(recipe => {
+                        return (
+                          <div className="col-4">
+                            <input className="form-check-input" type="checkbox" id="gridCheck1" />
+                            <p className="card-text">{recipe}</p>
+                          </div>
+                        )
+                    })
+                  }
+                </div>  
+            </div> 
+            <div className="form-group">
+                <label className="col-form-label">Facilities : </label> 
+                <div className="row">
+                  {items.facility.Facilities.map(recipe => {
+                        return (
+                          <div className="col-4">
+                            <input className="form-check-input" type="checkbox" id="gridCheck1" />
+                            <p className="card-text">{recipe}</p>
+                          </div>
+                        )
+                    })
+                  }
+                </div>  
+            </div>  
+            <div className="form-group">
+                <label className="col-form-label">Hotel Type : </label> 
+                <div className="row">
+                  {items.facility.type.map(recipe => {
+                        return (
+                          <div className="col-4">
+                            <input className="form-check-input" type="checkbox" id="gridCheck1" />
+                            <p className="card-text">{recipe}</p>
+                          </div>
+                        )
+                    })
+                  }
+                </div>  
+            </div>  
+            <div className="form-group">
+                <label className="col-form-label">Hotel themes : </label> 
+                <div className="row">
+                  {items.facility.themes.map(recipe => {
+                        return (
+                          <div className="col-4">
+                            <input className="form-check-input" type="checkbox" id="gridCheck1" />
+                            <p className="card-text">{recipe}</p>
+                          </div>
+                        )
+                    })
+                  }
+                </div>
+            </div>    
+            <div className="form-group row">
+              <div className="col-sm-10">
+                <button type="submit" className="btn btn-primary">Update Hotel detail</button>
+              </div>
+            </div>
+
+
+{ "_id" : ObjectId("5aebc0c5b4543a08c54d9cda"), "name" : "ibis  Bangkok Nana", "star" : 3, "code" : 175146, "img" : "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg", "addr" : "SUKHUMVIT ROAD SOI 4 KLONGTOEY Bangkok", "locat" : "Sukhumvit" }
+{ "_id" : ObjectId("5aebc0c5b4543a08c54d9cdb"), "name" : " Bangkok Hotel Lotus Sukhumvit", "star" : 4, "code" : 175147, "img" : "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg", "addr" : "SOI DAENG UDOM SUKHUMVIT 33 KLONGTON Bangkok", "locat" : "Sukhumvit" }
+{ "_id" : ObjectId("5aebc0c5b4543a08c54d9cdc"), "name" : "Mercure  Bangkok Siam", "star" : 4, "code" : 175148, "img" : "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg", "addr" : "RAMA 1 RD WANGMAI PATHUMWAN  Bangkok", "locat" : "Siam-Ratchadamri" }
+{ "_id" : ObjectId("5aebc0c5b4543a08c54d9cdd"), "name" : "Sofitel So  Bangkok", "star" : 5, "code" : 175149, "img" : "https://res.cloudinary.com/cleartrip/image/upload/w_200,h_200,f_auto,q_auto,c_fill/hotels/places/hotels/4014/40140/images/Result_w.jpg", "addr" : "NORTH SATHORN ROAD BANGRAK Bangkok", "locat" : "Sathorn" }           
+
+
+ des=2387b&nat=in&st=2018-05-14&ed=2018-05-15&r=1&a=2,2,2,2,2&c=0,0,0,0,0&h=
+
+  const myquery = { searchParam: req.body.des };
+                const newvalues = { $set: { Count: numCount } };
+                dbs.production.collection("hotelDestination").updateOne(myquery, newvalues, function (err, res) {
+                    if (err) throw err;
+                    console.log("Number of record updated hotelDestination : " + numCount);
+                });
+          {"/booking/" + rooms.rooms[0].code + '?code='+ items.code}
+          
+ https://api-test.hotelspro.com/api/v2/book/PDFLQ25NBNTE?name=1,test,test,adult&name=[1,testb,testb,adult]&expected_price=24.19 
+
+ https://api-test.hotelspro.com/api/v2/book/PDFLQ25NBNTE?name=1,test,test,adult&name=1,testb,testb,adult&|https://api-test.hotelspro.com/api/v2/book/PDFLQ25NBNTE?name=1,test,test,adult&expected_price=24.19]expected_price=24.19 
+
+ https://api-test.hotelspro.com/api/v2/book/PDFLQ25NBNTE?name=1,test,test,adult&name=1,testa,testa,adult
+
+
+
+https://api-test.hotelspro.com/api/v2/book/PNGQSDNTU7MD?name=1,test,test,adult&[name=1,testb,testb,adult&|https://api-test.hotelspro.com/api/v2/book/PNGQSDNTU7MD?name=1,test,test,adult&expected_price=24.19]expected_price=24.19
+
+
+
+
+
+http://api.hotelspro.com/4.1_test/hotel/b2bHotelJSON.php?method=makeHotelBooking&apiKey=eGFMWDBjYmVqcnFPNFpQMHBsVytlaUhGNzR6dkFBcU1xRXl3WkcrV0hLdTlLSzVZT3NyYXFDZlc5a0xOQWtoWg==
+&processId=HG-52628524&agencyReferenceNumber=&leadTravellerInfo[paxInfo][paxType]=Adult&
+leadTravellerInfo[paxInfo][title]=Mr&leadTravellerInfo[paxInfo][firstName]=John&leadTravellerInfo[paxInfo][lastName]=DOE&leadTravellerInfo[nationality]=UK&
+otherTravellerInfo[0][title]=Mr&otherTravellerInfo[0][firstName]=Ahmetr&otherTravellerInfo[0]
+
+
+https://api-test.hotelspro.com
+
+/api/v2/book/PZ6LD2BHRWES?name=1,test,test,adult&[name=1,testb,testb,adult&|https://api-test.hotelspro.com/api/v2/book/PZ6LD2BHRWES?name=1,test,test,adult&expected_price=24.19]expected_price=24.19
+
+
+/api/v2/book/PZ6LD2BHRWES?name=1,test,test,adult&[name=1,testb,testb,adult&|https://api-test.hotelspro.com/api/v2/book/PZ6LD2BHRWES?name=1,test,test,adult&expected_price=24.19]expected_price=24.19
+/api/v2/book/PG6G7VQBG4QG?name=1,test,test,adult&[name=1,testb,testb,adult&|https://api-test.hotelspro.com/api/v2/book/PG6G7VQBG4QG?name=1,test,test,adult&name=1,testb,testb,adult&expected_price=24.19]expected_price=24.19',
+
+<Select
+                id="state-select"
+                ref={(ref) => { this.select = ref; }}
+                onBlurResetsInput={false}
+                onSelectResetsInput={false}
+                autoFocus
+                options={optionsUS}
+                name="des"
+                clearable={this.state.clearable}
+                disabled={this.state.disabled}
+                value={this.state.selectValue}
+                onChange={this.autoSearch}
+                rtl={this.state.rtl}
+                searchable={this.state.searchable}
+              />  
+
+130+136
+ 
+
+301
+
+http://api.tripadvisor.com/api/partner/2.0/location/155507?key=036357FA13DF4883A096FF9AFAE86E7A
+https://www.tripadvisor.com/WidgetEmbed-cdspropertydetail?display=true&partnerId=036357FA13DF4883A096FF9AFAE86E7A&locationId=122ced
